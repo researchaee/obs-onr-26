@@ -1,0 +1,60 @@
+name: Recolha diária de clima (IPMA e SNIRH)
+
+on:
+  schedule:
+    # todos os dias às 05:37 UTC (05:37 em Lisboa no inverno, 06:37 no verão)
+    - cron: "37 5 * * *"
+  workflow_dispatch:
+    inputs:
+      snirh_completo:
+        description: "Voltar a pedir ao SNIRH a série completa desde 1990"
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+    paths:
+      - "scripts/onr_clima_recolha.py"
+      - ".github/workflows/clima-diario.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: clima-diario
+  cancel-in-progress: false
+
+jobs:
+  recolha:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Dependências
+        run: pip install --quiet requests openpyxl
+
+      - name: Recolher
+        run: |
+          if [ "${{ inputs.snirh_completo }}" = "true" ]; then
+            python scripts/onr_clima_recolha.py --snirh-completo
+          else
+            python scripts/onr_clima_recolha.py
+          fi
+
+      - name: Gravar no repositório
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados/clima
+          if git diff --cached --quiet; then
+            echo "Sem alterações."
+          else
+            git commit -m "Clima: recolha de $(date -u +%Y-%m-%d)"
+            git pull --rebase --quiet
+            git push
+          fi
