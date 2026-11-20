@@ -341,12 +341,14 @@ def main() -> int:
     ap.add_argument("--sem-snirh", action="store_true", help="só IPMA")
     ap.add_argument("--so-snirh", action="store_true", help="só SNIRH")
     ap.add_argument("--orcamento-snirh", type=float, default=20, help="minutos máximos para o SNIRH (por omissão 20)")
+    ap.add_argument("--registo", default="_Recolhas.csv",
+                    help="ficheiro de registo em dados/clima (o PC usa _Recolhas_SNIRH.csv)")
     ap.add_argument("--dias-ao-dia", type=int, default=400, help="dias mantidos ao dia (por omissão 400)")
     args = ap.parse_args()
 
     agora = datetime.now(timezone.utc).replace(microsecond=0, tzinfo=None).isoformat() + "Z"
     f_dia, f_mes = PASTA / "fClima_Diario.csv", PASTA / "fClima_Mensal.csv"
-    f_alb, f_reg = PASTA / "fClima_Albufeira.csv", PASTA / "_Recolhas.csv"
+    f_alb, f_reg = PASTA / "fClima_Albufeira.csv", PASTA / args.registo
 
     diario = {(r["Data"], r["IDConcelho"], r["Indicador"]): r for r in ler_csv(f_dia, COLS_CLIMA)}
     mensal = {(r["Data"], r["IDConcelho"], r["Indicador"]): r for r in ler_csv(f_mes, COLS_CLIMA)}
@@ -356,10 +358,10 @@ def main() -> int:
     ok_ipma = True
     if not args.so_snirh:
         ok_ipma = recolher_ipma(diario, registo, agora)
-    movidas = compactar(diario, mensal, args.dias_ao_dia)
-    if movidas:
-        registo.append(dict(Momento=agora, Fonte="ONR", Indicador="compactação diário → mensal",
-                            LinhasNovas=movidas, Estado="OK"))
+        movidas = compactar(diario, mensal, args.dias_ao_dia)
+        if movidas:
+            registo.append(dict(Momento=agora, Fonte="ONR", Indicador="compactação diário → mensal",
+                                LinhasNovas=movidas, Estado="OK"))
 
     ok_snirh = True
     if not args.sem_snirh:
@@ -367,9 +369,12 @@ def main() -> int:
         compactar_albufeiras(alb, args.dias_ao_dia)
 
     ordem = lambda r: (r["Data"], int(r.get("IDConcelho") or r.get("IDAlbufeira") or 0), r["Indicador"])
-    gravar_csv(f_dia, COLS_CLIMA, sorted(diario.values(), key=ordem))
-    gravar_csv(f_mes, COLS_CLIMA, sorted(mensal.values(), key=ordem))
-    gravar_csv(f_alb, COLS_ALB, sorted(alb.values(), key=ordem))
+    # cada execução só grava o que recolheu: o IPMA (GitHub) e o SNIRH (PC) nunca tocam no mesmo ficheiro
+    if not args.so_snirh:
+        gravar_csv(f_dia, COLS_CLIMA, sorted(diario.values(), key=ordem))
+        gravar_csv(f_mes, COLS_CLIMA, sorted(mensal.values(), key=ordem))
+    if not args.sem_snirh:
+        gravar_csv(f_alb, COLS_ALB, sorted(alb.values(), key=ordem))
     gravar_csv(f_reg, COLS_REG, ler_csv(f_reg, COLS_REG) + registo)
 
     for r in registo:
@@ -382,6 +387,8 @@ def main() -> int:
         return 1
     if not ok_snirh:
         print("AVISO: o SNIRH não devolveu dados nesta execução.", file=sys.stderr)
+        if args.so_snirh:
+            return 2
     return 0
 
 
