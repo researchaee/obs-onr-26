@@ -106,11 +106,11 @@ def num(txt) -> str:
     return f"{v:.6f}".rstrip("0").rstrip(".") if v != int(v) else str(int(v))
 
 
-def get(url: str, **kw) -> requests.Response:
+def get(url: str, tentativas: int = 3, timeout: int = 90, **kw) -> requests.Response:
     ultimo = None
-    for tentativa in range(3):
+    for tentativa in range(tentativas):
         try:
-            r = requests.get(url, headers=HEADERS, timeout=90, **kw)
+            r = requests.get(url, headers=HEADERS, timeout=timeout, **kw)
             if r.status_code == 200:
                 return r
             ultimo = f"HTTP {r.status_code}"
@@ -118,7 +118,8 @@ def get(url: str, **kw) -> requests.Response:
                 break
         except requests.RequestException as e:  # rede
             ultimo = str(e)[:200]
-        time.sleep(5 * (tentativa + 1))
+        if tentativa < tentativas - 1:
+            time.sleep(5 * (tentativa + 1))
     raise RuntimeError(ultimo or "sem resposta")
 
 
@@ -224,7 +225,7 @@ RE_LINHA = re.compile(r'^\s*"?(\d{2})/(\d{2})/(\d{4})(?:\s+\d{2}:\d{2}(?::\d{2})
 
 
 def pedir_snirh(site: str, par: str, de: date, ate: date) -> list[tuple[date, str]]:
-    resp = get(SNIRH_URL, params=dict(sites=site, pars=par, tmin=de.strftime("%d/%m/%Y"),
+    resp = get(SNIRH_URL, tentativas=2, timeout=40, params=dict(sites=site, pars=par, tmin=de.strftime("%d/%m/%Y"),
                                       tmax=ate.strftime("%d/%m/%Y"), formato="csv"))
     texto = resp.content.decode("iso-8859-1")
     out = []
@@ -239,7 +240,7 @@ def pedir_snirh(site: str, par: str, de: date, ate: date) -> list[tuple[date, st
     return out
 
 
-def recolher_snirh(alb: dict, registo: list, agora: str, completo: bool) -> bool:
+def recolher_snirh(alb: dict, registo: list, agora: str, completo: bool, orcamento_min: float) -> bool:
     try:
         albufeiras = ler_albufeiras()
     except Exception as e:
@@ -254,7 +255,19 @@ def recolher_snirh(alb: dict, registo: list, agora: str, completo: bool) -> bool
         if ultima[k] is None or d > ultima[k]:
             ultima[k] = d
     ok_algum = False
+    inicio = time.monotonic()
+    falhas_seguidas = 0
     for a in albufeiras:
+        if time.monotonic() - inicio > orcamento_min * 60:
+            registo.append(dict(Momento=agora, Fonte="SNIRH", Indicador="interrompido", LinhasNovas=0,
+                                Estado="PARCIAL", Mensagem=f"orçamento de {orcamento_min:g} min esgotado; "
+                                "continua na próxima execução"))
+            break
+        if falhas_seguidas >= 4:
+            registo.append(dict(Momento=agora, Fonte="SNIRH", Indicador="interrompido", LinhasNovas=0,
+                                Estado="ERRO", Mensagem="4 pedidos seguidos sem resposta; SNIRH inacessível "
+                                "a partir do GitHub nesta execução"))
+            break
         ida = str(a["IDAlbufeira"])
         site = str(a["SiteID_SNIRH"]).strip()
         for par, (ind, uni) in SNIRH_PARAMETROS.items():
@@ -267,9 +280,15 @@ def recolher_snirh(alb: dict, registo: list, agora: str, completo: bool) -> bool
             for de, ate in blocos:
                 try:
                     pontos += pedir_snirh(site, par, de, ate)
+                    falhas_seguidas = 0
                 except RuntimeError as e:
                     erros.append(f"{de.year}-{ate.year}: {e}")
+                    falhas_seguidas += 1
+                    if falhas_seguidas >= 4:
+                        break
                 time.sleep(0.5)
+            print(f"SNIRH {a.get('Albufeira')} · {ind}: {len(pontos)} pontos"
+                  + (f" ({'; '.join(erros)})" if erros else ""), flush=True)
             novas = 0
             for d, v in pontos:
                 chave = (d.isoformat(), ida, ind)
@@ -319,7 +338,9 @@ def compactar_albufeiras(alb: dict, dias_ao_dia: int) -> int:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("--snirh-completo", action="store_true", help="volta a pedir ao SNIRH a série desde 1990")
-    ap.add_argument("--sem-snirh", action="store_true")
+    ap.add_argument("--sem-snirh", action="store_true", help="só IPMA")
+    ap.add_argument("--so-snirh", action="store_true", help="só SNIRH")
+    ap.add_argument("--orcamento-snirh", type=float, default=20, help="minutos máximos para o SNIRH (por omissão 20)")
     ap.add_argument("--dias-ao-dia", type=int, default=400, help="dias mantidos ao dia (por omissão 400)")
     args = ap.parse_args()
 
@@ -332,7 +353,9 @@ def main() -> int:
     alb = {(r["Data"], r["IDAlbufeira"], r["Indicador"]): r for r in ler_csv(f_alb, COLS_ALB)}
     registo: list[dict] = []
 
-    ok_ipma = recolher_ipma(diario, registo, agora)
+    ok_ipma = True
+    if not args.so_snirh:
+        ok_ipma = recolher_ipma(diario, registo, agora)
     movidas = compactar(diario, mensal, args.dias_ao_dia)
     if movidas:
         registo.append(dict(Momento=agora, Fonte="ONR", Indicador="compactação diário → mensal",
@@ -340,7 +363,7 @@ def main() -> int:
 
     ok_snirh = True
     if not args.sem_snirh:
-        ok_snirh = recolher_snirh(alb, registo, agora, args.snirh_completo)
+        ok_snirh = recolher_snirh(alb, registo, agora, args.snirh_completo, args.orcamento_snirh)
         compactar_albufeiras(alb, args.dias_ao_dia)
 
     ordem = lambda r: (r["Data"], int(r.get("IDConcelho") or r.get("IDAlbufeira") or 0), r["Indicador"])
