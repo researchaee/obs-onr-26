@@ -14,3 +14,6 @@ Momento,Fonte,Indicador,LinhasNovas,PeriodoDe,PeriodoAte,Estado,Mensagem
 2026-11-20T15:10:51Z,SNIRH,Estevainha (1627753166) · Volume armazenado,0,,,ERRO,"1990-2000: HTTP 403; 2001-2010: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer')); 2011-2026: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
 2026-11-20T15:10:51Z,SNIRH,Estevainha (1627753166) · Cota,0,,,ERRO,1990-2000: HTTP 403
 2026-11-20T15:10:51Z,SNIRH,interrompido,0,,,ERRO,4 pedidos seguidos sem resposta; SNIRH inacessível a partir do GitHub nesta execução
+2026-11-20T15:15:39Z,IPMA,prec-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-10-31,2026-11-19,OK,
+2026-11-20T15:15:39Z,IPMA,t2m-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-10-31,2026-11-19,OK,
+2026-11-20T15:15:39Z,IPMA,et0-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-05-31,2026-06-19,ATRASO,último dia publicado pelo IPMA tem 154 dias
