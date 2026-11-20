@@ -26,7 +26,7 @@ concurrency:
 jobs:
   recolha:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
 
@@ -37,15 +37,12 @@ jobs:
       - name: Dependências
         run: pip install --quiet requests openpyxl
 
-      - name: Recolher
-        run: |
-          if [ "${{ inputs.snirh_completo }}" = "true" ]; then
-            python scripts/onr_clima_recolha.py --snirh-completo
-          else
-            python scripts/onr_clima_recolha.py
-          fi
+      # 1. IPMA primeiro e gravado logo, para que um problema no SNIRH nunca faça perder dias do IPMA
+      - name: Recolher IPMA
+        timeout-minutes: 15
+        run: python scripts/onr_clima_recolha.py --sem-snirh
 
-      - name: Gravar no repositório
+      - name: Gravar IPMA
         if: always()
         run: |
           git config user.name "github-actions[bot]"
@@ -54,7 +51,30 @@ jobs:
           if git diff --cached --quiet; then
             echo "Sem alterações."
           else
-            git commit -m "Clima: recolha de $(date -u +%Y-%m-%d)"
+            git commit -m "Clima IPMA: recolha de $(date -u +%Y-%m-%d)"
+            git pull --rebase --quiet
+            git push
+          fi
+
+      # 2. SNIRH depois, com limite de tempo; se falhar não falha a execução
+      - name: Recolher SNIRH
+        timeout-minutes: 25
+        continue-on-error: true
+        run: |
+          if [ "${{ inputs.snirh_completo }}" = "true" ]; then
+            python scripts/onr_clima_recolha.py --so-snirh --snirh-completo --orcamento-snirh 20
+          else
+            python scripts/onr_clima_recolha.py --so-snirh --orcamento-snirh 20
+          fi
+
+      - name: Gravar SNIRH
+        if: always()
+        run: |
+          git add dados/clima
+          if git diff --cached --quiet; then
+            echo "Sem alterações."
+          else
+            git commit -m "Clima SNIRH: recolha de $(date -u +%Y-%m-%d)"
             git pull --rebase --quiet
             git push
           fi
