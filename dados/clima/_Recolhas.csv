@@ -32,3 +32,6 @@ Momento,Fonte,Indicador,LinhasNovas,PeriodoDe,PeriodoAte,Estado,Mensagem
 2026-11-23T18:19:48Z,IPMA,prec-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-11-03,2026-11-22,OK,
 2026-11-23T18:19:48Z,IPMA,t2m-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-11-03,2026-11-22,OK,
 2026-11-23T18:19:48Z,IPMA,et0-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-05-31,2026-06-19,ATRASO,último dia publicado pelo IPMA tem 157 dias
+2026-11-23T18:57:05Z,IPMA,prec-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-11-03,2026-11-22,OK,
+2026-11-23T18:57:05Z,IPMA,t2m-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-11-03,2026-11-22,OK,
+2026-11-23T18:57:05Z,IPMA,et0-p1d-continental-obssup-idw-20d-concelhos.csv,0,,,ERRO,evapotranspiration/: HTTP 404
