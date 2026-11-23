@@ -11430,7 +11430,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-07-31,38,33,11,Volume armazenado,dam3,6534,APA/SNIRH
 2008,2008-08-07,18,19,8,Cota,m,257.3,APA/SNIRH
 2008,2008-08-07,18,19,8,Volume armazenado,dam3,23600,APA/SNIRH
-2008,2008-08-30,11,8,9,Volume armazenado,dam3,3119530,APA/SNIRH
+2008,2008-08-30,11,12,11,Volume armazenado,dam3,3119530,APA/SNIRH
 2008,2008-08-31,1,1,2,Cota,m,621.33,APA/SNIRH
 2008,2008-08-31,1,1,2,Volume armazenado,dam3,721,APA/SNIRH
 2008,2008-08-31,2,3,12,Cota,m,80.04,APA/SNIRH
@@ -17276,7 +17276,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2017,2017-04-30,38,33,11,Cota,m,218.18,APA/SNIRH
 2017,2017-04-30,38,33,11,Volume armazenado,dam3,5652,APA/SNIRH
 2017,2017-05-16,3,4,7,Cota,m,27.38,APA/SNIRH
-2017,2017-05-24,11,8,9,Cota,m,125,APA/SNIRH
+2017,2017-05-24,11,12,11,Cota,m,125,APA/SNIRH
 2017,2017-05-26,16,17,11,Volume armazenado,dam3,7702,APA/SNIRH
 2017,2017-05-26,18,19,8,Volume armazenado,dam3,32160,APA/SNIRH
 2017,2017-05-30,17,18,2,Volume armazenado,dam3,48539,APA/SNIRH
