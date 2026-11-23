@@ -23,3 +23,6 @@ Momento,Fonte,Indicador,LinhasNovas,PeriodoDe,PeriodoAte,Estado,Mensagem
 2026-11-22T13:35:24Z,IPMA,prec-p1d-continental-obssup-idw-concelhos-20d.csv,278,2026-11-02,2026-11-21,OK,
 2026-11-22T13:35:24Z,IPMA,t2m-p1d-continental-obssup-idw-concelhos-20d.csv,834,2026-11-02,2026-11-21,OK,
 2026-11-22T13:35:24Z,IPMA,et0-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-05-31,2026-06-19,ATRASO,último dia publicado pelo IPMA tem 156 dias
+2026-11-23T09:29:31Z,IPMA,prec-p1d-continental-obssup-idw-concelhos-20d.csv,278,2026-11-03,2026-11-22,OK,
+2026-11-23T09:29:31Z,IPMA,t2m-p1d-continental-obssup-idw-concelhos-20d.csv,834,2026-11-03,2026-11-22,OK,
+2026-11-23T09:29:31Z,IPMA,et0-p1d-continental-obssup-idw-concelhos-20d.csv,0,2026-05-31,2026-06-19,ATRASO,último dia publicado pelo IPMA tem 157 dias

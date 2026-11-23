@@ -41143,3 +41143,1115 @@ Ano,Data,IDConcelho,Indicador,Unidade,Valor,Dispersao,Fonte
 2026,2026-11-21,1824,Temperatura máxima,°C,13.54,0.23,IPMA
 2026,2026-11-21,1824,Temperatura média,°C,11.44,0.21,IPMA
 2026,2026-11-21,1824,Temperatura mínima,°C,7.53,0.4,IPMA
+2026,2026-11-22,101,Precipitação,mm,0.32,0.25,IPMA
+2026,2026-11-22,101,Temperatura máxima,°C,16.39,0.97,IPMA
+2026,2026-11-22,101,Temperatura média,°C,11.22,0.82,IPMA
+2026,2026-11-22,101,Temperatura mínima,°C,6.47,0.71,IPMA
+2026,2026-11-22,102,Precipitação,mm,0.9,0.72,IPMA
+2026,2026-11-22,102,Temperatura máxima,°C,16.85,0.94,IPMA
+2026,2026-11-22,102,Temperatura média,°C,12.88,1.03,IPMA
+2026,2026-11-22,102,Temperatura mínima,°C,8.21,1.04,IPMA
+2026,2026-11-22,103,Precipitação,mm,0.1,0.02,IPMA
+2026,2026-11-22,103,Temperatura máxima,°C,17.54,0.2,IPMA
+2026,2026-11-22,103,Temperatura média,°C,11.12,0.19,IPMA
+2026,2026-11-22,103,Temperatura mínima,°C,6.23,0.34,IPMA
+2026,2026-11-22,104,Precipitação,mm,7.87,1.17,IPMA
+2026,2026-11-22,104,Temperatura máxima,°C,15.69,0.46,IPMA
+2026,2026-11-22,104,Temperatura média,°C,10.39,0.34,IPMA
+2026,2026-11-22,104,Temperatura mínima,°C,5.19,0.17,IPMA
+2026,2026-11-22,105,Precipitação,mm,0.04,0.04,IPMA
+2026,2026-11-22,105,Temperatura máxima,°C,18.28,0.13,IPMA
+2026,2026-11-22,105,Temperatura média,°C,14.61,0.47,IPMA
+2026,2026-11-22,105,Temperatura mínima,°C,10.05,0.67,IPMA
+2026,2026-11-22,106,Precipitação,mm,5.67,2.09,IPMA
+2026,2026-11-22,106,Temperatura máxima,°C,15.71,0.19,IPMA
+2026,2026-11-22,106,Temperatura média,°C,10.53,0.08,IPMA
+2026,2026-11-22,106,Temperatura mínima,°C,5.75,0.41,IPMA
+2026,2026-11-22,107,Precipitação,mm,1.39,0.16,IPMA
+2026,2026-11-22,107,Temperatura máxima,°C,16.5,0.04,IPMA
+2026,2026-11-22,107,Temperatura média,°C,12.28,0.08,IPMA
+2026,2026-11-22,107,Temperatura mínima,°C,8.13,0.13,IPMA
+2026,2026-11-22,108,Precipitação,mm,0.84,0.46,IPMA
+2026,2026-11-22,108,Temperatura máxima,°C,17.4,0.37,IPMA
+2026,2026-11-22,108,Temperatura média,°C,13.52,0.49,IPMA
+2026,2026-11-22,108,Temperatura mínima,°C,8.83,0.55,IPMA
+2026,2026-11-22,109,Precipitação,mm,3.48,1.16,IPMA
+2026,2026-11-22,109,Temperatura máxima,°C,15.99,0.2,IPMA
+2026,2026-11-22,109,Temperatura média,°C,11.38,0.39,IPMA
+2026,2026-11-22,109,Temperatura mínima,°C,6.88,0.54,IPMA
+2026,2026-11-22,110,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,110,Temperatura máxima,°C,18.39,0.02,IPMA
+2026,2026-11-22,110,Temperatura média,°C,14.82,0.14,IPMA
+2026,2026-11-22,110,Temperatura mínima,°C,10.2,0.35,IPMA
+2026,2026-11-22,111,Precipitação,mm,0.15,0.05,IPMA
+2026,2026-11-22,111,Temperatura máxima,°C,17.6,0.39,IPMA
+2026,2026-11-22,111,Temperatura média,°C,10.96,0.29,IPMA
+2026,2026-11-22,111,Temperatura mínima,°C,5.54,0.95,IPMA
+2026,2026-11-22,112,Precipitação,mm,0.38,0.2,IPMA
+2026,2026-11-22,112,Temperatura máxima,°C,17.92,0.22,IPMA
+2026,2026-11-22,112,Temperatura média,°C,14.15,0.33,IPMA
+2026,2026-11-22,112,Temperatura mínima,°C,9.49,0.38,IPMA
+2026,2026-11-22,113,Precipitação,mm,4.18,1.54,IPMA
+2026,2026-11-22,113,Temperatura máxima,°C,15.84,0.38,IPMA
+2026,2026-11-22,113,Temperatura média,°C,11.33,0.58,IPMA
+2026,2026-11-22,113,Temperatura mínima,°C,6.53,0.64,IPMA
+2026,2026-11-22,114,Precipitação,mm,0.08,0.01,IPMA
+2026,2026-11-22,114,Temperatura máxima,°C,17.83,0.21,IPMA
+2026,2026-11-22,114,Temperatura média,°C,12.21,0.58,IPMA
+2026,2026-11-22,114,Temperatura mínima,°C,6.89,0.48,IPMA
+2026,2026-11-22,115,Precipitação,mm,1.81,0.51,IPMA
+2026,2026-11-22,115,Temperatura máxima,°C,16.69,0.31,IPMA
+2026,2026-11-22,115,Temperatura média,°C,12.45,0.41,IPMA
+2026,2026-11-22,115,Temperatura mínima,°C,7.79,0.36,IPMA
+2026,2026-11-22,116,Precipitação,mm,4.54,0.16,IPMA
+2026,2026-11-22,116,Temperatura máxima,°C,15.73,0.05,IPMA
+2026,2026-11-22,116,Temperatura média,°C,11.13,0.04,IPMA
+2026,2026-11-22,116,Temperatura mínima,°C,6.39,0.06,IPMA
+2026,2026-11-22,117,Precipitação,mm,2.07,1.03,IPMA
+2026,2026-11-22,117,Temperatura máxima,°C,14.25,0.48,IPMA
+2026,2026-11-22,117,Temperatura média,°C,10.2,0.5,IPMA
+2026,2026-11-22,117,Temperatura mínima,°C,5.95,0.3,IPMA
+2026,2026-11-22,118,Precipitação,mm,0.06,0.02,IPMA
+2026,2026-11-22,118,Temperatura máxima,°C,18.66,0.28,IPMA
+2026,2026-11-22,118,Temperatura média,°C,13.85,0.46,IPMA
+2026,2026-11-22,118,Temperatura mínima,°C,6.95,1.35,IPMA
+2026,2026-11-22,119,Precipitação,mm,6.38,1.34,IPMA
+2026,2026-11-22,119,Temperatura máxima,°C,15.05,0.6,IPMA
+2026,2026-11-22,119,Temperatura média,°C,10.34,0.28,IPMA
+2026,2026-11-22,119,Temperatura mínima,°C,5.43,0.21,IPMA
+2026,2026-11-22,201,Precipitação,mm,0.05,0.04,IPMA
+2026,2026-11-22,201,Temperatura máxima,°C,18.86,0.48,IPMA
+2026,2026-11-22,201,Temperatura média,°C,12.54,0.16,IPMA
+2026,2026-11-22,201,Temperatura mínima,°C,7.22,0.56,IPMA
+2026,2026-11-22,202,Precipitação,mm,0.1,0.08,IPMA
+2026,2026-11-22,202,Temperatura máxima,°C,17.39,0.77,IPMA
+2026,2026-11-22,202,Temperatura média,°C,12.55,0.37,IPMA
+2026,2026-11-22,202,Temperatura mínima,°C,7.58,0.67,IPMA
+2026,2026-11-22,203,Precipitação,mm,0.19,0.01,IPMA
+2026,2026-11-22,203,Temperatura máxima,°C,17.73,0.13,IPMA
+2026,2026-11-22,203,Temperatura média,°C,12.58,0.15,IPMA
+2026,2026-11-22,203,Temperatura mínima,°C,7.3,0.24,IPMA
+2026,2026-11-22,204,Precipitação,mm,0.1,0,IPMA
+2026,2026-11-22,204,Temperatura máxima,°C,17.66,0.03,IPMA
+2026,2026-11-22,204,Temperatura média,°C,12.23,0.02,IPMA
+2026,2026-11-22,204,Temperatura mínima,°C,7.27,0.04,IPMA
+2026,2026-11-22,205,Precipitação,mm,0.16,0.04,IPMA
+2026,2026-11-22,205,Temperatura máxima,°C,17.72,0.19,IPMA
+2026,2026-11-22,205,Temperatura média,°C,12.92,0.08,IPMA
+2026,2026-11-22,205,Temperatura mínima,°C,8.99,0.52,IPMA
+2026,2026-11-22,206,Precipitação,mm,0.03,0.02,IPMA
+2026,2026-11-22,206,Temperatura máxima,°C,18.12,0.1,IPMA
+2026,2026-11-22,206,Temperatura média,°C,12.89,0.16,IPMA
+2026,2026-11-22,206,Temperatura mínima,°C,7.42,0.19,IPMA
+2026,2026-11-22,207,Precipitação,mm,0.19,0,IPMA
+2026,2026-11-22,207,Temperatura máxima,°C,17.9,0.14,IPMA
+2026,2026-11-22,207,Temperatura média,°C,12.35,0.28,IPMA
+2026,2026-11-22,207,Temperatura mínima,°C,7.34,0.91,IPMA
+2026,2026-11-22,208,Precipitação,mm,0.1,0.05,IPMA
+2026,2026-11-22,208,Temperatura máxima,°C,18.55,0.56,IPMA
+2026,2026-11-22,208,Temperatura média,°C,12.56,0.12,IPMA
+2026,2026-11-22,208,Temperatura mínima,°C,7.46,0.56,IPMA
+2026,2026-11-22,209,Precipitação,mm,0.04,0.03,IPMA
+2026,2026-11-22,209,Temperatura máxima,°C,18.08,0.28,IPMA
+2026,2026-11-22,209,Temperatura média,°C,13.17,0.11,IPMA
+2026,2026-11-22,209,Temperatura mínima,°C,8.11,0.4,IPMA
+2026,2026-11-22,210,Precipitação,mm,0.1,0.01,IPMA
+2026,2026-11-22,210,Temperatura máxima,°C,17.72,0.1,IPMA
+2026,2026-11-22,210,Temperatura média,°C,12.28,0.09,IPMA
+2026,2026-11-22,210,Temperatura mínima,°C,7.35,0.12,IPMA
+2026,2026-11-22,211,Precipitação,mm,0.02,0.02,IPMA
+2026,2026-11-22,211,Temperatura máxima,°C,18.47,0.94,IPMA
+2026,2026-11-22,211,Temperatura média,°C,12.78,0.65,IPMA
+2026,2026-11-22,211,Temperatura mínima,°C,7.24,0.63,IPMA
+2026,2026-11-22,212,Precipitação,mm,0.05,0.02,IPMA
+2026,2026-11-22,212,Temperatura máxima,°C,18.1,0.49,IPMA
+2026,2026-11-22,212,Temperatura média,°C,12.34,0.18,IPMA
+2026,2026-11-22,212,Temperatura mínima,°C,6.74,0.29,IPMA
+2026,2026-11-22,213,Precipitação,mm,0.06,0.05,IPMA
+2026,2026-11-22,213,Temperatura máxima,°C,18.13,0.19,IPMA
+2026,2026-11-22,213,Temperatura média,°C,12.92,0.24,IPMA
+2026,2026-11-22,213,Temperatura mínima,°C,7.89,0.21,IPMA
+2026,2026-11-22,214,Precipitação,mm,0.17,0.01,IPMA
+2026,2026-11-22,214,Temperatura máxima,°C,17.9,0.13,IPMA
+2026,2026-11-22,214,Temperatura média,°C,12.41,0.24,IPMA
+2026,2026-11-22,214,Temperatura mínima,°C,7.67,0.75,IPMA
+2026,2026-11-22,301,Precipitação,mm,1.8,0.38,IPMA
+2026,2026-11-22,301,Temperatura máxima,°C,16.8,1.14,IPMA
+2026,2026-11-22,301,Temperatura média,°C,10.45,0.25,IPMA
+2026,2026-11-22,301,Temperatura mínima,°C,6.96,0.13,IPMA
+2026,2026-11-22,302,Precipitação,mm,0.55,0.25,IPMA
+2026,2026-11-22,302,Temperatura máxima,°C,17.63,0.4,IPMA
+2026,2026-11-22,302,Temperatura média,°C,11.56,0.46,IPMA
+2026,2026-11-22,302,Temperatura mínima,°C,7.46,0.5,IPMA
+2026,2026-11-22,303,Precipitação,mm,0.96,0.1,IPMA
+2026,2026-11-22,303,Temperatura máxima,°C,16.66,0.42,IPMA
+2026,2026-11-22,303,Temperatura média,°C,11.04,0.09,IPMA
+2026,2026-11-22,303,Temperatura mínima,°C,6.74,0.11,IPMA
+2026,2026-11-22,304,Precipitação,mm,1.1,0.1,IPMA
+2026,2026-11-22,304,Temperatura máxima,°C,15.62,0.4,IPMA
+2026,2026-11-22,304,Temperatura média,°C,10.44,0.27,IPMA
+2026,2026-11-22,304,Temperatura mínima,°C,6.41,0.09,IPMA
+2026,2026-11-22,305,Precipitação,mm,1.13,0.04,IPMA
+2026,2026-11-22,305,Temperatura máxima,°C,15.79,0.16,IPMA
+2026,2026-11-22,305,Temperatura média,°C,10.6,0.07,IPMA
+2026,2026-11-22,305,Temperatura mínima,°C,6.44,0.06,IPMA
+2026,2026-11-22,306,Precipitação,mm,0.12,0.02,IPMA
+2026,2026-11-22,306,Temperatura máxima,°C,17.37,0.29,IPMA
+2026,2026-11-22,306,Temperatura média,°C,12.68,0.38,IPMA
+2026,2026-11-22,306,Temperatura mínima,°C,8.52,0.3,IPMA
+2026,2026-11-22,307,Precipitação,mm,1.11,0.05,IPMA
+2026,2026-11-22,307,Temperatura máxima,°C,15.98,0.15,IPMA
+2026,2026-11-22,307,Temperatura média,°C,10.7,0.16,IPMA
+2026,2026-11-22,307,Temperatura mínima,°C,6.77,0.22,IPMA
+2026,2026-11-22,308,Precipitação,mm,1.03,0.06,IPMA
+2026,2026-11-22,308,Temperatura máxima,°C,16.29,0.15,IPMA
+2026,2026-11-22,308,Temperatura média,°C,11.03,0.1,IPMA
+2026,2026-11-22,308,Temperatura mínima,°C,7.21,0.17,IPMA
+2026,2026-11-22,309,Precipitação,mm,1.46,0.23,IPMA
+2026,2026-11-22,309,Temperatura máxima,°C,16.3,0.31,IPMA
+2026,2026-11-22,309,Temperatura média,°C,10.48,0.18,IPMA
+2026,2026-11-22,309,Temperatura mínima,°C,6.91,0.06,IPMA
+2026,2026-11-22,310,Precipitação,mm,1.45,0.56,IPMA
+2026,2026-11-22,310,Temperatura máxima,°C,14.62,0.41,IPMA
+2026,2026-11-22,310,Temperatura média,°C,9.79,0.36,IPMA
+2026,2026-11-22,310,Temperatura mínima,°C,6.91,0.15,IPMA
+2026,2026-11-22,311,Precipitação,mm,0.89,0.35,IPMA
+2026,2026-11-22,311,Temperatura máxima,°C,14.87,0.6,IPMA
+2026,2026-11-22,311,Temperatura média,°C,9.71,0.36,IPMA
+2026,2026-11-22,311,Temperatura mínima,°C,6.87,0.12,IPMA
+2026,2026-11-22,312,Precipitação,mm,0.78,0.14,IPMA
+2026,2026-11-22,312,Temperatura máxima,°C,16.71,0.33,IPMA
+2026,2026-11-22,312,Temperatura média,°C,11.39,0.4,IPMA
+2026,2026-11-22,312,Temperatura mínima,°C,7.24,0.45,IPMA
+2026,2026-11-22,313,Precipitação,mm,1.49,0.43,IPMA
+2026,2026-11-22,313,Temperatura máxima,°C,16.54,0.85,IPMA
+2026,2026-11-22,313,Temperatura média,°C,10.58,0.25,IPMA
+2026,2026-11-22,313,Temperatura mínima,°C,6.87,0.16,IPMA
+2026,2026-11-22,314,Precipitação,mm,1.08,0.05,IPMA
+2026,2026-11-22,314,Temperatura máxima,°C,15.88,0.14,IPMA
+2026,2026-11-22,314,Temperatura média,°C,10.98,0.09,IPMA
+2026,2026-11-22,314,Temperatura mínima,°C,7,0.3,IPMA
+2026,2026-11-22,401,Precipitação,mm,0.61,0.39,IPMA
+2026,2026-11-22,401,Temperatura máxima,°C,15.71,0.5,IPMA
+2026,2026-11-22,401,Temperatura média,°C,10.58,0.43,IPMA
+2026,2026-11-22,401,Temperatura mínima,°C,6.25,0.37,IPMA
+2026,2026-11-22,402,Precipitação,mm,0.18,0.04,IPMA
+2026,2026-11-22,402,Temperatura máxima,°C,13.02,0.88,IPMA
+2026,2026-11-22,402,Temperatura média,°C,8.42,0.12,IPMA
+2026,2026-11-22,402,Temperatura mínima,°C,4.77,0.43,IPMA
+2026,2026-11-22,403,Precipitação,mm,0.16,0.07,IPMA
+2026,2026-11-22,403,Temperatura máxima,°C,13.62,0.38,IPMA
+2026,2026-11-22,403,Temperatura média,°C,8.29,0.42,IPMA
+2026,2026-11-22,403,Temperatura mínima,°C,1.41,0.77,IPMA
+2026,2026-11-22,404,Precipitação,mm,0.82,0.32,IPMA
+2026,2026-11-22,404,Temperatura máxima,°C,14.86,0.22,IPMA
+2026,2026-11-22,404,Temperatura média,°C,10.12,0.16,IPMA
+2026,2026-11-22,404,Temperatura mínima,°C,5.95,0.18,IPMA
+2026,2026-11-22,405,Precipitação,mm,0.13,0.03,IPMA
+2026,2026-11-22,405,Temperatura máxima,°C,14.83,0.66,IPMA
+2026,2026-11-22,405,Temperatura média,°C,9.1,0.71,IPMA
+2026,2026-11-22,405,Temperatura mínima,°C,4.83,0.54,IPMA
+2026,2026-11-22,406,Precipitação,mm,0.03,0.02,IPMA
+2026,2026-11-22,406,Temperatura máxima,°C,12.6,0.29,IPMA
+2026,2026-11-22,406,Temperatura média,°C,8.19,0.18,IPMA
+2026,2026-11-22,406,Temperatura mínima,°C,3.36,0.45,IPMA
+2026,2026-11-22,407,Precipitação,mm,0.08,0.06,IPMA
+2026,2026-11-22,407,Temperatura máxima,°C,16.68,0.96,IPMA
+2026,2026-11-22,407,Temperatura média,°C,10.94,0.67,IPMA
+2026,2026-11-22,407,Temperatura mínima,°C,5.61,0.72,IPMA
+2026,2026-11-22,408,Precipitação,mm,0.12,0.19,IPMA
+2026,2026-11-22,408,Temperatura máxima,°C,13.8,0.97,IPMA
+2026,2026-11-22,408,Temperatura média,°C,9.2,0.69,IPMA
+2026,2026-11-22,408,Temperatura mínima,°C,5.81,0.46,IPMA
+2026,2026-11-22,409,Precipitação,mm,1.36,0.32,IPMA
+2026,2026-11-22,409,Temperatura máxima,°C,14.87,0.5,IPMA
+2026,2026-11-22,409,Temperatura média,°C,10.29,0.4,IPMA
+2026,2026-11-22,409,Temperatura mínima,°C,5.87,0.72,IPMA
+2026,2026-11-22,410,Precipitação,mm,0.45,0.28,IPMA
+2026,2026-11-22,410,Temperatura máxima,°C,14.83,0.7,IPMA
+2026,2026-11-22,410,Temperatura média,°C,9.76,0.79,IPMA
+2026,2026-11-22,410,Temperatura mínima,°C,4.39,1.61,IPMA
+2026,2026-11-22,411,Precipitação,mm,0.1,0.03,IPMA
+2026,2026-11-22,411,Temperatura máxima,°C,13.51,0.52,IPMA
+2026,2026-11-22,411,Temperatura média,°C,8.46,0.14,IPMA
+2026,2026-11-22,411,Temperatura mínima,°C,4.25,0.41,IPMA
+2026,2026-11-22,412,Precipitação,mm,0.27,0.03,IPMA
+2026,2026-11-22,412,Temperatura máxima,°C,12.13,0.59,IPMA
+2026,2026-11-22,412,Temperatura média,°C,8.07,0.33,IPMA
+2026,2026-11-22,412,Temperatura mínima,°C,4.57,0.14,IPMA
+2026,2026-11-22,501,Precipitação,mm,0.09,0.02,IPMA
+2026,2026-11-22,501,Temperatura máxima,°C,15.78,0.45,IPMA
+2026,2026-11-22,501,Temperatura média,°C,10.72,0.29,IPMA
+2026,2026-11-22,501,Temperatura mínima,°C,4.75,0.15,IPMA
+2026,2026-11-22,502,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,502,Temperatura máxima,°C,16.14,0.24,IPMA
+2026,2026-11-22,502,Temperatura média,°C,11.52,0.32,IPMA
+2026,2026-11-22,502,Temperatura mínima,°C,7.43,0.36,IPMA
+2026,2026-11-22,503,Precipitação,mm,0.05,0.03,IPMA
+2026,2026-11-22,503,Temperatura máxima,°C,15.79,0.65,IPMA
+2026,2026-11-22,503,Temperatura média,°C,10.71,0.45,IPMA
+2026,2026-11-22,503,Temperatura mínima,°C,5.46,0.49,IPMA
+2026,2026-11-22,504,Precipitação,mm,0.04,0.01,IPMA
+2026,2026-11-22,504,Temperatura máxima,°C,15.54,0.57,IPMA
+2026,2026-11-22,504,Temperatura média,°C,10.67,0.32,IPMA
+2026,2026-11-22,504,Temperatura mínima,°C,6.31,0.45,IPMA
+2026,2026-11-22,505,Precipitação,mm,0.08,0.02,IPMA
+2026,2026-11-22,505,Temperatura máxima,°C,16.05,0.38,IPMA
+2026,2026-11-22,505,Temperatura média,°C,11.63,0.46,IPMA
+2026,2026-11-22,505,Temperatura mínima,°C,7.72,0.65,IPMA
+2026,2026-11-22,506,Precipitação,mm,0.02,0.01,IPMA
+2026,2026-11-22,506,Temperatura máxima,°C,15.25,0.89,IPMA
+2026,2026-11-22,506,Temperatura média,°C,10.62,0.67,IPMA
+2026,2026-11-22,506,Temperatura mínima,°C,7.17,0.52,IPMA
+2026,2026-11-22,507,Precipitação,mm,0.05,0.02,IPMA
+2026,2026-11-22,507,Temperatura máxima,°C,14.11,0.85,IPMA
+2026,2026-11-22,507,Temperatura média,°C,9.51,0.84,IPMA
+2026,2026-11-22,507,Temperatura mínima,°C,4.92,0.84,IPMA
+2026,2026-11-22,508,Precipitação,mm,0,0.01,IPMA
+2026,2026-11-22,508,Temperatura máxima,°C,16.53,0.12,IPMA
+2026,2026-11-22,508,Temperatura média,°C,11.83,0.08,IPMA
+2026,2026-11-22,508,Temperatura mínima,°C,8.33,0.19,IPMA
+2026,2026-11-22,509,Precipitação,mm,0.02,0.01,IPMA
+2026,2026-11-22,509,Temperatura máxima,°C,16.86,0.35,IPMA
+2026,2026-11-22,509,Temperatura média,°C,11.57,0.11,IPMA
+2026,2026-11-22,509,Temperatura mínima,°C,7.92,0.21,IPMA
+2026,2026-11-22,510,Precipitação,mm,0.03,0.01,IPMA
+2026,2026-11-22,510,Temperatura máxima,°C,17.8,0.39,IPMA
+2026,2026-11-22,510,Temperatura média,°C,11.4,0.13,IPMA
+2026,2026-11-22,510,Temperatura mínima,°C,6.86,0.44,IPMA
+2026,2026-11-22,511,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,511,Temperatura máxima,°C,16.51,0.21,IPMA
+2026,2026-11-22,511,Temperatura média,°C,11.69,0.06,IPMA
+2026,2026-11-22,511,Temperatura mínima,°C,7.82,0.24,IPMA
+2026,2026-11-22,601,Precipitação,mm,0.05,0.03,IPMA
+2026,2026-11-22,601,Temperatura máxima,°C,15.69,1.72,IPMA
+2026,2026-11-22,601,Temperatura média,°C,9.98,0.87,IPMA
+2026,2026-11-22,601,Temperatura mínima,°C,6.01,0.69,IPMA
+2026,2026-11-22,602,Precipitação,mm,0.05,0.03,IPMA
+2026,2026-11-22,602,Temperatura máxima,°C,17.98,0.43,IPMA
+2026,2026-11-22,602,Temperatura média,°C,12.06,0.75,IPMA
+2026,2026-11-22,602,Temperatura mínima,°C,5.61,0.45,IPMA
+2026,2026-11-22,603,Precipitação,mm,0.05,0.05,IPMA
+2026,2026-11-22,603,Temperatura máxima,°C,17.88,0.51,IPMA
+2026,2026-11-22,603,Temperatura média,°C,12.36,0.59,IPMA
+2026,2026-11-22,603,Temperatura mínima,°C,8.14,0.65,IPMA
+2026,2026-11-22,604,Precipitação,mm,0.07,0.05,IPMA
+2026,2026-11-22,604,Temperatura máxima,°C,17.68,0.09,IPMA
+2026,2026-11-22,604,Temperatura média,°C,12.8,0.14,IPMA
+2026,2026-11-22,604,Temperatura mínima,°C,8.59,0.15,IPMA
+2026,2026-11-22,605,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,605,Temperatura máxima,°C,18.41,0.08,IPMA
+2026,2026-11-22,605,Temperatura média,°C,12.88,0.12,IPMA
+2026,2026-11-22,605,Temperatura mínima,°C,6.62,0.13,IPMA
+2026,2026-11-22,606,Precipitação,mm,0.02,0.01,IPMA
+2026,2026-11-22,606,Temperatura máxima,°C,15.61,1.59,IPMA
+2026,2026-11-22,606,Temperatura média,°C,10.75,1.14,IPMA
+2026,2026-11-22,606,Temperatura mínima,°C,7.16,0.62,IPMA
+2026,2026-11-22,607,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,607,Temperatura máxima,°C,17.96,0.4,IPMA
+2026,2026-11-22,607,Temperatura média,°C,12.73,0.42,IPMA
+2026,2026-11-22,607,Temperatura mínima,°C,8.07,0.04,IPMA
+2026,2026-11-22,608,Precipitação,mm,0.1,0.01,IPMA
+2026,2026-11-22,608,Temperatura máxima,°C,19.18,0.14,IPMA
+2026,2026-11-22,608,Temperatura média,°C,14.03,0.22,IPMA
+2026,2026-11-22,608,Temperatura mínima,°C,5.21,0.1,IPMA
+2026,2026-11-22,609,Precipitação,mm,0.05,0.03,IPMA
+2026,2026-11-22,609,Temperatura máxima,°C,17.82,0.11,IPMA
+2026,2026-11-22,609,Temperatura média,°C,12.59,0.13,IPMA
+2026,2026-11-22,609,Temperatura mínima,°C,8.28,0.12,IPMA
+2026,2026-11-22,610,Precipitação,mm,0.04,0.02,IPMA
+2026,2026-11-22,610,Temperatura máxima,°C,18.06,0.17,IPMA
+2026,2026-11-22,610,Temperatura média,°C,12.39,0.31,IPMA
+2026,2026-11-22,610,Temperatura mínima,°C,6.97,0.62,IPMA
+2026,2026-11-22,611,Precipitação,mm,0.15,0.04,IPMA
+2026,2026-11-22,611,Temperatura máxima,°C,17.38,0.62,IPMA
+2026,2026-11-22,611,Temperatura média,°C,10.99,0.38,IPMA
+2026,2026-11-22,611,Temperatura mínima,°C,5.91,0.23,IPMA
+2026,2026-11-22,612,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,612,Temperatura máxima,°C,12.81,1.31,IPMA
+2026,2026-11-22,612,Temperatura média,°C,8.87,0.88,IPMA
+2026,2026-11-22,612,Temperatura mínima,°C,6.19,0.48,IPMA
+2026,2026-11-22,613,Precipitação,mm,0.02,0.03,IPMA
+2026,2026-11-22,613,Temperatura máxima,°C,16.78,0.26,IPMA
+2026,2026-11-22,613,Temperatura média,°C,11.14,0.31,IPMA
+2026,2026-11-22,613,Temperatura mínima,°C,7.32,0.55,IPMA
+2026,2026-11-22,614,Precipitação,mm,0.07,0.03,IPMA
+2026,2026-11-22,614,Temperatura máxima,°C,17.4,0.23,IPMA
+2026,2026-11-22,614,Temperatura média,°C,12.17,0.29,IPMA
+2026,2026-11-22,614,Temperatura mínima,°C,8.54,0.18,IPMA
+2026,2026-11-22,615,Precipitação,mm,0.02,0.02,IPMA
+2026,2026-11-22,615,Temperatura máxima,°C,17.94,0.26,IPMA
+2026,2026-11-22,615,Temperatura média,°C,12.57,0.19,IPMA
+2026,2026-11-22,615,Temperatura mínima,°C,7.79,0.52,IPMA
+2026,2026-11-22,616,Precipitação,mm,0.1,0.04,IPMA
+2026,2026-11-22,616,Temperatura máxima,°C,17.24,0.26,IPMA
+2026,2026-11-22,616,Temperatura média,°C,10.68,0.23,IPMA
+2026,2026-11-22,616,Temperatura mínima,°C,5.7,0.22,IPMA
+2026,2026-11-22,617,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,617,Temperatura máxima,°C,16.47,0.35,IPMA
+2026,2026-11-22,617,Temperatura média,°C,11.15,0.34,IPMA
+2026,2026-11-22,617,Temperatura mínima,°C,8.07,0.06,IPMA
+2026,2026-11-22,701,Precipitação,mm,0.15,0.04,IPMA
+2026,2026-11-22,701,Temperatura máxima,°C,18.23,0.65,IPMA
+2026,2026-11-22,701,Temperatura média,°C,12.12,0.17,IPMA
+2026,2026-11-22,701,Temperatura mínima,°C,7.76,0.47,IPMA
+2026,2026-11-22,702,Precipitação,mm,0.09,0.03,IPMA
+2026,2026-11-22,702,Temperatura máxima,°C,17.72,0.36,IPMA
+2026,2026-11-22,702,Temperatura média,°C,12.17,0.24,IPMA
+2026,2026-11-22,702,Temperatura mínima,°C,7.32,0.38,IPMA
+2026,2026-11-22,703,Precipitação,mm,0.1,0,IPMA
+2026,2026-11-22,703,Temperatura máxima,°C,15.99,0.19,IPMA
+2026,2026-11-22,703,Temperatura média,°C,11.12,0.1,IPMA
+2026,2026-11-22,703,Temperatura mínima,°C,5.71,0.19,IPMA
+2026,2026-11-22,704,Precipitação,mm,0.1,0.01,IPMA
+2026,2026-11-22,704,Temperatura máxima,°C,16.3,0.5,IPMA
+2026,2026-11-22,704,Temperatura média,°C,11.31,0.31,IPMA
+2026,2026-11-22,704,Temperatura mínima,°C,6.04,0.52,IPMA
+2026,2026-11-22,705,Precipitação,mm,0.18,0.02,IPMA
+2026,2026-11-22,705,Temperatura máxima,°C,17.74,0.25,IPMA
+2026,2026-11-22,705,Temperatura média,°C,12.17,0.15,IPMA
+2026,2026-11-22,705,Temperatura mínima,°C,7.43,0.42,IPMA
+2026,2026-11-22,706,Precipitação,mm,0.12,0.04,IPMA
+2026,2026-11-22,706,Temperatura máxima,°C,18.11,0.57,IPMA
+2026,2026-11-22,706,Temperatura média,°C,12.04,0.35,IPMA
+2026,2026-11-22,706,Temperatura mínima,°C,6.82,0.68,IPMA
+2026,2026-11-22,707,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,707,Temperatura máxima,°C,18.61,0.2,IPMA
+2026,2026-11-22,707,Temperatura média,°C,12.97,0.21,IPMA
+2026,2026-11-22,707,Temperatura mínima,°C,8.6,0.36,IPMA
+2026,2026-11-22,708,Precipitação,mm,0.13,0.03,IPMA
+2026,2026-11-22,708,Temperatura máxima,°C,18.04,0.39,IPMA
+2026,2026-11-22,708,Temperatura média,°C,12.23,0.02,IPMA
+2026,2026-11-22,708,Temperatura mínima,°C,7.55,0.31,IPMA
+2026,2026-11-22,709,Precipitação,mm,0.17,0.01,IPMA
+2026,2026-11-22,709,Temperatura máxima,°C,18.12,0.08,IPMA
+2026,2026-11-22,709,Temperatura média,°C,12.06,0.16,IPMA
+2026,2026-11-22,709,Temperatura mínima,°C,6.77,0.61,IPMA
+2026,2026-11-22,710,Precipitação,mm,0.16,0.03,IPMA
+2026,2026-11-22,710,Temperatura máxima,°C,17.87,0.67,IPMA
+2026,2026-11-22,710,Temperatura média,°C,12.01,0.24,IPMA
+2026,2026-11-22,710,Temperatura mínima,°C,7.47,0.56,IPMA
+2026,2026-11-22,711,Precipitação,mm,0.18,0.02,IPMA
+2026,2026-11-22,711,Temperatura máxima,°C,18.76,0.32,IPMA
+2026,2026-11-22,711,Temperatura média,°C,12.27,0.02,IPMA
+2026,2026-11-22,711,Temperatura mínima,°C,8.1,0.28,IPMA
+2026,2026-11-22,712,Precipitação,mm,0.23,0.05,IPMA
+2026,2026-11-22,712,Temperatura máxima,°C,18.93,0.21,IPMA
+2026,2026-11-22,712,Temperatura média,°C,12.41,0.11,IPMA
+2026,2026-11-22,712,Temperatura mínima,°C,7.91,0.36,IPMA
+2026,2026-11-22,713,Precipitação,mm,0.18,0.02,IPMA
+2026,2026-11-22,713,Temperatura máxima,°C,17.84,0.34,IPMA
+2026,2026-11-22,713,Temperatura média,°C,12.57,0.19,IPMA
+2026,2026-11-22,713,Temperatura mínima,°C,7.27,0.27,IPMA
+2026,2026-11-22,714,Precipitação,mm,0.07,0.03,IPMA
+2026,2026-11-22,714,Temperatura máxima,°C,16.88,0.41,IPMA
+2026,2026-11-22,714,Temperatura média,°C,11.8,0.4,IPMA
+2026,2026-11-22,714,Temperatura mínima,°C,6.77,0.54,IPMA
+2026,2026-11-22,801,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,801,Temperatura máxima,°C,18.45,0.11,IPMA
+2026,2026-11-22,801,Temperatura média,°C,14.4,0.15,IPMA
+2026,2026-11-22,801,Temperatura mínima,°C,11.08,0.26,IPMA
+2026,2026-11-22,802,Precipitação,mm,0.09,0.03,IPMA
+2026,2026-11-22,802,Temperatura máxima,°C,17.97,0.64,IPMA
+2026,2026-11-22,802,Temperatura média,°C,13.57,0.53,IPMA
+2026,2026-11-22,802,Temperatura mínima,°C,9.3,0.44,IPMA
+2026,2026-11-22,803,Precipitação,mm,0.09,0.02,IPMA
+2026,2026-11-22,803,Temperatura máxima,°C,19.86,0.74,IPMA
+2026,2026-11-22,803,Temperatura média,°C,12.79,0.36,IPMA
+2026,2026-11-22,803,Temperatura mínima,°C,5.43,0.85,IPMA
+2026,2026-11-22,804,Precipitação,mm,0.02,0.02,IPMA
+2026,2026-11-22,804,Temperatura máxima,°C,19.7,0.43,IPMA
+2026,2026-11-22,804,Temperatura média,°C,15.11,0.38,IPMA
+2026,2026-11-22,804,Temperatura mínima,°C,10.67,0.33,IPMA
+2026,2026-11-22,805,Precipitação,mm,0.04,0.03,IPMA
+2026,2026-11-22,805,Temperatura máxima,°C,20.1,0.31,IPMA
+2026,2026-11-22,805,Temperatura média,°C,15.68,0.24,IPMA
+2026,2026-11-22,805,Temperatura mínima,°C,11.44,0.26,IPMA
+2026,2026-11-22,806,Precipitação,mm,0.07,0.02,IPMA
+2026,2026-11-22,806,Temperatura máxima,°C,19.24,0.19,IPMA
+2026,2026-11-22,806,Temperatura média,°C,14.89,0.28,IPMA
+2026,2026-11-22,806,Temperatura mínima,°C,10.01,0.26,IPMA
+2026,2026-11-22,807,Precipitação,mm,0.04,0.01,IPMA
+2026,2026-11-22,807,Temperatura máxima,°C,19.18,0.33,IPMA
+2026,2026-11-22,807,Temperatura média,°C,13.51,0.4,IPMA
+2026,2026-11-22,807,Temperatura mínima,°C,7.6,0.45,IPMA
+2026,2026-11-22,808,Precipitação,mm,0.16,0.15,IPMA
+2026,2026-11-22,808,Temperatura máxima,°C,16.85,1.77,IPMA
+2026,2026-11-22,808,Temperatura média,°C,13.03,1.42,IPMA
+2026,2026-11-22,808,Temperatura mínima,°C,9.81,0.95,IPMA
+2026,2026-11-22,809,Precipitação,mm,0.09,0.01,IPMA
+2026,2026-11-22,809,Temperatura máxima,°C,14.73,1.76,IPMA
+2026,2026-11-22,809,Temperatura média,°C,10.51,0.91,IPMA
+2026,2026-11-22,809,Temperatura mínima,°C,7.26,0.56,IPMA
+2026,2026-11-22,810,Precipitação,mm,0.09,0.01,IPMA
+2026,2026-11-22,810,Temperatura máxima,°C,20.57,0.14,IPMA
+2026,2026-11-22,810,Temperatura média,°C,15.9,0.12,IPMA
+2026,2026-11-22,810,Temperatura mínima,°C,11.19,0.05,IPMA
+2026,2026-11-22,811,Precipitação,mm,0.04,0.03,IPMA
+2026,2026-11-22,811,Temperatura máxima,°C,18.61,1.62,IPMA
+2026,2026-11-22,811,Temperatura média,°C,13.25,1.14,IPMA
+2026,2026-11-22,811,Temperatura mínima,°C,7.84,0.64,IPMA
+2026,2026-11-22,812,Precipitação,mm,0.17,0.07,IPMA
+2026,2026-11-22,812,Temperatura máxima,°C,17.46,1.32,IPMA
+2026,2026-11-22,812,Temperatura média,°C,13.5,1.02,IPMA
+2026,2026-11-22,812,Temperatura mínima,°C,10,0.55,IPMA
+2026,2026-11-22,813,Precipitação,mm,0.06,0.02,IPMA
+2026,2026-11-22,813,Temperatura máxima,°C,17.74,0.69,IPMA
+2026,2026-11-22,813,Temperatura média,°C,13.12,0.86,IPMA
+2026,2026-11-22,813,Temperatura mínima,°C,8.75,1.19,IPMA
+2026,2026-11-22,814,Precipitação,mm,0.1,0.1,IPMA
+2026,2026-11-22,814,Temperatura máxima,°C,18.8,1.77,IPMA
+2026,2026-11-22,814,Temperatura média,°C,14.39,1.34,IPMA
+2026,2026-11-22,814,Temperatura mínima,°C,10.33,0.83,IPMA
+2026,2026-11-22,815,Precipitação,mm,0.02,0.01,IPMA
+2026,2026-11-22,815,Temperatura máxima,°C,19.46,0.12,IPMA
+2026,2026-11-22,815,Temperatura média,°C,14.55,0.39,IPMA
+2026,2026-11-22,815,Temperatura mínima,°C,8.72,0.43,IPMA
+2026,2026-11-22,816,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,816,Temperatura máxima,°C,20.14,0.14,IPMA
+2026,2026-11-22,816,Temperatura média,°C,15.52,0.08,IPMA
+2026,2026-11-22,816,Temperatura mínima,°C,11.03,0.07,IPMA
+2026,2026-11-22,901,Precipitação,mm,0.52,0.14,IPMA
+2026,2026-11-22,901,Temperatura máxima,°C,13.24,0.19,IPMA
+2026,2026-11-22,901,Temperatura média,°C,8.16,0.2,IPMA
+2026,2026-11-22,901,Temperatura mínima,°C,3.91,0.47,IPMA
+2026,2026-11-22,902,Precipitação,mm,0.23,0.03,IPMA
+2026,2026-11-22,902,Temperatura máxima,°C,12.98,0.51,IPMA
+2026,2026-11-22,902,Temperatura média,°C,8.56,0.3,IPMA
+2026,2026-11-22,902,Temperatura mínima,°C,4.69,0.21,IPMA
+2026,2026-11-22,903,Precipitação,mm,0.39,0.1,IPMA
+2026,2026-11-22,903,Temperatura máxima,°C,11.85,0.77,IPMA
+2026,2026-11-22,903,Temperatura média,°C,8.07,0.49,IPMA
+2026,2026-11-22,903,Temperatura mínima,°C,5.19,0.24,IPMA
+2026,2026-11-22,904,Precipitação,mm,0.3,0.13,IPMA
+2026,2026-11-22,904,Temperatura máxima,°C,13.85,0.16,IPMA
+2026,2026-11-22,904,Temperatura média,°C,9.1,0.18,IPMA
+2026,2026-11-22,904,Temperatura mínima,°C,4.99,0.14,IPMA
+2026,2026-11-22,905,Precipitação,mm,0.64,0.11,IPMA
+2026,2026-11-22,905,Temperatura máxima,°C,13.05,0.21,IPMA
+2026,2026-11-22,905,Temperatura média,°C,8.85,0.35,IPMA
+2026,2026-11-22,905,Temperatura mínima,°C,5.66,0.61,IPMA
+2026,2026-11-22,906,Precipitação,mm,0.47,0.15,IPMA
+2026,2026-11-22,906,Temperatura máxima,°C,14.09,0.65,IPMA
+2026,2026-11-22,906,Temperatura média,°C,9.68,0.36,IPMA
+2026,2026-11-22,906,Temperatura mínima,°C,5.77,0.37,IPMA
+2026,2026-11-22,907,Precipitação,mm,0.2,0.05,IPMA
+2026,2026-11-22,907,Temperatura máxima,°C,11.09,1.61,IPMA
+2026,2026-11-22,907,Temperatura média,°C,7.68,1,IPMA
+2026,2026-11-22,907,Temperatura mínima,°C,4.8,0.19,IPMA
+2026,2026-11-22,908,Precipitação,mm,0.14,0.05,IPMA
+2026,2026-11-22,908,Temperatura máxima,°C,15.54,0.39,IPMA
+2026,2026-11-22,908,Temperatura média,°C,10.56,0.24,IPMA
+2026,2026-11-22,908,Temperatura mínima,°C,5.09,0.18,IPMA
+2026,2026-11-22,909,Precipitação,mm,0.47,0.08,IPMA
+2026,2026-11-22,909,Temperatura máxima,°C,13.42,0.55,IPMA
+2026,2026-11-22,909,Temperatura média,°C,8.75,0.36,IPMA
+2026,2026-11-22,909,Temperatura mínima,°C,4.85,0.13,IPMA
+2026,2026-11-22,910,Precipitação,mm,0.3,0.05,IPMA
+2026,2026-11-22,910,Temperatura máxima,°C,12.72,0.7,IPMA
+2026,2026-11-22,910,Temperatura média,°C,8.41,0.39,IPMA
+2026,2026-11-22,910,Temperatura mínima,°C,4.92,0.08,IPMA
+2026,2026-11-22,911,Precipitação,mm,0.05,0.04,IPMA
+2026,2026-11-22,911,Temperatura máxima,°C,12.91,0.73,IPMA
+2026,2026-11-22,911,Temperatura média,°C,8.35,0.63,IPMA
+2026,2026-11-22,911,Temperatura mínima,°C,3.89,0.39,IPMA
+2026,2026-11-22,912,Precipitação,mm,0.17,0.06,IPMA
+2026,2026-11-22,912,Temperatura máxima,°C,16.16,0.64,IPMA
+2026,2026-11-22,912,Temperatura média,°C,10.66,0.27,IPMA
+2026,2026-11-22,912,Temperatura mínima,°C,5.8,0.18,IPMA
+2026,2026-11-22,913,Precipitação,mm,0.28,0.07,IPMA
+2026,2026-11-22,913,Temperatura máxima,°C,12.27,0.27,IPMA
+2026,2026-11-22,913,Temperatura média,°C,8.07,0.07,IPMA
+2026,2026-11-22,913,Temperatura mínima,°C,5.14,0.25,IPMA
+2026,2026-11-22,914,Precipitação,mm,0.72,0.25,IPMA
+2026,2026-11-22,914,Temperatura máxima,°C,14.36,0.2,IPMA
+2026,2026-11-22,914,Temperatura média,°C,9.57,0.28,IPMA
+2026,2026-11-22,914,Temperatura mínima,°C,4.83,0.63,IPMA
+2026,2026-11-22,1001,Precipitação,mm,0,0.01,IPMA
+2026,2026-11-22,1001,Temperatura máxima,°C,18.93,0.07,IPMA
+2026,2026-11-22,1001,Temperatura média,°C,12.11,0.06,IPMA
+2026,2026-11-22,1001,Temperatura mínima,°C,5.71,0.2,IPMA
+2026,2026-11-22,1002,Precipitação,mm,0.01,0,IPMA
+2026,2026-11-22,1002,Temperatura máxima,°C,17.18,0.26,IPMA
+2026,2026-11-22,1002,Temperatura média,°C,11.62,0.03,IPMA
+2026,2026-11-22,1002,Temperatura mínima,°C,8.58,0.4,IPMA
+2026,2026-11-22,1003,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,1003,Temperatura máxima,°C,17.05,0.16,IPMA
+2026,2026-11-22,1003,Temperatura média,°C,11.74,0.17,IPMA
+2026,2026-11-22,1003,Temperatura mínima,°C,8.86,0.14,IPMA
+2026,2026-11-22,1004,Precipitação,mm,0.01,0,IPMA
+2026,2026-11-22,1004,Temperatura máxima,°C,18.69,0.04,IPMA
+2026,2026-11-22,1004,Temperatura média,°C,12.11,0.1,IPMA
+2026,2026-11-22,1004,Temperatura mínima,°C,6.13,0.08,IPMA
+2026,2026-11-22,1005,Precipitação,mm,0.08,0.02,IPMA
+2026,2026-11-22,1005,Temperatura máxima,°C,18.79,0.03,IPMA
+2026,2026-11-22,1005,Temperatura média,°C,12.85,0.27,IPMA
+2026,2026-11-22,1005,Temperatura mínima,°C,7.26,0.23,IPMA
+2026,2026-11-22,1006,Precipitação,mm,0.04,0.02,IPMA
+2026,2026-11-22,1006,Temperatura máxima,°C,18.86,0.04,IPMA
+2026,2026-11-22,1006,Temperatura média,°C,12.13,0.18,IPMA
+2026,2026-11-22,1006,Temperatura mínima,°C,6.29,0.22,IPMA
+2026,2026-11-22,1007,Precipitação,mm,0.05,0.01,IPMA
+2026,2026-11-22,1007,Temperatura máxima,°C,17.3,0.17,IPMA
+2026,2026-11-22,1007,Temperatura média,°C,12.08,0.17,IPMA
+2026,2026-11-22,1007,Temperatura mínima,°C,8.03,0.13,IPMA
+2026,2026-11-22,1008,Precipitação,mm,0.04,0.03,IPMA
+2026,2026-11-22,1008,Temperatura máxima,°C,17.19,0.22,IPMA
+2026,2026-11-22,1008,Temperatura média,°C,11.84,0.26,IPMA
+2026,2026-11-22,1008,Temperatura mínima,°C,8.52,0.25,IPMA
+2026,2026-11-22,1009,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1009,Temperatura máxima,°C,18.58,0.07,IPMA
+2026,2026-11-22,1009,Temperatura média,°C,12.28,0.09,IPMA
+2026,2026-11-22,1009,Temperatura mínima,°C,6.24,0.17,IPMA
+2026,2026-11-22,1010,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1010,Temperatura máxima,°C,18.73,0.06,IPMA
+2026,2026-11-22,1010,Temperatura média,°C,12.28,0.03,IPMA
+2026,2026-11-22,1010,Temperatura mínima,°C,6.16,0.07,IPMA
+2026,2026-11-22,1011,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1011,Temperatura máxima,°C,18.94,0.03,IPMA
+2026,2026-11-22,1011,Temperatura média,°C,12.12,0.01,IPMA
+2026,2026-11-22,1011,Temperatura mínima,°C,5.61,0.05,IPMA
+2026,2026-11-22,1012,Precipitação,mm,0.04,0.02,IPMA
+2026,2026-11-22,1012,Temperatura máxima,°C,18.8,0.03,IPMA
+2026,2026-11-22,1012,Temperatura média,°C,12.66,0.28,IPMA
+2026,2026-11-22,1012,Temperatura mínima,°C,6.96,0.24,IPMA
+2026,2026-11-22,1013,Precipitação,mm,0.04,0.01,IPMA
+2026,2026-11-22,1013,Temperatura máxima,°C,16.95,0.14,IPMA
+2026,2026-11-22,1013,Temperatura média,°C,11.68,0.09,IPMA
+2026,2026-11-22,1013,Temperatura mínima,°C,8.12,0.2,IPMA
+2026,2026-11-22,1014,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,1014,Temperatura máxima,°C,18.69,0.04,IPMA
+2026,2026-11-22,1014,Temperatura média,°C,13.3,0.12,IPMA
+2026,2026-11-22,1014,Temperatura mínima,°C,7.42,0.07,IPMA
+2026,2026-11-22,1015,Precipitação,mm,0.01,0,IPMA
+2026,2026-11-22,1015,Temperatura máxima,°C,17.99,0.41,IPMA
+2026,2026-11-22,1015,Temperatura média,°C,12.27,0.3,IPMA
+2026,2026-11-22,1015,Temperatura mínima,°C,7.47,0.66,IPMA
+2026,2026-11-22,1016,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,1016,Temperatura máxima,°C,18.86,0.07,IPMA
+2026,2026-11-22,1016,Temperatura média,°C,12.09,0.04,IPMA
+2026,2026-11-22,1016,Temperatura mínima,°C,5.9,0.2,IPMA
+2026,2026-11-22,1101,Precipitação,mm,0.36,0.18,IPMA
+2026,2026-11-22,1101,Temperatura máxima,°C,18.82,0.08,IPMA
+2026,2026-11-22,1101,Temperatura média,°C,13.39,0.22,IPMA
+2026,2026-11-22,1101,Temperatura mínima,°C,8.16,0.42,IPMA
+2026,2026-11-22,1102,Precipitação,mm,0.8,0.12,IPMA
+2026,2026-11-22,1102,Temperatura máxima,°C,18.58,0.08,IPMA
+2026,2026-11-22,1102,Temperatura média,°C,13.78,0.06,IPMA
+2026,2026-11-22,1102,Temperatura mínima,°C,8.86,0.14,IPMA
+2026,2026-11-22,1103,Precipitação,mm,0.19,0.12,IPMA
+2026,2026-11-22,1103,Temperatura máxima,°C,18.91,0.06,IPMA
+2026,2026-11-22,1103,Temperatura média,°C,13.14,0.52,IPMA
+2026,2026-11-22,1103,Temperatura mínima,°C,8.29,0.74,IPMA
+2026,2026-11-22,1104,Precipitação,mm,0.14,0.03,IPMA
+2026,2026-11-22,1104,Temperatura máxima,°C,18.83,0.02,IPMA
+2026,2026-11-22,1104,Temperatura média,°C,12.58,0.45,IPMA
+2026,2026-11-22,1104,Temperatura mínima,°C,7.16,0.41,IPMA
+2026,2026-11-22,1105,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1105,Temperatura máxima,°C,18.47,0.16,IPMA
+2026,2026-11-22,1105,Temperatura média,°C,15.57,0.52,IPMA
+2026,2026-11-22,1105,Temperatura mínima,°C,12.35,0.32,IPMA
+2026,2026-11-22,1106,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1106,Temperatura máxima,°C,19.63,0.28,IPMA
+2026,2026-11-22,1106,Temperatura média,°C,14.87,0.22,IPMA
+2026,2026-11-22,1106,Temperatura mínima,°C,11.73,0.6,IPMA
+2026,2026-11-22,1107,Precipitação,mm,0.18,0.2,IPMA
+2026,2026-11-22,1107,Temperatura máxima,°C,19.18,0.18,IPMA
+2026,2026-11-22,1107,Temperatura média,°C,14.44,0.21,IPMA
+2026,2026-11-22,1107,Temperatura mínima,°C,10.4,0.48,IPMA
+2026,2026-11-22,1108,Precipitação,mm,0.04,0.02,IPMA
+2026,2026-11-22,1108,Temperatura máxima,°C,18.62,0.08,IPMA
+2026,2026-11-22,1108,Temperatura média,°C,13.49,0.17,IPMA
+2026,2026-11-22,1108,Temperatura mínima,°C,7.41,0.13,IPMA
+2026,2026-11-22,1109,Precipitação,mm,0.12,0.08,IPMA
+2026,2026-11-22,1109,Temperatura máxima,°C,18.87,0.16,IPMA
+2026,2026-11-22,1109,Temperatura média,°C,14.05,0.37,IPMA
+2026,2026-11-22,1109,Temperatura mínima,°C,9.13,1.03,IPMA
+2026,2026-11-22,1110,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1110,Temperatura máxima,°C,18.46,0.45,IPMA
+2026,2026-11-22,1110,Temperatura média,°C,14.82,0.03,IPMA
+2026,2026-11-22,1110,Temperatura mínima,°C,12.28,0.16,IPMA
+2026,2026-11-22,1111,Precipitação,mm,0.02,0.02,IPMA
+2026,2026-11-22,1111,Temperatura máxima,°C,18.68,0.4,IPMA
+2026,2026-11-22,1111,Temperatura média,°C,15.04,0.29,IPMA
+2026,2026-11-22,1111,Temperatura mínima,°C,12.03,0.8,IPMA
+2026,2026-11-22,1112,Precipitação,mm,0.34,0.22,IPMA
+2026,2026-11-22,1112,Temperatura máxima,°C,18.83,0.12,IPMA
+2026,2026-11-22,1112,Temperatura média,°C,13.41,0.21,IPMA
+2026,2026-11-22,1112,Temperatura mínima,°C,8,0.48,IPMA
+2026,2026-11-22,1113,Precipitação,mm,0.04,0.03,IPMA
+2026,2026-11-22,1113,Temperatura máxima,°C,18.71,0.21,IPMA
+2026,2026-11-22,1113,Temperatura média,°C,13.45,0.28,IPMA
+2026,2026-11-22,1113,Temperatura mínima,°C,7.27,0.22,IPMA
+2026,2026-11-22,1114,Precipitação,mm,0.46,0.22,IPMA
+2026,2026-11-22,1114,Temperatura máxima,°C,19.05,0.28,IPMA
+2026,2026-11-22,1114,Temperatura média,°C,14.09,0.29,IPMA
+2026,2026-11-22,1114,Temperatura mínima,°C,9.7,0.68,IPMA
+2026,2026-11-22,1115,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1115,Temperatura máxima,°C,19.51,0.29,IPMA
+2026,2026-11-22,1115,Temperatura média,°C,14.77,0.05,IPMA
+2026,2026-11-22,1115,Temperatura mínima,°C,11.22,0.41,IPMA
+2026,2026-11-22,1116,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1116,Temperatura máxima,°C,19.67,0.18,IPMA
+2026,2026-11-22,1116,Temperatura média,°C,14.68,0.04,IPMA
+2026,2026-11-22,1116,Temperatura mínima,°C,10.64,0.11,IPMA
+2026,2026-11-22,1201,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,1201,Temperatura máxima,°C,17.4,0.79,IPMA
+2026,2026-11-22,1201,Temperatura média,°C,12.05,0.39,IPMA
+2026,2026-11-22,1201,Temperatura mínima,°C,7.58,0.21,IPMA
+2026,2026-11-22,1202,Precipitação,mm,0.02,0.01,IPMA
+2026,2026-11-22,1202,Temperatura máxima,°C,16.04,0.75,IPMA
+2026,2026-11-22,1202,Temperatura média,°C,11.59,0.44,IPMA
+2026,2026-11-22,1202,Temperatura mínima,°C,7.74,0.14,IPMA
+2026,2026-11-22,1203,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,1203,Temperatura máxima,°C,18.24,0.18,IPMA
+2026,2026-11-22,1203,Temperatura média,°C,12.68,0.14,IPMA
+2026,2026-11-22,1203,Temperatura mínima,°C,7.91,0.23,IPMA
+2026,2026-11-22,1204,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,1204,Temperatura máxima,°C,17.38,0.23,IPMA
+2026,2026-11-22,1204,Temperatura média,°C,12.44,0.17,IPMA
+2026,2026-11-22,1204,Temperatura mínima,°C,7.79,0.05,IPMA
+2026,2026-11-22,1205,Precipitação,mm,0.01,0,IPMA
+2026,2026-11-22,1205,Temperatura máxima,°C,15.25,0.45,IPMA
+2026,2026-11-22,1205,Temperatura média,°C,11.04,0.18,IPMA
+2026,2026-11-22,1205,Temperatura mínima,°C,7.86,0.14,IPMA
+2026,2026-11-22,1206,Precipitação,mm,0.02,0.01,IPMA
+2026,2026-11-22,1206,Temperatura máxima,°C,15.96,1.11,IPMA
+2026,2026-11-22,1206,Temperatura média,°C,11.26,0.35,IPMA
+2026,2026-11-22,1206,Temperatura mínima,°C,7.64,0.38,IPMA
+2026,2026-11-22,1207,Precipitação,mm,0.02,0.03,IPMA
+2026,2026-11-22,1207,Temperatura máxima,°C,17.29,0.47,IPMA
+2026,2026-11-22,1207,Temperatura média,°C,12.32,0.43,IPMA
+2026,2026-11-22,1207,Temperatura mínima,°C,7.46,0.57,IPMA
+2026,2026-11-22,1208,Precipitação,mm,0.04,0.02,IPMA
+2026,2026-11-22,1208,Temperatura máxima,°C,16.95,0.54,IPMA
+2026,2026-11-22,1208,Temperatura média,°C,11.87,0.34,IPMA
+2026,2026-11-22,1208,Temperatura mínima,°C,7.26,0.38,IPMA
+2026,2026-11-22,1209,Precipitação,mm,0.08,0.02,IPMA
+2026,2026-11-22,1209,Temperatura máxima,°C,18.35,0.26,IPMA
+2026,2026-11-22,1209,Temperatura média,°C,11.52,0.09,IPMA
+2026,2026-11-22,1209,Temperatura mínima,°C,6.19,0.32,IPMA
+2026,2026-11-22,1210,Precipitação,mm,0.01,0,IPMA
+2026,2026-11-22,1210,Temperatura máxima,°C,14.51,0.3,IPMA
+2026,2026-11-22,1210,Temperatura média,°C,10.77,0.13,IPMA
+2026,2026-11-22,1210,Temperatura mínima,°C,8.09,0.09,IPMA
+2026,2026-11-22,1211,Precipitação,mm,0.05,0.02,IPMA
+2026,2026-11-22,1211,Temperatura máxima,°C,15.98,0.44,IPMA
+2026,2026-11-22,1211,Temperatura média,°C,11.34,0.19,IPMA
+2026,2026-11-22,1211,Temperatura mínima,°C,6.93,0.65,IPMA
+2026,2026-11-22,1212,Precipitação,mm,0.03,0.01,IPMA
+2026,2026-11-22,1212,Temperatura máxima,°C,16.77,0.6,IPMA
+2026,2026-11-22,1212,Temperatura média,°C,11.48,0.11,IPMA
+2026,2026-11-22,1212,Temperatura mínima,°C,7.35,0.34,IPMA
+2026,2026-11-22,1213,Precipitação,mm,0.02,0.02,IPMA
+2026,2026-11-22,1213,Temperatura máxima,°C,18.47,0.12,IPMA
+2026,2026-11-22,1213,Temperatura média,°C,12.15,0.32,IPMA
+2026,2026-11-22,1213,Temperatura mínima,°C,7.2,0.67,IPMA
+2026,2026-11-22,1214,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1214,Temperatura máxima,°C,14.3,0.19,IPMA
+2026,2026-11-22,1214,Temperatura média,°C,10.69,0.08,IPMA
+2026,2026-11-22,1214,Temperatura mínima,°C,8.14,0.06,IPMA
+2026,2026-11-22,1215,Precipitação,mm,0.05,0.02,IPMA
+2026,2026-11-22,1215,Temperatura máxima,°C,17.29,0.63,IPMA
+2026,2026-11-22,1215,Temperatura média,°C,12.02,0.43,IPMA
+2026,2026-11-22,1215,Temperatura mínima,°C,7.09,0.59,IPMA
+2026,2026-11-22,1301,Precipitação,mm,0.92,0.09,IPMA
+2026,2026-11-22,1301,Temperatura máxima,°C,15.05,0.39,IPMA
+2026,2026-11-22,1301,Temperatura média,°C,10.23,0.25,IPMA
+2026,2026-11-22,1301,Temperatura mínima,°C,6.19,0.19,IPMA
+2026,2026-11-22,1302,Precipitação,mm,1.14,0.23,IPMA
+2026,2026-11-22,1302,Temperatura máxima,°C,14.27,0.35,IPMA
+2026,2026-11-22,1302,Temperatura média,°C,9.42,0.37,IPMA
+2026,2026-11-22,1302,Temperatura mínima,°C,5.47,0.37,IPMA
+2026,2026-11-22,1303,Precipitação,mm,1.07,0.03,IPMA
+2026,2026-11-22,1303,Temperatura máxima,°C,15.76,0.14,IPMA
+2026,2026-11-22,1303,Temperatura média,°C,10.77,0.13,IPMA
+2026,2026-11-22,1303,Temperatura mínima,°C,6.6,0.29,IPMA
+2026,2026-11-22,1304,Precipitação,mm,1.46,1.09,IPMA
+2026,2026-11-22,1304,Temperatura máxima,°C,16.25,0.41,IPMA
+2026,2026-11-22,1304,Temperatura média,°C,11.79,0.71,IPMA
+2026,2026-11-22,1304,Temperatura mínima,°C,7.66,0.89,IPMA
+2026,2026-11-22,1305,Precipitação,mm,1.04,0.11,IPMA
+2026,2026-11-22,1305,Temperatura máxima,°C,15.46,0.08,IPMA
+2026,2026-11-22,1305,Temperatura média,°C,10.44,0.11,IPMA
+2026,2026-11-22,1305,Temperatura mínima,°C,5.54,0.45,IPMA
+2026,2026-11-22,1306,Precipitação,mm,0.26,0.17,IPMA
+2026,2026-11-22,1306,Temperatura máxima,°C,17.09,0.28,IPMA
+2026,2026-11-22,1306,Temperatura média,°C,13.37,0.61,IPMA
+2026,2026-11-22,1306,Temperatura mínima,°C,9.66,0.85,IPMA
+2026,2026-11-22,1307,Precipitação,mm,0.64,0.27,IPMA
+2026,2026-11-22,1307,Temperatura máxima,°C,15.23,0.11,IPMA
+2026,2026-11-22,1307,Temperatura média,°C,10.32,0.11,IPMA
+2026,2026-11-22,1307,Temperatura mínima,°C,6.58,0.22,IPMA
+2026,2026-11-22,1308,Precipitação,mm,0.19,0.15,IPMA
+2026,2026-11-22,1308,Temperatura máxima,°C,17.18,0.26,IPMA
+2026,2026-11-22,1308,Temperatura média,°C,13.56,0.6,IPMA
+2026,2026-11-22,1308,Temperatura mínima,°C,9.97,0.75,IPMA
+2026,2026-11-22,1309,Precipitação,mm,1.19,0.01,IPMA
+2026,2026-11-22,1309,Temperatura máxima,°C,15.34,0.04,IPMA
+2026,2026-11-22,1309,Temperatura média,°C,10.26,0.06,IPMA
+2026,2026-11-22,1309,Temperatura mínima,°C,4.66,0.18,IPMA
+2026,2026-11-22,1310,Precipitação,mm,1.08,0.16,IPMA
+2026,2026-11-22,1310,Temperatura máxima,°C,15.56,0.2,IPMA
+2026,2026-11-22,1310,Temperatura média,°C,10.65,0.34,IPMA
+2026,2026-11-22,1310,Temperatura mínima,°C,5.82,0.82,IPMA
+2026,2026-11-22,1311,Precipitação,mm,0.68,0.62,IPMA
+2026,2026-11-22,1311,Temperatura máxima,°C,15.37,0.07,IPMA
+2026,2026-11-22,1311,Temperatura média,°C,10.45,0.07,IPMA
+2026,2026-11-22,1311,Temperatura mínima,°C,6.63,0.25,IPMA
+2026,2026-11-22,1312,Precipitação,mm,0.39,0.01,IPMA
+2026,2026-11-22,1312,Temperatura máxima,°C,16.83,0.02,IPMA
+2026,2026-11-22,1312,Temperatura média,°C,12.78,0.04,IPMA
+2026,2026-11-22,1312,Temperatura mínima,°C,8.99,0.05,IPMA
+2026,2026-11-22,1313,Precipitação,mm,0.29,0.1,IPMA
+2026,2026-11-22,1313,Temperatura máxima,°C,17.41,0.12,IPMA
+2026,2026-11-22,1313,Temperatura média,°C,12.36,0.26,IPMA
+2026,2026-11-22,1313,Temperatura mínima,°C,8.44,0.33,IPMA
+2026,2026-11-22,1314,Precipitação,mm,1.05,0.11,IPMA
+2026,2026-11-22,1314,Temperatura máxima,°C,15.77,0.27,IPMA
+2026,2026-11-22,1314,Temperatura média,°C,10.81,0.33,IPMA
+2026,2026-11-22,1314,Temperatura mínima,°C,5.84,0.63,IPMA
+2026,2026-11-22,1315,Precipitação,mm,0.76,0.19,IPMA
+2026,2026-11-22,1315,Temperatura máxima,°C,16.25,0.35,IPMA
+2026,2026-11-22,1315,Temperatura média,°C,11.76,0.6,IPMA
+2026,2026-11-22,1315,Temperatura mínima,°C,7.31,0.96,IPMA
+2026,2026-11-22,1316,Precipitação,mm,0.26,0.12,IPMA
+2026,2026-11-22,1316,Temperatura máxima,°C,17.28,0.08,IPMA
+2026,2026-11-22,1316,Temperatura média,°C,13.28,0.55,IPMA
+2026,2026-11-22,1316,Temperatura mínima,°C,9.58,0.7,IPMA
+2026,2026-11-22,1317,Precipitação,mm,0.98,0.57,IPMA
+2026,2026-11-22,1317,Temperatura máxima,°C,16.59,0.24,IPMA
+2026,2026-11-22,1317,Temperatura média,°C,12.39,0.43,IPMA
+2026,2026-11-22,1317,Temperatura mínima,°C,8.43,0.57,IPMA
+2026,2026-11-22,1318,Precipitação,mm,0.51,0.18,IPMA
+2026,2026-11-22,1318,Temperatura máxima,°C,16.77,0.28,IPMA
+2026,2026-11-22,1318,Temperatura média,°C,12.5,0.6,IPMA
+2026,2026-11-22,1318,Temperatura mínima,°C,8.42,0.88,IPMA
+2026,2026-11-22,1401,Precipitação,mm,0.07,0.03,IPMA
+2026,2026-11-22,1401,Temperatura máxima,°C,18.54,0.24,IPMA
+2026,2026-11-22,1401,Temperatura média,°C,11.36,0.22,IPMA
+2026,2026-11-22,1401,Temperatura mínima,°C,5.97,0.26,IPMA
+2026,2026-11-22,1402,Precipitação,mm,0.03,0.01,IPMA
+2026,2026-11-22,1402,Temperatura máxima,°C,18.75,0.03,IPMA
+2026,2026-11-22,1402,Temperatura média,°C,12.02,0.13,IPMA
+2026,2026-11-22,1402,Temperatura mínima,°C,6.57,0.24,IPMA
+2026,2026-11-22,1403,Precipitação,mm,0.04,0.02,IPMA
+2026,2026-11-22,1403,Temperatura máxima,°C,18.68,0.25,IPMA
+2026,2026-11-22,1403,Temperatura média,°C,13.01,0.55,IPMA
+2026,2026-11-22,1403,Temperatura mínima,°C,8.7,0.57,IPMA
+2026,2026-11-22,1404,Precipitação,mm,0.06,0.02,IPMA
+2026,2026-11-22,1404,Temperatura máxima,°C,18.58,0.17,IPMA
+2026,2026-11-22,1404,Temperatura média,°C,12.62,0.41,IPMA
+2026,2026-11-22,1404,Temperatura mínima,°C,8.04,0.5,IPMA
+2026,2026-11-22,1405,Precipitação,mm,0.18,0.06,IPMA
+2026,2026-11-22,1405,Temperatura máxima,°C,19.82,0.37,IPMA
+2026,2026-11-22,1405,Temperatura média,°C,13.78,0.47,IPMA
+2026,2026-11-22,1405,Temperatura mínima,°C,9.5,0.8,IPMA
+2026,2026-11-22,1406,Precipitação,mm,0.03,0.03,IPMA
+2026,2026-11-22,1406,Temperatura máxima,°C,18.97,0.03,IPMA
+2026,2026-11-22,1406,Temperatura média,°C,13.65,0.2,IPMA
+2026,2026-11-22,1406,Temperatura mínima,°C,9.27,0.35,IPMA
+2026,2026-11-22,1407,Precipitação,mm,0.13,0.05,IPMA
+2026,2026-11-22,1407,Temperatura máxima,°C,17.97,0.26,IPMA
+2026,2026-11-22,1407,Temperatura média,°C,11.2,0.62,IPMA
+2026,2026-11-22,1407,Temperatura mínima,°C,6.33,1,IPMA
+2026,2026-11-22,1408,Precipitação,mm,0.09,0.04,IPMA
+2026,2026-11-22,1408,Temperatura máxima,°C,18.37,0.31,IPMA
+2026,2026-11-22,1408,Temperatura média,°C,11.08,0.09,IPMA
+2026,2026-11-22,1408,Temperatura mínima,°C,5.86,0.1,IPMA
+2026,2026-11-22,1409,Precipitação,mm,0.07,0.04,IPMA
+2026,2026-11-22,1409,Temperatura máxima,°C,18.92,0.37,IPMA
+2026,2026-11-22,1409,Temperatura média,°C,12.59,0.2,IPMA
+2026,2026-11-22,1409,Temperatura mínima,°C,7.78,0.79,IPMA
+2026,2026-11-22,1410,Precipitação,mm,0.04,0.01,IPMA
+2026,2026-11-22,1410,Temperatura máxima,°C,18.7,0.06,IPMA
+2026,2026-11-22,1410,Temperatura média,°C,11.23,0.05,IPMA
+2026,2026-11-22,1410,Temperatura mínima,°C,5.95,0.08,IPMA
+2026,2026-11-22,1411,Precipitação,mm,0.01,0,IPMA
+2026,2026-11-22,1411,Temperatura máxima,°C,18.24,0.42,IPMA
+2026,2026-11-22,1411,Temperatura média,°C,11.29,0.16,IPMA
+2026,2026-11-22,1411,Temperatura mínima,°C,6.71,0.66,IPMA
+2026,2026-11-22,1412,Precipitação,mm,0.09,0.01,IPMA
+2026,2026-11-22,1412,Temperatura máxima,°C,18.36,0.1,IPMA
+2026,2026-11-22,1412,Temperatura média,°C,11.51,0.25,IPMA
+2026,2026-11-22,1412,Temperatura mínima,°C,6.47,0.33,IPMA
+2026,2026-11-22,1413,Precipitação,mm,0.05,0.03,IPMA
+2026,2026-11-22,1413,Temperatura máxima,°C,17.59,0.67,IPMA
+2026,2026-11-22,1413,Temperatura média,°C,11.59,0.14,IPMA
+2026,2026-11-22,1413,Temperatura mínima,°C,7.04,0.83,IPMA
+2026,2026-11-22,1414,Precipitação,mm,0.05,0.02,IPMA
+2026,2026-11-22,1414,Temperatura máxima,°C,18.82,0.03,IPMA
+2026,2026-11-22,1414,Temperatura média,°C,11.9,0.27,IPMA
+2026,2026-11-22,1414,Temperatura mínima,°C,6.52,0.42,IPMA
+2026,2026-11-22,1415,Precipitação,mm,0.09,0.04,IPMA
+2026,2026-11-22,1415,Temperatura máxima,°C,19.02,0.1,IPMA
+2026,2026-11-22,1415,Temperatura média,°C,13.09,0.3,IPMA
+2026,2026-11-22,1415,Temperatura mínima,°C,8.41,0.49,IPMA
+2026,2026-11-22,1416,Precipitação,mm,0.03,0.02,IPMA
+2026,2026-11-22,1416,Temperatura máxima,°C,18.84,0.12,IPMA
+2026,2026-11-22,1416,Temperatura média,°C,12.74,0.66,IPMA
+2026,2026-11-22,1416,Temperatura mínima,°C,7.83,1.13,IPMA
+2026,2026-11-22,1417,Precipitação,mm,0.06,0.01,IPMA
+2026,2026-11-22,1417,Temperatura máxima,°C,18.48,0.13,IPMA
+2026,2026-11-22,1417,Temperatura média,°C,11.36,0.05,IPMA
+2026,2026-11-22,1417,Temperatura mínima,°C,6.05,0.13,IPMA
+2026,2026-11-22,1418,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1418,Temperatura máxima,°C,19,0.1,IPMA
+2026,2026-11-22,1418,Temperatura média,°C,10.97,0.07,IPMA
+2026,2026-11-22,1418,Temperatura mínima,°C,5.55,0.17,IPMA
+2026,2026-11-22,1419,Precipitação,mm,0.03,0.02,IPMA
+2026,2026-11-22,1419,Temperatura máxima,°C,18.75,0.13,IPMA
+2026,2026-11-22,1419,Temperatura média,°C,11.42,0.25,IPMA
+2026,2026-11-22,1419,Temperatura mínima,°C,6.1,0.31,IPMA
+2026,2026-11-22,1420,Precipitação,mm,0.03,0.01,IPMA
+2026,2026-11-22,1420,Temperatura máxima,°C,18.8,0.1,IPMA
+2026,2026-11-22,1420,Temperatura média,°C,11.08,0.05,IPMA
+2026,2026-11-22,1420,Temperatura mínima,°C,5.72,0.09,IPMA
+2026,2026-11-22,1421,Precipitação,mm,0.01,0,IPMA
+2026,2026-11-22,1421,Temperatura máxima,°C,18.39,0.38,IPMA
+2026,2026-11-22,1421,Temperatura média,°C,11.69,0.24,IPMA
+2026,2026-11-22,1421,Temperatura mínima,°C,6.67,0.65,IPMA
+2026,2026-11-22,1501,Precipitação,mm,0.12,0.03,IPMA
+2026,2026-11-22,1501,Temperatura máxima,°C,19.38,0.55,IPMA
+2026,2026-11-22,1501,Temperatura média,°C,12.91,0.2,IPMA
+2026,2026-11-22,1501,Temperatura mínima,°C,7.71,0.39,IPMA
+2026,2026-11-22,1502,Precipitação,mm,0.06,0.03,IPMA
+2026,2026-11-22,1502,Temperatura máxima,°C,20.01,0.19,IPMA
+2026,2026-11-22,1502,Temperatura média,°C,14.64,0.4,IPMA
+2026,2026-11-22,1502,Temperatura mínima,°C,11,0.62,IPMA
+2026,2026-11-22,1503,Precipitação,mm,0.01,0,IPMA
+2026,2026-11-22,1503,Temperatura máxima,°C,20.03,0.14,IPMA
+2026,2026-11-22,1503,Temperatura média,°C,15.04,0.06,IPMA
+2026,2026-11-22,1503,Temperatura mínima,°C,11.99,0.13,IPMA
+2026,2026-11-22,1504,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1504,Temperatura máxima,°C,20.35,0.17,IPMA
+2026,2026-11-22,1504,Temperatura média,°C,15.52,0.33,IPMA
+2026,2026-11-22,1504,Temperatura mínima,°C,12.19,0.48,IPMA
+2026,2026-11-22,1505,Precipitação,mm,0.06,0.03,IPMA
+2026,2026-11-22,1505,Temperatura máxima,°C,19.33,0.24,IPMA
+2026,2026-11-22,1505,Temperatura média,°C,13.12,0.45,IPMA
+2026,2026-11-22,1505,Temperatura mínima,°C,8.09,0.86,IPMA
+2026,2026-11-22,1506,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1506,Temperatura máxima,°C,20.41,0.15,IPMA
+2026,2026-11-22,1506,Temperatura média,°C,15.58,0.32,IPMA
+2026,2026-11-22,1506,Temperatura mínima,°C,12.25,0.48,IPMA
+2026,2026-11-22,1507,Precipitação,mm,0.21,0.09,IPMA
+2026,2026-11-22,1507,Temperatura máxima,°C,19.63,0.47,IPMA
+2026,2026-11-22,1507,Temperatura média,°C,13.08,1,IPMA
+2026,2026-11-22,1507,Temperatura mínima,°C,8.9,1.35,IPMA
+2026,2026-11-22,1508,Precipitação,mm,0.12,0.1,IPMA
+2026,2026-11-22,1508,Temperatura máxima,°C,19.67,0.34,IPMA
+2026,2026-11-22,1508,Temperatura média,°C,13.19,0.57,IPMA
+2026,2026-11-22,1508,Temperatura mínima,°C,8.83,0.71,IPMA
+2026,2026-11-22,1509,Precipitação,mm,0.01,0.01,IPMA
+2026,2026-11-22,1509,Temperatura máxima,°C,19.1,0.47,IPMA
+2026,2026-11-22,1509,Temperatura média,°C,13.29,0.98,IPMA
+2026,2026-11-22,1509,Temperatura mínima,°C,8.35,1.88,IPMA
+2026,2026-11-22,1510,Precipitação,mm,0.01,0,IPMA
+2026,2026-11-22,1510,Temperatura máxima,°C,20.1,0.09,IPMA
+2026,2026-11-22,1510,Temperatura média,°C,15.23,0.22,IPMA
+2026,2026-11-22,1510,Temperatura mínima,°C,11.95,0.32,IPMA
+2026,2026-11-22,1511,Precipitação,mm,0.02,0,IPMA
+2026,2026-11-22,1511,Temperatura máxima,°C,19.87,0.08,IPMA
+2026,2026-11-22,1511,Temperatura média,°C,14.61,0.26,IPMA
+2026,2026-11-22,1511,Temperatura mínima,°C,10.95,0.46,IPMA
+2026,2026-11-22,1512,Precipitação,mm,0.02,0.02,IPMA
+2026,2026-11-22,1512,Temperatura máxima,°C,19.73,0.07,IPMA
+2026,2026-11-22,1512,Temperatura média,°C,13.3,0.36,IPMA
+2026,2026-11-22,1512,Temperatura mínima,°C,8.66,0.6,IPMA
+2026,2026-11-22,1513,Precipitação,mm,0,0,IPMA
+2026,2026-11-22,1513,Temperatura máxima,°C,18.3,0.11,IPMA
+2026,2026-11-22,1513,Temperatura média,°C,15.04,0.31,IPMA
+2026,2026-11-22,1513,Temperatura mínima,°C,11.75,0.67,IPMA
+2026,2026-11-22,1601,Precipitação,mm,1.63,0.14,IPMA
+2026,2026-11-22,1601,Temperatura máxima,°C,13.54,1.19,IPMA
+2026,2026-11-22,1601,Temperatura média,°C,9.36,0.87,IPMA
+2026,2026-11-22,1601,Temperatura mínima,°C,6.03,1.27,IPMA
+2026,2026-11-22,1602,Precipitação,mm,1.1,0.17,IPMA
+2026,2026-11-22,1602,Temperatura máxima,°C,16.6,0.17,IPMA
+2026,2026-11-22,1602,Temperatura média,°C,11.45,0.22,IPMA
+2026,2026-11-22,1602,Temperatura mínima,°C,7.6,0.15,IPMA
+2026,2026-11-22,1603,Precipitação,mm,1.71,0.23,IPMA
+2026,2026-11-22,1603,Temperatura máxima,°C,12,1.56,IPMA
+2026,2026-11-22,1603,Temperatura média,°C,7.77,1.29,IPMA
+2026,2026-11-22,1603,Temperatura mínima,°C,2.91,1.77,IPMA
+2026,2026-11-22,1604,Precipitação,mm,1.08,0.14,IPMA
+2026,2026-11-22,1604,Temperatura máxima,°C,15.78,1.38,IPMA
+2026,2026-11-22,1604,Temperatura média,°C,11.04,0.97,IPMA
+2026,2026-11-22,1604,Temperatura mínima,°C,7.69,0.95,IPMA
+2026,2026-11-22,1605,Precipitação,mm,1.45,0.08,IPMA
+2026,2026-11-22,1605,Temperatura máxima,°C,13.61,1.79,IPMA
+2026,2026-11-22,1605,Temperatura média,°C,9.53,1.06,IPMA
+2026,2026-11-22,1605,Temperatura mínima,°C,6.38,0.65,IPMA
+2026,2026-11-22,1606,Precipitação,mm,1.7,0.16,IPMA
+2026,2026-11-22,1606,Temperatura máxima,°C,14.93,0.45,IPMA
+2026,2026-11-22,1606,Temperatura média,°C,10.06,0.36,IPMA
+2026,2026-11-22,1606,Temperatura mínima,°C,6.85,0.42,IPMA
+2026,2026-11-22,1607,Precipitação,mm,1.28,0.14,IPMA
+2026,2026-11-22,1607,Temperatura máxima,°C,16.35,0.63,IPMA
+2026,2026-11-22,1607,Temperatura média,°C,10.8,0.3,IPMA
+2026,2026-11-22,1607,Temperatura mínima,°C,7.2,0.25,IPMA
+2026,2026-11-22,1608,Precipitação,mm,1.37,0.04,IPMA
+2026,2026-11-22,1608,Temperatura máxima,°C,16.72,1.02,IPMA
+2026,2026-11-22,1608,Temperatura média,°C,11.48,0.63,IPMA
+2026,2026-11-22,1608,Temperatura mínima,°C,7.52,0.34,IPMA
+2026,2026-11-22,1609,Precipitação,mm,0.5,0.33,IPMA
+2026,2026-11-22,1609,Temperatura máxima,°C,16.74,0.14,IPMA
+2026,2026-11-22,1609,Temperatura média,°C,12.37,0.76,IPMA
+2026,2026-11-22,1609,Temperatura mínima,°C,8.33,0.56,IPMA
+2026,2026-11-22,1610,Precipitação,mm,1.37,0.03,IPMA
+2026,2026-11-22,1610,Temperatura máxima,°C,17.24,0.52,IPMA
+2026,2026-11-22,1610,Temperatura média,°C,11.75,0.37,IPMA
+2026,2026-11-22,1610,Temperatura mínima,°C,7.67,0.18,IPMA
+2026,2026-11-22,1701,Precipitação,mm,0.17,0.07,IPMA
+2026,2026-11-22,1701,Temperatura máxima,°C,15.45,1.1,IPMA
+2026,2026-11-22,1701,Temperatura média,°C,10.4,1.01,IPMA
+2026,2026-11-22,1701,Temperatura mínima,°C,5.01,1.42,IPMA
+2026,2026-11-22,1702,Precipitação,mm,0.65,0.21,IPMA
+2026,2026-11-22,1702,Temperatura máxima,°C,13.04,1.06,IPMA
+2026,2026-11-22,1702,Temperatura média,°C,8.87,0.67,IPMA
+2026,2026-11-22,1702,Temperatura mínima,°C,5.19,0.54,IPMA
+2026,2026-11-22,1703,Precipitação,mm,0.1,0.09,IPMA
+2026,2026-11-22,1703,Temperatura máxima,°C,14.96,0.69,IPMA
+2026,2026-11-22,1703,Temperatura média,°C,10.14,0.5,IPMA
+2026,2026-11-22,1703,Temperatura mínima,°C,5.25,0.17,IPMA
+2026,2026-11-22,1704,Precipitação,mm,0.77,0.14,IPMA
+2026,2026-11-22,1704,Temperatura máxima,°C,13.88,0.1,IPMA
+2026,2026-11-22,1704,Temperatura média,°C,9.22,0.27,IPMA
+2026,2026-11-22,1704,Temperatura mínima,°C,5.3,0.27,IPMA
+2026,2026-11-22,1705,Precipitação,mm,0.9,0.2,IPMA
+2026,2026-11-22,1705,Temperatura máxima,°C,15.15,0.57,IPMA
+2026,2026-11-22,1705,Temperatura média,°C,10.34,0.22,IPMA
+2026,2026-11-22,1705,Temperatura mínima,°C,6.31,0.07,IPMA
+2026,2026-11-22,1706,Precipitação,mm,0.84,0.23,IPMA
+2026,2026-11-22,1706,Temperatura máxima,°C,11.23,2.18,IPMA
+2026,2026-11-22,1706,Temperatura média,°C,7.7,1.22,IPMA
+2026,2026-11-22,1706,Temperatura mínima,°C,4.86,1.45,IPMA
+2026,2026-11-22,1707,Precipitação,mm,0.21,0.05,IPMA
+2026,2026-11-22,1707,Temperatura máxima,°C,15.24,0.46,IPMA
+2026,2026-11-22,1707,Temperatura média,°C,10.12,0.41,IPMA
+2026,2026-11-22,1707,Temperatura mínima,°C,4.8,0.79,IPMA
+2026,2026-11-22,1708,Precipitação,mm,0.41,0.14,IPMA
+2026,2026-11-22,1708,Temperatura máxima,°C,14.38,0.67,IPMA
+2026,2026-11-22,1708,Temperatura média,°C,10.03,0.49,IPMA
+2026,2026-11-22,1708,Temperatura mínima,°C,6.06,0.32,IPMA
+2026,2026-11-22,1709,Precipitação,mm,0.86,0.16,IPMA
+2026,2026-11-22,1709,Temperatura máxima,°C,14.88,0.64,IPMA
+2026,2026-11-22,1709,Temperatura média,°C,10.09,0.41,IPMA
+2026,2026-11-22,1709,Temperatura mínima,°C,6.1,0.29,IPMA
+2026,2026-11-22,1710,Precipitação,mm,0.16,0.11,IPMA
+2026,2026-11-22,1710,Temperatura máxima,°C,16.1,1.57,IPMA
+2026,2026-11-22,1710,Temperatura média,°C,11.37,1.02,IPMA
+2026,2026-11-22,1710,Temperatura mínima,°C,6.79,0.52,IPMA
+2026,2026-11-22,1711,Precipitação,mm,0.39,0.07,IPMA
+2026,2026-11-22,1711,Temperatura máxima,°C,13.59,0.22,IPMA
+2026,2026-11-22,1711,Temperatura média,°C,9.79,0.04,IPMA
+2026,2026-11-22,1711,Temperatura mínima,°C,6.2,0.11,IPMA
+2026,2026-11-22,1712,Precipitação,mm,0.09,0.05,IPMA
+2026,2026-11-22,1712,Temperatura máxima,°C,15.85,0.86,IPMA
+2026,2026-11-22,1712,Temperatura média,°C,10.58,0.51,IPMA
+2026,2026-11-22,1712,Temperatura mínima,°C,5.51,0.25,IPMA
+2026,2026-11-22,1713,Precipitação,mm,0.42,0.14,IPMA
+2026,2026-11-22,1713,Temperatura máxima,°C,14.65,0.29,IPMA
+2026,2026-11-22,1713,Temperatura média,°C,10.02,0.16,IPMA
+2026,2026-11-22,1713,Temperatura mínima,°C,5.65,0.23,IPMA
+2026,2026-11-22,1714,Precipitação,mm,0.36,0.1,IPMA
+2026,2026-11-22,1714,Temperatura máxima,°C,13.63,0.47,IPMA
+2026,2026-11-22,1714,Temperatura média,°C,9.88,0.22,IPMA
+2026,2026-11-22,1714,Temperatura mínima,°C,6.32,0.11,IPMA
+2026,2026-11-22,1801,Precipitação,mm,0.41,0.14,IPMA
+2026,2026-11-22,1801,Temperatura máxima,°C,15.15,0.84,IPMA
+2026,2026-11-22,1801,Temperatura média,°C,9.88,0.92,IPMA
+2026,2026-11-22,1801,Temperatura mínima,°C,5.37,0.77,IPMA
+2026,2026-11-22,1802,Precipitação,mm,0.12,0.02,IPMA
+2026,2026-11-22,1802,Temperatura máxima,°C,16.41,0.22,IPMA
+2026,2026-11-22,1802,Temperatura média,°C,10.89,0.1,IPMA
+2026,2026-11-22,1802,Temperatura mínima,°C,5.68,0.05,IPMA
+2026,2026-11-22,1803,Precipitação,mm,1.81,1.09,IPMA
+2026,2026-11-22,1803,Temperatura máxima,°C,13.03,0.58,IPMA
+2026,2026-11-22,1803,Temperatura média,°C,7.82,0.72,IPMA
+2026,2026-11-22,1803,Temperatura mínima,°C,4.03,0.7,IPMA
+2026,2026-11-22,1804,Precipitação,mm,2.96,1.32,IPMA
+2026,2026-11-22,1804,Temperatura máxima,°C,14.34,0.92,IPMA
+2026,2026-11-22,1804,Temperatura média,°C,9.23,1,IPMA
+2026,2026-11-22,1804,Temperatura mínima,°C,5.15,0.89,IPMA
+2026,2026-11-22,1805,Precipitação,mm,0.9,0.25,IPMA
+2026,2026-11-22,1805,Temperatura máxima,°C,13.31,0.69,IPMA
+2026,2026-11-22,1805,Temperatura média,°C,8.16,0.9,IPMA
+2026,2026-11-22,1805,Temperatura mínima,°C,4.23,0.78,IPMA
+2026,2026-11-22,1806,Precipitação,mm,0.44,0.22,IPMA
+2026,2026-11-22,1806,Temperatura máxima,°C,14.09,0.62,IPMA
+2026,2026-11-22,1806,Temperatura média,°C,9.66,0.31,IPMA
+2026,2026-11-22,1806,Temperatura mínima,°C,5.57,0.9,IPMA
+2026,2026-11-22,1807,Precipitação,mm,0.78,0.26,IPMA
+2026,2026-11-22,1807,Temperatura máxima,°C,14.03,0.12,IPMA
+2026,2026-11-22,1807,Temperatura média,°C,8.41,0.17,IPMA
+2026,2026-11-22,1807,Temperatura mínima,°C,4,0.22,IPMA
+2026,2026-11-22,1808,Precipitação,mm,0.02,0.02,IPMA
+2026,2026-11-22,1808,Temperatura máxima,°C,16.51,0.22,IPMA
+2026,2026-11-22,1808,Temperatura média,°C,10.51,0.2,IPMA
+2026,2026-11-22,1808,Temperatura mínima,°C,5.04,0.68,IPMA
+2026,2026-11-22,1809,Precipitação,mm,0.05,0.05,IPMA
+2026,2026-11-22,1809,Temperatura máxima,°C,15.32,0.43,IPMA
+2026,2026-11-22,1809,Temperatura média,°C,10.57,0.19,IPMA
+2026,2026-11-22,1809,Temperatura mínima,°C,6.02,0.17,IPMA
+2026,2026-11-22,1810,Precipitação,mm,1.12,0.88,IPMA
+2026,2026-11-22,1810,Temperatura máxima,°C,13.31,0.32,IPMA
+2026,2026-11-22,1810,Temperatura média,°C,8.78,0.46,IPMA
+2026,2026-11-22,1810,Temperatura mínima,°C,5.34,0.14,IPMA
+2026,2026-11-22,1811,Precipitação,mm,0.47,0.26,IPMA
+2026,2026-11-22,1811,Temperatura máxima,°C,14.05,0.44,IPMA
+2026,2026-11-22,1811,Temperatura média,°C,9.4,0.25,IPMA
+2026,2026-11-22,1811,Temperatura mínima,°C,4.3,0.95,IPMA
+2026,2026-11-22,1812,Precipitação,mm,0.5,0.04,IPMA
+2026,2026-11-22,1812,Temperatura máxima,°C,14.12,0.5,IPMA
+2026,2026-11-22,1812,Temperatura média,°C,8.98,0.39,IPMA
+2026,2026-11-22,1812,Temperatura mínima,°C,4.56,0.15,IPMA
+2026,2026-11-22,1813,Precipitação,mm,1.5,0.31,IPMA
+2026,2026-11-22,1813,Temperatura máxima,°C,13.09,0.43,IPMA
+2026,2026-11-22,1813,Temperatura média,°C,7.86,0.53,IPMA
+2026,2026-11-22,1813,Temperatura mínima,°C,4.02,0.47,IPMA
+2026,2026-11-22,1814,Precipitação,mm,0.04,0.02,IPMA
+2026,2026-11-22,1814,Temperatura máxima,°C,16.53,0.15,IPMA
+2026,2026-11-22,1814,Temperatura média,°C,10.58,0.1,IPMA
+2026,2026-11-22,1814,Temperatura mínima,°C,5.32,0.33,IPMA
+2026,2026-11-22,1815,Precipitação,mm,0.22,0.15,IPMA
+2026,2026-11-22,1815,Temperatura máxima,°C,16.06,1.26,IPMA
+2026,2026-11-22,1815,Temperatura média,°C,10.7,1.2,IPMA
+2026,2026-11-22,1815,Temperatura mínima,°C,5.38,1.28,IPMA
+2026,2026-11-22,1816,Precipitação,mm,2.41,1.8,IPMA
+2026,2026-11-22,1816,Temperatura máxima,°C,13.63,0.46,IPMA
+2026,2026-11-22,1816,Temperatura média,°C,8.91,0.44,IPMA
+2026,2026-11-22,1816,Temperatura mínima,°C,5.2,0.24,IPMA
+2026,2026-11-22,1817,Precipitação,mm,1.67,0.56,IPMA
+2026,2026-11-22,1817,Temperatura máxima,°C,13.53,0.24,IPMA
+2026,2026-11-22,1817,Temperatura média,°C,8.37,0.29,IPMA
+2026,2026-11-22,1817,Temperatura mínima,°C,4.71,0.68,IPMA
+2026,2026-11-22,1818,Precipitação,mm,0.6,0.14,IPMA
+2026,2026-11-22,1818,Temperatura máxima,°C,13.62,0.37,IPMA
+2026,2026-11-22,1818,Temperatura média,°C,8.34,0.2,IPMA
+2026,2026-11-22,1818,Temperatura mínima,°C,4.07,0.22,IPMA
+2026,2026-11-22,1819,Precipitação,mm,0.26,0.2,IPMA
+2026,2026-11-22,1819,Temperatura máxima,°C,16.46,1.38,IPMA
+2026,2026-11-22,1819,Temperatura média,°C,11,1.41,IPMA
+2026,2026-11-22,1819,Temperatura mínima,°C,6.1,1.12,IPMA
+2026,2026-11-22,1820,Precipitação,mm,0.9,0.22,IPMA
+2026,2026-11-22,1820,Temperatura máxima,°C,13.27,0.61,IPMA
+2026,2026-11-22,1820,Temperatura média,°C,7.86,0.61,IPMA
+2026,2026-11-22,1820,Temperatura mínima,°C,3.82,0.42,IPMA
+2026,2026-11-22,1821,Precipitação,mm,0.19,0.11,IPMA
+2026,2026-11-22,1821,Temperatura máxima,°C,15.09,0.89,IPMA
+2026,2026-11-22,1821,Temperatura média,°C,9.81,0.69,IPMA
+2026,2026-11-22,1821,Temperatura mínima,°C,5.35,0.25,IPMA
+2026,2026-11-22,1822,Precipitação,mm,1.51,0.28,IPMA
+2026,2026-11-22,1822,Temperatura máxima,°C,13.74,0.32,IPMA
+2026,2026-11-22,1822,Temperatura média,°C,8,0.17,IPMA
+2026,2026-11-22,1822,Temperatura mínima,°C,3.71,0.56,IPMA
+2026,2026-11-22,1823,Precipitação,mm,0.54,0.38,IPMA
+2026,2026-11-22,1823,Temperatura máxima,°C,13.71,0.51,IPMA
+2026,2026-11-22,1823,Temperatura média,°C,9.11,0.46,IPMA
+2026,2026-11-22,1823,Temperatura mínima,°C,5.72,0.45,IPMA
+2026,2026-11-22,1824,Precipitação,mm,0.39,0.08,IPMA
+2026,2026-11-22,1824,Temperatura máxima,°C,13.16,0.15,IPMA
+2026,2026-11-22,1824,Temperatura média,°C,8.19,0.28,IPMA
+2026,2026-11-22,1824,Temperatura mínima,°C,5.22,0.14,IPMA
