@@ -23,8 +23,12 @@ from __future__ import annotations
 
 import argparse
 import csv
+import glob
+import hashlib
 import io
+import os
 import re
+import shutil
 import sys
 import time
 from collections import defaultdict
@@ -341,6 +345,44 @@ def compactar_albufeiras(alb: dict, dias_ao_dia: int) -> int:
     return removidas
 
 
+# ---------------------------------------------------------------- livro curado (SharePoint -> GitHub)
+
+# O original vive no SharePoint e é o que o Power BI lê. No PC, a biblioteca está sincronizada pelo
+# OneDrive; a cópia do repositório é um espelho, atualizado aqui, e nunca se edita à mão.
+PADRAO_SHAREPOINT = os.path.join(
+    os.path.expanduser("~"), "OneDrive - CONSULAI", "01_Atalhos",
+    "*011_FENAREG_COTR_Observatorio_Nacional_Regadio", "Trabalho", "04.2* Fase",
+    "04.Dados", "01.Curados", "ONR_Dados_Curados.xlsx")
+
+
+def _sha256(caminho: Path) -> str:
+    h = hashlib.sha256()
+    with open(caminho, "rb") as f:
+        for bloco in iter(lambda: f.read(1 << 20), b""):
+            h.update(bloco)
+    return h.hexdigest()
+
+
+def espelhar_livro(origem: str | None, registo: list, agora: str) -> None:
+    """Copia o livro curado do SharePoint sincronizado para o repositório, se tiver mudado."""
+    if not origem:
+        encontrados = glob.glob(os.environ.get("ONR_LIVRO_SHAREPOINT") or PADRAO_SHAREPOINT)
+        origem = encontrados[0] if encontrados else None
+    if not origem or not os.path.exists(origem):
+        registo.append(dict(Momento=agora, Fonte="ONR", Indicador="livro curado", LinhasNovas=0, Estado="ERRO",
+                            Mensagem="não encontrei a cópia sincronizada do SharePoint; usei a do repositório"))
+        return
+    try:
+        if LIVRO.exists() and _sha256(Path(origem)) == _sha256(LIVRO):
+            return
+        shutil.copyfile(origem, LIVRO)
+        registo.append(dict(Momento=agora, Fonte="ONR", Indicador="livro curado", LinhasNovas=0, Estado="OK",
+                            Mensagem="cópia do repositório atualizada a partir do SharePoint"))
+    except OSError as e:  # ficheiro bloqueado ou só na nuvem
+        registo.append(dict(Momento=agora, Fonte="ONR", Indicador="livro curado", LinhasNovas=0, Estado="ERRO",
+                            Mensagem=f"não consegui copiar do SharePoint: {e}"[:300]))
+
+
 # ---------------------------------------------------------------- principal
 
 def main() -> int:
@@ -351,6 +393,9 @@ def main() -> int:
     ap.add_argument("--orcamento-snirh", type=float, default=20, help="minutos máximos para o SNIRH (por omissão 20)")
     ap.add_argument("--registo", default="_Recolhas.csv",
                     help="ficheiro de registo em dados/clima (o PC usa _Recolhas_SNIRH.csv)")
+    ap.add_argument("--espelhar-livro", action="store_true",
+                    help="atualiza a cópia do livro curado no repositório a partir do SharePoint sincronizado")
+    ap.add_argument("--livro-sharepoint", help="caminho do livro no SharePoint sincronizado (por omissão procura-o)")
     ap.add_argument("--dias-ao-dia", type=int, default=400, help="dias mantidos ao dia (por omissão 400)")
     args = ap.parse_args()
 
@@ -362,6 +407,8 @@ def main() -> int:
     mensal = {(r["Data"], r["IDConcelho"], r["Indicador"]): r for r in ler_csv(f_mes, COLS_CLIMA)}
     alb = {(r["Data"], r["IDAlbufeira"], r["Indicador"]): r for r in ler_csv(f_alb, COLS_ALB)}
     registo: list[dict] = []
+    if args.espelhar_livro:
+        espelhar_livro(args.livro_sharepoint, registo, agora)
 
     ok_ipma = True
     if not args.so_snirh:
