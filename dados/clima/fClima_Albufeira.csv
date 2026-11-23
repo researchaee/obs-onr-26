@@ -7442,6 +7442,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2002,2002-09-30,9,8,9,Volume armazenado,dam3,640,APA/SNIRH
 2002,2002-09-30,10,8,9,Cota,m,178.36,APA/SNIRH
 2002,2002-09-30,10,8,9,Volume armazenado,dam3,436,APA/SNIRH
+2002,2002-09-30,11,8,9,Cota,m,116.72,APA/SNIRH
 2002,2002-09-30,12,10,3,Cota,m,559.45,APA/SNIRH
 2002,2002-09-30,12,10,3,Volume armazenado,dam3,21200,APA/SNIRH
 2002,2002-09-30,14,11,8,Cota,m,257.94,APA/SNIRH
@@ -7495,6 +7496,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2002,2002-10-31,9,8,9,Volume armazenado,dam3,640,APA/SNIRH
 2002,2002-10-31,10,8,9,Cota,m,178.36,APA/SNIRH
 2002,2002-10-31,10,8,9,Volume armazenado,dam3,436,APA/SNIRH
+2002,2002-10-31,11,8,9,Cota,m,117.84,APA/SNIRH
 2002,2002-10-31,12,10,3,Cota,m,559.97,APA/SNIRH
 2002,2002-10-31,12,10,3,Volume armazenado,dam3,22020,APA/SNIRH
 2002,2002-10-31,14,11,8,Cota,m,257.94,APA/SNIRH
@@ -7548,6 +7550,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2002,2002-11-30,9,8,9,Volume armazenado,dam3,781,APA/SNIRH
 2002,2002-11-30,10,8,9,Cota,m,178.52,APA/SNIRH
 2002,2002-11-30,10,8,9,Volume armazenado,dam3,461,APA/SNIRH
+2002,2002-11-30,11,8,9,Cota,m,119.49,APA/SNIRH
 2002,2002-11-30,12,10,3,Cota,m,562.04,APA/SNIRH
 2002,2002-11-30,12,10,3,Volume armazenado,dam3,25300,APA/SNIRH
 2002,2002-11-30,14,11,8,Cota,m,258.32,APA/SNIRH
@@ -7601,6 +7604,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2002,2002-12-31,9,8,9,Volume armazenado,dam3,980,APA/SNIRH
 2002,2002-12-31,10,8,9,Cota,m,179.72,APA/SNIRH
 2002,2002-12-31,10,8,9,Volume armazenado,dam3,676,APA/SNIRH
+2002,2002-12-31,11,8,9,Cota,m,125.73,APA/SNIRH
 2002,2002-12-31,12,10,3,Cota,m,566.5,APA/SNIRH
 2002,2002-12-31,12,10,3,Volume armazenado,dam3,34300,APA/SNIRH
 2002,2002-12-31,14,11,8,Cota,m,260.24,APA/SNIRH
@@ -7654,6 +7658,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-01-31,9,8,9,Volume armazenado,dam3,952,APA/SNIRH
 2003,2003-01-31,10,8,9,Cota,m,179.63,APA/SNIRH
 2003,2003-01-31,10,8,9,Volume armazenado,dam3,659,APA/SNIRH
+2003,2003-01-31,11,8,9,Cota,m,131.99,APA/SNIRH
 2003,2003-01-31,12,10,3,Cota,m,566.2,APA/SNIRH
 2003,2003-01-31,12,10,3,Volume armazenado,dam3,33600,APA/SNIRH
 2003,2003-01-31,14,11,8,Cota,m,261.31,APA/SNIRH
@@ -7707,6 +7712,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-02-28,9,8,9,Volume armazenado,dam3,990,APA/SNIRH
 2003,2003-02-28,10,8,9,Cota,m,179.68,APA/SNIRH
 2003,2003-02-28,10,8,9,Volume armazenado,dam3,486,APA/SNIRH
+2003,2003-02-28,11,8,9,Cota,m,135.46,APA/SNIRH
 2003,2003-02-28,12,10,3,Cota,m,566.64,APA/SNIRH
 2003,2003-02-28,12,10,3,Volume armazenado,dam3,34620,APA/SNIRH
 2003,2003-02-28,14,11,8,Cota,m,261.45,APA/SNIRH
@@ -7760,6 +7766,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-03-31,9,8,9,Volume armazenado,dam3,949,APA/SNIRH
 2003,2003-03-31,10,8,9,Cota,m,179.63,APA/SNIRH
 2003,2003-03-31,10,8,9,Volume armazenado,dam3,659,APA/SNIRH
+2003,2003-03-31,11,8,9,Cota,m,136.29,APA/SNIRH
 2003,2003-03-31,12,10,3,Cota,m,566.95,APA/SNIRH
 2003,2003-03-31,12,10,3,Volume armazenado,dam3,35340,APA/SNIRH
 2003,2003-03-31,14,11,8,Cota,m,261.42,APA/SNIRH
@@ -7813,6 +7820,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-04-30,9,8,9,Volume armazenado,dam3,949,APA/SNIRH
 2003,2003-04-30,10,8,9,Cota,m,179.63,APA/SNIRH
 2003,2003-04-30,10,8,9,Volume armazenado,dam3,659,APA/SNIRH
+2003,2003-04-30,11,8,9,Cota,m,136.07,APA/SNIRH
 2003,2003-04-30,12,10,3,Cota,m,568.4,APA/SNIRH
 2003,2003-04-30,12,10,3,Volume armazenado,dam3,38750,APA/SNIRH
 2003,2003-04-30,14,11,8,Cota,m,261.41,APA/SNIRH
@@ -7866,6 +7874,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-05-31,9,8,9,Volume armazenado,dam3,916,APA/SNIRH
 2003,2003-05-31,10,8,9,Cota,m,179.55,APA/SNIRH
 2003,2003-05-31,10,8,9,Volume armazenado,dam3,643,APA/SNIRH
+2003,2003-05-31,11,8,9,Cota,m,136.06,APA/SNIRH
 2003,2003-05-31,12,10,3,Cota,m,568.03,APA/SNIRH
 2003,2003-05-31,12,10,3,Volume armazenado,dam3,37870,APA/SNIRH
 2003,2003-05-31,14,11,8,Cota,m,261.17,APA/SNIRH
@@ -7919,6 +7928,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-06-30,9,8,9,Volume armazenado,dam3,809,APA/SNIRH
 2003,2003-06-30,10,8,9,Cota,m,179.15,APA/SNIRH
 2003,2003-06-30,10,8,9,Volume armazenado,dam3,565,APA/SNIRH
+2003,2003-06-30,11,8,9,Cota,m,136.17,APA/SNIRH
 2003,2003-06-30,12,10,3,Cota,m,566.8,APA/SNIRH
 2003,2003-06-30,12,10,3,Volume armazenado,dam3,34990,APA/SNIRH
 2003,2003-06-30,14,11,8,Cota,m,260.79,APA/SNIRH
@@ -7972,6 +7982,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-07-31,9,8,9,Volume armazenado,dam3,759,APA/SNIRH
 2003,2003-07-31,10,8,9,Cota,m,178.92,APA/SNIRH
 2003,2003-07-31,10,8,9,Volume armazenado,dam3,524,APA/SNIRH
+2003,2003-07-31,11,8,9,Cota,m,136.08,APA/SNIRH
 2003,2003-07-31,12,10,3,Cota,m,564.85,APA/SNIRH
 2003,2003-07-31,12,10,3,Volume armazenado,dam3,30530,APA/SNIRH
 2003,2003-07-31,14,11,8,Cota,m,260.28,APA/SNIRH
@@ -8027,6 +8038,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-08-31,9,8,9,Volume armazenado,dam3,742,APA/SNIRH
 2003,2003-08-31,10,8,9,Cota,m,178.86,APA/SNIRH
 2003,2003-08-31,10,8,9,Volume armazenado,dam3,514,APA/SNIRH
+2003,2003-08-31,11,8,9,Cota,m,136.2,APA/SNIRH
 2003,2003-08-31,12,10,3,Cota,m,562.68,APA/SNIRH
 2003,2003-08-31,12,10,3,Volume armazenado,dam3,26270,APA/SNIRH
 2003,2003-08-31,14,11,8,Cota,m,259.81,APA/SNIRH
@@ -8080,6 +8092,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-09-30,9,8,9,Volume armazenado,dam3,635,APA/SNIRH
 2003,2003-09-30,10,8,9,Cota,m,178.3,APA/SNIRH
 2003,2003-09-30,10,8,9,Volume armazenado,dam3,426,APA/SNIRH
+2003,2003-09-30,11,8,9,Cota,m,136.43,APA/SNIRH
 2003,2003-09-30,12,10,3,Cota,m,561.35,APA/SNIRH
 2003,2003-09-30,12,10,3,Volume armazenado,dam3,24260,APA/SNIRH
 2003,2003-09-30,14,11,8,Cota,m,259.45,APA/SNIRH
@@ -8135,6 +8148,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-10-31,9,8,9,Volume armazenado,dam3,640,APA/SNIRH
 2003,2003-10-31,10,8,9,Cota,m,178.34,APA/SNIRH
 2003,2003-10-31,10,8,9,Volume armazenado,dam3,433,APA/SNIRH
+2003,2003-10-31,11,8,9,Cota,m,137.07,APA/SNIRH
 2003,2003-10-31,12,10,3,Cota,m,562.2,APA/SNIRH
 2003,2003-10-31,12,10,3,Volume armazenado,dam3,25540,APA/SNIRH
 2003,2003-10-31,14,11,8,Cota,m,259.58,APA/SNIRH
@@ -8191,6 +8205,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-11-30,9,8,9,Volume armazenado,dam3,939,APA/SNIRH
 2003,2003-11-30,10,8,9,Cota,m,179.58,APA/SNIRH
 2003,2003-11-30,10,8,9,Volume armazenado,dam3,649,APA/SNIRH
+2003,2003-11-30,11,8,9,Cota,m,139.67,APA/SNIRH
 2003,2003-11-30,12,10,3,Cota,m,565.55,APA/SNIRH
 2003,2003-11-30,12,10,3,Volume armazenado,dam3,32110,APA/SNIRH
 2003,2003-11-30,14,11,8,Cota,m,260.02,APA/SNIRH
@@ -8246,6 +8261,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2003,2003-12-31,9,8,9,Volume armazenado,dam3,949,APA/SNIRH
 2003,2003-12-31,10,8,9,Cota,m,179.6,APA/SNIRH
 2003,2003-12-31,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2003,2003-12-31,11,8,9,Cota,m,143.13,APA/SNIRH
 2003,2003-12-31,12,10,3,Cota,m,566.1,APA/SNIRH
 2003,2003-12-31,12,10,3,Volume armazenado,dam3,33360,APA/SNIRH
 2003,2003-12-31,14,11,8,Cota,m,260.73,APA/SNIRH
@@ -8300,6 +8316,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-01-31,9,8,9,Volume armazenado,dam3,949,APA/SNIRH
 2004,2004-01-31,10,8,9,Cota,m,179.63,APA/SNIRH
 2004,2004-01-31,10,8,9,Volume armazenado,dam3,659,APA/SNIRH
+2004,2004-01-31,11,8,9,Cota,m,143.76,APA/SNIRH
 2004,2004-01-31,12,10,3,Cota,m,566,APA/SNIRH
 2004,2004-01-31,12,10,3,Volume armazenado,dam3,33140,APA/SNIRH
 2004,2004-01-31,14,11,8,Cota,m,260.96,APA/SNIRH
@@ -8356,6 +8373,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-02-29,9,8,9,Volume armazenado,dam3,962,APA/SNIRH
 2004,2004-02-29,10,8,9,Cota,m,179.66,APA/SNIRH
 2004,2004-02-29,10,8,9,Volume armazenado,dam3,664,APA/SNIRH
+2004,2004-02-29,11,8,9,Cota,m,146.59,APA/SNIRH
 2004,2004-02-29,12,10,3,Cota,m,566,APA/SNIRH
 2004,2004-02-29,12,10,3,Volume armazenado,dam3,33140,APA/SNIRH
 2004,2004-02-29,14,11,8,Cota,m,261.42,APA/SNIRH
@@ -8410,6 +8428,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-03-31,9,8,9,Volume armazenado,dam3,945,APA/SNIRH
 2004,2004-03-31,10,8,9,Cota,m,179.62,APA/SNIRH
 2004,2004-03-31,10,8,9,Volume armazenado,dam3,657,APA/SNIRH
+2004,2004-03-31,11,8,9,Cota,m,147.7,APA/SNIRH
 2004,2004-03-31,12,10,3,Cota,m,566.21,APA/SNIRH
 2004,2004-03-31,12,10,3,Volume armazenado,dam3,33630,APA/SNIRH
 2004,2004-03-31,14,11,8,Cota,m,261.4,APA/SNIRH
@@ -8465,6 +8484,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-04-30,9,8,9,Volume armazenado,dam3,935,APA/SNIRH
 2004,2004-04-30,10,8,9,Cota,m,179.6,APA/SNIRH
 2004,2004-04-30,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2004,2004-04-30,11,8,9,Cota,m,148.34,APA/SNIRH
 2004,2004-04-30,12,10,3,Cota,m,566.46,APA/SNIRH
 2004,2004-04-30,12,10,3,Volume armazenado,dam3,34230,APA/SNIRH
 2004,2004-04-30,14,11,8,Cota,m,261.31,APA/SNIRH
@@ -8520,6 +8540,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-05-31,9,8,9,Volume armazenado,dam3,913,APA/SNIRH
 2004,2004-05-31,10,8,9,Cota,m,179.52,APA/SNIRH
 2004,2004-05-31,10,8,9,Volume armazenado,dam3,637,APA/SNIRH
+2004,2004-05-31,11,8,9,Cota,m,148.51,APA/SNIRH
 2004,2004-05-31,12,10,3,Cota,m,565.97,APA/SNIRH
 2004,2004-05-31,12,10,3,Volume armazenado,dam3,33100,APA/SNIRH
 2004,2004-05-31,14,11,8,Cota,m,261.15,APA/SNIRH
@@ -8575,6 +8596,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-06-30,9,8,9,Volume armazenado,dam3,826,APA/SNIRH
 2004,2004-06-30,10,8,9,Cota,m,179.15,APA/SNIRH
 2004,2004-06-30,10,8,9,Volume armazenado,dam3,565,APA/SNIRH
+2004,2004-06-30,11,8,9,Cota,m,148.28,APA/SNIRH
 2004,2004-06-30,12,10,3,Cota,m,564.3,APA/SNIRH
 2004,2004-06-30,12,10,3,Volume armazenado,dam3,29420,APA/SNIRH
 2004,2004-06-30,14,11,8,Cota,m,260.68,APA/SNIRH
@@ -8630,6 +8652,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-07-31,9,8,9,Volume armazenado,dam3,714,APA/SNIRH
 2004,2004-07-31,10,8,9,Cota,m,178.38,APA/SNIRH
 2004,2004-07-31,10,8,9,Volume armazenado,dam3,439,APA/SNIRH
+2004,2004-07-31,11,8,9,Cota,m,148.04,APA/SNIRH
 2004,2004-07-31,12,10,3,Cota,m,561.75,APA/SNIRH
 2004,2004-07-31,12,10,3,Volume armazenado,dam3,24870,APA/SNIRH
 2004,2004-07-31,14,11,8,Cota,m,260.02,APA/SNIRH
@@ -8685,6 +8708,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-08-31,9,8,9,Volume armazenado,dam3,681,APA/SNIRH
 2004,2004-08-31,10,8,9,Cota,m,178.18,APA/SNIRH
 2004,2004-08-31,10,8,9,Volume armazenado,dam3,407,APA/SNIRH
+2004,2004-08-31,11,8,9,Cota,m,147.96,APA/SNIRH
 2004,2004-08-31,12,10,3,Cota,m,559.38,APA/SNIRH
 2004,2004-08-31,12,10,3,Volume armazenado,dam3,21100,APA/SNIRH
 2004,2004-08-31,14,11,8,Cota,m,259.46,APA/SNIRH
@@ -8740,6 +8764,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-09-30,9,8,9,Volume armazenado,dam3,654,APA/SNIRH
 2004,2004-09-30,10,8,9,Cota,m,178.09,APA/SNIRH
 2004,2004-09-30,10,8,9,Volume armazenado,dam3,393,APA/SNIRH
+2004,2004-09-30,11,8,9,Cota,m,147.69,APA/SNIRH
 2004,2004-09-30,12,10,3,Cota,m,557.6,APA/SNIRH
 2004,2004-09-30,12,10,3,Volume armazenado,dam3,18137,APA/SNIRH
 2004,2004-09-30,14,11,8,Cota,m,259.28,APA/SNIRH
@@ -8795,6 +8820,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-10-31,9,8,9,Volume armazenado,dam3,617,APA/SNIRH
 2004,2004-10-31,10,8,9,Cota,m,178.27,APA/SNIRH
 2004,2004-10-31,10,8,9,Volume armazenado,dam3,422,APA/SNIRH
+2004,2004-10-31,11,8,9,Cota,m,147.81,APA/SNIRH
 2004,2004-10-31,12,10,3,Cota,m,557.37,APA/SNIRH
 2004,2004-10-31,12,10,3,Volume armazenado,dam3,17691,APA/SNIRH
 2004,2004-10-31,14,11,8,Cota,m,259.4,APA/SNIRH
@@ -8850,6 +8876,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-11-30,9,8,9,Volume armazenado,dam3,617,APA/SNIRH
 2004,2004-11-30,10,8,9,Cota,m,178.27,APA/SNIRH
 2004,2004-11-30,10,8,9,Volume armazenado,dam3,422,APA/SNIRH
+2004,2004-11-30,11,8,9,Cota,m,147.61,APA/SNIRH
 2004,2004-11-30,12,10,3,Cota,m,557.48,APA/SNIRH
 2004,2004-11-30,12,10,3,Volume armazenado,dam3,17867,APA/SNIRH
 2004,2004-11-30,14,11,8,Cota,m,259.44,APA/SNIRH
@@ -8905,6 +8932,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2004,2004-12-31,9,8,9,Volume armazenado,dam3,622,APA/SNIRH
 2004,2004-12-31,10,8,9,Cota,m,178.29,APA/SNIRH
 2004,2004-12-31,10,8,9,Volume armazenado,dam3,425,APA/SNIRH
+2004,2004-12-31,11,8,9,Cota,m,147.31,APA/SNIRH
 2004,2004-12-31,12,10,3,Cota,m,557.7,APA/SNIRH
 2004,2004-12-31,12,10,3,Volume armazenado,dam3,18595,APA/SNIRH
 2004,2004-12-31,14,11,8,Cota,m,259.45,APA/SNIRH
@@ -8960,6 +8988,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-01-31,9,8,9,Volume armazenado,dam3,617,APA/SNIRH
 2005,2005-01-31,10,8,9,Cota,m,178.24,APA/SNIRH
 2005,2005-01-31,10,8,9,Volume armazenado,dam3,417,APA/SNIRH
+2005,2005-01-31,11,8,9,Cota,m,146.77,APA/SNIRH
 2005,2005-01-31,12,10,3,Cota,m,557.7,APA/SNIRH
 2005,2005-01-31,12,10,3,Volume armazenado,dam3,18595,APA/SNIRH
 2005,2005-01-31,14,11,8,Cota,m,259.41,APA/SNIRH
@@ -9015,6 +9044,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-02-28,9,8,9,Volume armazenado,dam3,608,APA/SNIRH
 2005,2005-02-28,10,8,9,Cota,m,178.2,APA/SNIRH
 2005,2005-02-28,10,8,9,Volume armazenado,dam3,411,APA/SNIRH
+2005,2005-02-28,11,8,9,Cota,m,146.46,APA/SNIRH
 2005,2005-02-28,12,10,3,Cota,m,557.75,APA/SNIRH
 2005,2005-02-28,12,10,3,Volume armazenado,dam3,18702,APA/SNIRH
 2005,2005-02-28,14,11,8,Cota,m,259.37,APA/SNIRH
@@ -9075,6 +9105,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-03-31,9,8,9,Volume armazenado,dam3,601,APA/SNIRH
 2005,2005-03-31,10,8,9,Cota,m,178.17,APA/SNIRH
 2005,2005-03-31,10,8,9,Volume armazenado,dam3,406,APA/SNIRH
+2005,2005-03-31,11,8,9,Cota,m,146.25,APA/SNIRH
 2005,2005-03-31,12,10,3,Cota,m,557.88,APA/SNIRH
 2005,2005-03-31,12,10,3,Volume armazenado,dam3,19031,APA/SNIRH
 2005,2005-03-31,14,11,8,Cota,m,259.36,APA/SNIRH
@@ -9129,6 +9160,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-04-30,9,8,9,Volume armazenado,dam3,545,APA/SNIRH
 2005,2005-04-30,10,8,9,Cota,m,178.04,APA/SNIRH
 2005,2005-04-30,10,8,9,Volume armazenado,dam3,386,APA/SNIRH
+2005,2005-04-30,11,8,9,Cota,m,146.08,APA/SNIRH
 2005,2005-04-30,12,10,3,Cota,m,558.36,APA/SNIRH
 2005,2005-04-30,12,10,3,Volume armazenado,dam3,20026,APA/SNIRH
 2005,2005-04-30,13,10,3,Cota,m,762.68,APA/SNIRH
@@ -9201,6 +9233,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-05-31,9,8,9,Volume armazenado,dam3,517,APA/SNIRH
 2005,2005-05-31,10,8,9,Cota,m,177.8,APA/SNIRH
 2005,2005-05-31,10,8,9,Volume armazenado,dam3,354,APA/SNIRH
+2005,2005-05-31,11,8,9,Cota,m,146,APA/SNIRH
 2005,2005-05-31,12,10,3,Cota,m,557.65,APA/SNIRH
 2005,2005-05-31,12,10,3,Volume armazenado,dam3,18806,APA/SNIRH
 2005,2005-05-31,13,10,3,Cota,m,762.99,APA/SNIRH
@@ -9241,6 +9274,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-06-30,9,8,9,Volume armazenado,dam3,435,APA/SNIRH
 2005,2005-06-30,10,8,9,Cota,m,177.46,APA/SNIRH
 2005,2005-06-30,10,8,9,Volume armazenado,dam3,311,APA/SNIRH
+2005,2005-06-30,11,8,9,Cota,m,145.74,APA/SNIRH
 2005,2005-06-30,12,10,3,Cota,m,555.37,APA/SNIRH
 2005,2005-06-30,12,10,3,Volume armazenado,dam3,15773,APA/SNIRH
 2005,2005-06-30,13,10,3,Cota,m,762.76,APA/SNIRH
@@ -9313,6 +9347,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-07-31,9,8,9,Volume armazenado,dam3,309,APA/SNIRH
 2005,2005-07-31,10,8,9,Cota,m,176.88,APA/SNIRH
 2005,2005-07-31,10,8,9,Volume armazenado,dam3,242,APA/SNIRH
+2005,2005-07-31,11,8,9,Cota,m,145.34,APA/SNIRH
 2005,2005-07-31,12,10,3,Cota,m,552.61,APA/SNIRH
 2005,2005-07-31,12,10,3,Volume armazenado,dam3,12536,APA/SNIRH
 2005,2005-07-31,13,10,3,Cota,m,762.49,APA/SNIRH
@@ -9362,6 +9397,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-08-31,9,8,9,Volume armazenado,dam3,216,APA/SNIRH
 2005,2005-08-31,10,8,9,Cota,m,175.8,APA/SNIRH
 2005,2005-08-31,10,8,9,Volume armazenado,dam3,143,APA/SNIRH
+2005,2005-08-31,11,8,9,Cota,m,145.21,APA/SNIRH
 2005,2005-08-31,12,10,3,Cota,m,549.55,APA/SNIRH
 2005,2005-08-31,12,10,3,Volume armazenado,dam3,9475,APA/SNIRH
 2005,2005-08-31,13,10,3,Cota,m,762.09,APA/SNIRH
@@ -9414,6 +9450,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-09-30,9,8,9,Volume armazenado,dam3,203,APA/SNIRH
 2005,2005-09-30,10,8,9,Cota,m,175.2,APA/SNIRH
 2005,2005-09-30,10,8,9,Volume armazenado,dam3,101,APA/SNIRH
+2005,2005-09-30,11,8,9,Cota,m,145.03,APA/SNIRH
 2005,2005-09-30,12,10,3,Cota,m,548.2,APA/SNIRH
 2005,2005-09-30,12,10,3,Volume armazenado,dam3,8291,APA/SNIRH
 2005,2005-09-30,13,10,3,Cota,m,761.71,APA/SNIRH
@@ -9471,6 +9508,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-10-31,9,8,9,Volume armazenado,dam3,233,APA/SNIRH
 2005,2005-10-31,10,8,9,Cota,m,175.2,APA/SNIRH
 2005,2005-10-31,10,8,9,Volume armazenado,dam3,101,APA/SNIRH
+2005,2005-10-31,11,8,9,Cota,m,145.07,APA/SNIRH
 2005,2005-10-31,12,10,3,Cota,m,548.4,APA/SNIRH
 2005,2005-10-31,12,10,3,Volume armazenado,dam3,8460,APA/SNIRH
 2005,2005-10-31,13,10,3,Cota,m,762.68,APA/SNIRH
@@ -9529,6 +9567,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-11-30,9,8,9,Volume armazenado,dam3,456,APA/SNIRH
 2005,2005-11-30,10,8,9,Cota,m,176.7,APA/SNIRH
 2005,2005-11-30,10,8,9,Volume armazenado,dam3,225,APA/SNIRH
+2005,2005-11-30,11,8,9,Cota,m,145,APA/SNIRH
 2005,2005-11-30,12,10,3,Cota,m,550.54,APA/SNIRH
 2005,2005-11-30,12,10,3,Volume armazenado,dam3,10406,APA/SNIRH
 2005,2005-11-30,13,10,3,Cota,m,761,APA/SNIRH
@@ -9584,6 +9623,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2005,2005-12-31,9,8,9,Volume armazenado,dam3,723,APA/SNIRH
 2005,2005-12-31,10,8,9,Cota,m,177.75,APA/SNIRH
 2005,2005-12-31,10,8,9,Volume armazenado,dam3,348,APA/SNIRH
+2005,2005-12-31,11,8,9,Cota,m,145.07,APA/SNIRH
 2005,2005-12-31,12,10,3,Cota,m,552.09,APA/SNIRH
 2005,2005-12-31,12,10,3,Volume armazenado,dam3,11977,APA/SNIRH
 2005,2005-12-31,13,10,3,Cota,m,761.06,APA/SNIRH
@@ -9643,6 +9683,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-01-31,9,8,9,Volume armazenado,dam3,916,APA/SNIRH
 2006,2006-01-31,10,8,9,Cota,m,178.34,APA/SNIRH
 2006,2006-01-31,10,8,9,Volume armazenado,dam3,433,APA/SNIRH
+2006,2006-01-31,11,8,9,Cota,m,144.8,APA/SNIRH
 2006,2006-01-31,12,10,3,Cota,m,552.54,APA/SNIRH
 2006,2006-01-31,12,10,3,Volume armazenado,dam3,12460,APA/SNIRH
 2006,2006-01-31,13,10,3,Cota,m,759.48,APA/SNIRH
@@ -9702,6 +9743,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-02-28,9,8,9,Volume armazenado,dam3,952,APA/SNIRH
 2006,2006-02-28,10,8,9,Cota,m,178.84,APA/SNIRH
 2006,2006-02-28,10,8,9,Volume armazenado,dam3,511,APA/SNIRH
+2006,2006-02-28,11,8,9,Cota,m,144.89,APA/SNIRH
 2006,2006-02-28,12,10,3,Cota,m,552.92,APA/SNIRH
 2006,2006-02-28,12,10,3,Volume armazenado,dam3,12876,APA/SNIRH
 2006,2006-02-28,13,10,3,Cota,m,760.77,APA/SNIRH
@@ -9751,6 +9793,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-03-31,9,8,9,Volume armazenado,dam3,952,APA/SNIRH
 2006,2006-03-31,10,8,9,Cota,m,179.3,APA/SNIRH
 2006,2006-03-31,10,8,9,Volume armazenado,dam3,594,APA/SNIRH
+2006,2006-03-31,11,8,9,Cota,m,145.37,APA/SNIRH
 2006,2006-03-31,12,10,3,Cota,m,557.61,APA/SNIRH
 2006,2006-03-31,12,10,3,Volume armazenado,dam3,18750,APA/SNIRH
 2006,2006-03-31,13,10,3,Cota,m,761.87,APA/SNIRH
@@ -9818,6 +9861,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-04-30,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2006,2006-04-30,10,8,9,Cota,m,179.31,APA/SNIRH
 2006,2006-04-30,10,8,9,Volume armazenado,dam3,596,APA/SNIRH
+2006,2006-04-30,11,8,9,Cota,m,145.17,APA/SNIRH
 2006,2006-04-30,12,10,3,Cota,m,559.42,APA/SNIRH
 2006,2006-04-30,12,10,3,Volume armazenado,dam3,21395,APA/SNIRH
 2006,2006-04-30,13,10,3,Cota,m,763.43,APA/SNIRH
@@ -9863,6 +9907,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-05-31,9,8,9,Volume armazenado,dam3,882,APA/SNIRH
 2006,2006-05-31,10,8,9,Cota,m,179.12,APA/SNIRH
 2006,2006-05-31,10,8,9,Volume armazenado,dam3,559,APA/SNIRH
+2006,2006-05-31,11,8,9,Cota,m,144.88,APA/SNIRH
 2006,2006-05-31,12,10,3,Cota,m,559,APA/SNIRH
 2006,2006-05-31,12,10,3,Volume armazenado,dam3,20762,APA/SNIRH
 2006,2006-05-31,13,10,3,Cota,m,765.09,APA/SNIRH
@@ -9918,6 +9963,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-06-30,9,8,9,Volume armazenado,dam3,840,APA/SNIRH
 2006,2006-06-30,10,8,9,Cota,m,178.98,APA/SNIRH
 2006,2006-06-30,10,8,9,Volume armazenado,dam3,533,APA/SNIRH
+2006,2006-06-30,11,8,9,Cota,m,144.52,APA/SNIRH
 2006,2006-06-30,12,10,3,Cota,m,557.75,APA/SNIRH
 2006,2006-06-30,12,10,3,Volume armazenado,dam3,18947,APA/SNIRH
 2006,2006-06-30,13,10,3,Cota,m,765.4,APA/SNIRH
@@ -9974,6 +10020,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-07-31,9,8,9,Volume armazenado,dam3,776,APA/SNIRH
 2006,2006-07-31,10,8,9,Cota,m,178.8,APA/SNIRH
 2006,2006-07-31,10,8,9,Volume armazenado,dam3,505,APA/SNIRH
+2006,2006-07-31,11,8,9,Cota,m,144.13,APA/SNIRH
 2006,2006-07-31,12,10,3,Cota,m,555.48,APA/SNIRH
 2006,2006-07-31,12,10,3,Volume armazenado,dam3,15912,APA/SNIRH
 2006,2006-07-31,13,10,3,Cota,m,765.1,APA/SNIRH
@@ -10030,6 +10077,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-08-31,9,8,9,Volume armazenado,dam3,725,APA/SNIRH
 2006,2006-08-31,10,8,9,Cota,m,178.6,APA/SNIRH
 2006,2006-08-31,10,8,9,Volume armazenado,dam3,473,APA/SNIRH
+2006,2006-08-31,11,8,9,Cota,m,143.83,APA/SNIRH
 2006,2006-08-31,12,10,3,Cota,m,553.24,APA/SNIRH
 2006,2006-08-31,12,10,3,Volume armazenado,dam3,13334,APA/SNIRH
 2006,2006-08-31,13,10,3,Cota,m,764.62,APA/SNIRH
@@ -10088,6 +10136,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-09-30,9,8,9,Volume armazenado,dam3,664,APA/SNIRH
 2006,2006-09-30,10,8,9,Cota,m,178.34,APA/SNIRH
 2006,2006-09-30,10,8,9,Volume armazenado,dam3,433,APA/SNIRH
+2006,2006-09-30,11,8,9,Cota,m,143.79,APA/SNIRH
 2006,2006-09-30,13,10,3,Cota,m,764.39,APA/SNIRH
 2006,2006-09-30,14,11,8,Cota,m,255.17,APA/SNIRH
 2006,2006-09-30,14,11,8,Volume armazenado,dam3,2205,APA/SNIRH
@@ -10142,6 +10191,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-10-31,9,8,9,Volume armazenado,dam3,910,APA/SNIRH
 2006,2006-10-31,10,8,9,Cota,m,179.4,APA/SNIRH
 2006,2006-10-31,10,8,9,Volume armazenado,dam3,614,APA/SNIRH
+2006,2006-10-31,11,8,9,Cota,m,145.08,APA/SNIRH
 2006,2006-10-31,12,10,3,Cota,m,555.65,APA/SNIRH
 2006,2006-10-31,12,10,3,Volume armazenado,dam3,16127,APA/SNIRH
 2006,2006-10-31,13,10,3,Cota,m,772.14,APA/SNIRH
@@ -10198,6 +10248,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-11-30,9,8,9,Volume armazenado,dam3,882,APA/SNIRH
 2006,2006-11-30,10,8,9,Cota,m,179.61,APA/SNIRH
 2006,2006-11-30,10,8,9,Volume armazenado,dam3,655,APA/SNIRH
+2006,2006-11-30,11,8,9,Cota,m,148.17,APA/SNIRH
 2006,2006-11-30,12,10,3,Cota,m,566,APA/SNIRH
 2006,2006-11-30,12,10,3,Volume armazenado,dam3,32923,APA/SNIRH
 2006,2006-11-30,13,10,3,Cota,m,781.09,APA/SNIRH
@@ -10258,6 +10309,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2006,2006-12-31,9,8,9,Volume armazenado,dam3,882,APA/SNIRH
 2006,2006-12-31,10,8,9,Cota,m,179.3,APA/SNIRH
 2006,2006-12-31,10,8,9,Volume armazenado,dam3,594,APA/SNIRH
+2006,2006-12-31,11,8,9,Cota,m,149.42,APA/SNIRH
 2006,2006-12-31,12,10,3,Cota,m,566,APA/SNIRH
 2006,2006-12-31,12,10,3,Volume armazenado,dam3,32923,APA/SNIRH
 2006,2006-12-31,13,10,3,Cota,m,779.61,APA/SNIRH
@@ -10314,6 +10366,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-01-31,9,8,9,Volume armazenado,dam3,907,APA/SNIRH
 2007,2007-01-31,10,8,9,Cota,m,179.38,APA/SNIRH
 2007,2007-01-31,10,8,9,Volume armazenado,dam3,610,APA/SNIRH
+2007,2007-01-31,11,8,9,Cota,m,149.17,APA/SNIRH
 2007,2007-01-31,12,10,3,Cota,m,565.97,APA/SNIRH
 2007,2007-01-31,12,10,3,Volume armazenado,dam3,32864,APA/SNIRH
 2007,2007-01-31,13,10,3,Cota,m,780.03,APA/SNIRH
@@ -10373,6 +10426,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-02-28,9,8,9,Volume armazenado,dam3,952,APA/SNIRH
 2007,2007-02-28,10,8,9,Cota,m,179.64,APA/SNIRH
 2007,2007-02-28,10,8,9,Volume armazenado,dam3,661,APA/SNIRH
+2007,2007-02-28,11,8,9,Cota,m,150.02,APA/SNIRH
 2007,2007-02-28,12,10,3,Cota,m,566.05,APA/SNIRH
 2007,2007-02-28,12,10,3,Volume armazenado,dam3,33023,APA/SNIRH
 2007,2007-02-28,13,10,3,Cota,m,781.07,APA/SNIRH
@@ -10436,6 +10490,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-03-31,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2007,2007-03-31,10,8,9,Cota,m,179.6,APA/SNIRH
 2007,2007-03-31,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2007,2007-03-31,11,8,9,Cota,m,149.81,APA/SNIRH
 2007,2007-03-31,12,10,3,Cota,m,566,APA/SNIRH
 2007,2007-03-31,13,10,3,Cota,m,780.23,APA/SNIRH
 2007,2007-03-31,14,11,8,Cota,m,260.1,APA/SNIRH
@@ -10482,6 +10537,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-04-30,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2007,2007-04-30,10,8,9,Cota,m,179.6,APA/SNIRH
 2007,2007-04-30,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2007,2007-04-30,11,8,9,Cota,m,149.7,APA/SNIRH
 2007,2007-04-30,12,10,3,Cota,m,566.45,APA/SNIRH
 2007,2007-04-30,12,10,3,Volume armazenado,dam3,33827,APA/SNIRH
 2007,2007-04-30,13,10,3,Cota,m,780.71,APA/SNIRH
@@ -10537,6 +10593,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-05-31,9,8,9,Volume armazenado,dam3,924,APA/SNIRH
 2007,2007-05-31,10,8,9,Cota,m,179.46,APA/SNIRH
 2007,2007-05-31,10,8,9,Volume armazenado,dam3,626,APA/SNIRH
+2007,2007-05-31,11,8,9,Cota,m,149.24,APA/SNIRH
 2007,2007-05-31,12,10,3,Cota,m,566.55,APA/SNIRH
 2007,2007-05-31,12,10,3,Volume armazenado,dam3,34029,APA/SNIRH
 2007,2007-05-31,13,10,3,Cota,m,781,APA/SNIRH
@@ -10600,6 +10657,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-06-30,9,8,9,Volume armazenado,dam3,888,APA/SNIRH
 2007,2007-06-30,10,8,9,Cota,m,179.32,APA/SNIRH
 2007,2007-06-30,10,8,9,Volume armazenado,dam3,598,APA/SNIRH
+2007,2007-06-30,11,8,9,Cota,m,148.89,APA/SNIRH
 2007,2007-06-30,12,10,3,Cota,m,566.64,APA/SNIRH
 2007,2007-06-30,14,11,8,Cota,m,259.65,APA/SNIRH
 2007,2007-06-30,14,11,8,Volume armazenado,dam3,8234,APA/SNIRH
@@ -10649,6 +10707,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-07-31,9,8,9,Volume armazenado,dam3,826,APA/SNIRH
 2007,2007-07-31,10,8,9,Cota,m,179.1,APA/SNIRH
 2007,2007-07-31,10,8,9,Volume armazenado,dam3,556,APA/SNIRH
+2007,2007-07-31,11,8,9,Cota,m,148.72,APA/SNIRH
 2007,2007-07-31,12,10,3,Cota,m,565.16,APA/SNIRH
 2007,2007-07-31,13,10,3,Cota,m,781.17,APA/SNIRH
 2007,2007-07-31,14,11,8,Cota,m,258.95,APA/SNIRH
@@ -10703,6 +10762,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-08-31,9,8,9,Volume armazenado,dam3,770,APA/SNIRH
 2007,2007-08-31,10,8,9,Cota,m,178.9,APA/SNIRH
 2007,2007-08-31,10,8,9,Volume armazenado,dam3,520,APA/SNIRH
+2007,2007-08-31,11,8,9,Cota,m,148.08,APA/SNIRH
 2007,2007-08-31,12,10,3,Cota,m,563.23,APA/SNIRH
 2007,2007-08-31,12,10,3,Volume armazenado,dam3,27693,APA/SNIRH
 2007,2007-08-31,13,10,3,Cota,m,780.84,APA/SNIRH
@@ -10768,6 +10828,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-09-30,9,8,9,Volume armazenado,dam3,725,APA/SNIRH
 2007,2007-09-30,10,8,9,Cota,m,178.77,APA/SNIRH
 2007,2007-09-30,10,8,9,Volume armazenado,dam3,500,APA/SNIRH
+2007,2007-09-30,11,8,9,Cota,m,147.75,APA/SNIRH
 2007,2007-09-30,12,10,3,Cota,m,562.87,APA/SNIRH
 2007,2007-09-30,13,10,3,Cota,m,780.98,APA/SNIRH
 2007,2007-09-30,14,11,8,Cota,m,258.06,APA/SNIRH
@@ -10820,6 +10881,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-10-31,9,8,9,Volume armazenado,dam3,709,APA/SNIRH
 2007,2007-10-31,10,8,9,Cota,m,178.72,APA/SNIRH
 2007,2007-10-31,10,8,9,Volume armazenado,dam3,492,APA/SNIRH
+2007,2007-10-31,11,8,9,Cota,m,147.66,APA/SNIRH
 2007,2007-10-31,12,10,3,Cota,m,562.89,APA/SNIRH
 2007,2007-10-31,12,10,3,Volume armazenado,dam3,27090,APA/SNIRH
 2007,2007-10-31,13,10,3,Cota,m,781.21,APA/SNIRH
@@ -10871,6 +10933,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-11-30,9,8,9,Volume armazenado,dam3,692,APA/SNIRH
 2007,2007-11-30,10,8,9,Cota,m,178.66,APA/SNIRH
 2007,2007-11-30,10,8,9,Volume armazenado,dam3,483,APA/SNIRH
+2007,2007-11-30,11,8,9,Cota,m,147.46,APA/SNIRH
 2007,2007-11-30,12,10,3,Cota,m,562.81,APA/SNIRH
 2007,2007-11-30,12,10,3,Volume armazenado,dam3,26949,APA/SNIRH
 2007,2007-11-30,13,10,3,Cota,m,781.32,APA/SNIRH
@@ -10929,6 +10992,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2007,2007-12-31,9,8,9,Volume armazenado,dam3,692,APA/SNIRH
 2007,2007-12-31,10,8,9,Cota,m,178.7,APA/SNIRH
 2007,2007-12-31,10,8,9,Volume armazenado,dam3,489,APA/SNIRH
+2007,2007-12-31,11,8,9,Cota,m,147.23,APA/SNIRH
 2007,2007-12-31,13,10,3,Cota,m,781.39,APA/SNIRH
 2007,2007-12-31,14,11,8,Cota,m,257.95,APA/SNIRH
 2007,2007-12-31,14,11,8,Volume armazenado,dam3,5428,APA/SNIRH
@@ -10986,6 +11050,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-01-31,9,8,9,Volume armazenado,dam3,762,APA/SNIRH
 2008,2008-01-31,10,8,9,Cota,m,178.83,APA/SNIRH
 2008,2008-01-31,10,8,9,Volume armazenado,dam3,509,APA/SNIRH
+2008,2008-01-31,11,8,9,Cota,m,147.18,APA/SNIRH
 2008,2008-01-31,13,10,3,Cota,m,782.74,APA/SNIRH
 2008,2008-01-31,14,11,8,Cota,m,258.01,APA/SNIRH
 2008,2008-01-31,14,11,8,Volume armazenado,dam3,5510,APA/SNIRH
@@ -11040,6 +11105,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-02-29,9,8,9,Volume armazenado,dam3,854,APA/SNIRH
 2008,2008-02-29,10,8,9,Cota,m,179.1,APA/SNIRH
 2008,2008-02-29,10,8,9,Volume armazenado,dam3,556,APA/SNIRH
+2008,2008-02-29,11,8,9,Cota,m,147.53,APA/SNIRH
 2008,2008-02-29,12,10,3,Cota,m,563.85,APA/SNIRH
 2008,2008-02-29,12,10,3,Volume armazenado,dam3,28815,APA/SNIRH
 2008,2008-02-29,13,10,3,Cota,m,764.46,APA/SNIRH
@@ -11094,6 +11160,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-03-31,9,8,9,Volume armazenado,dam3,851,APA/SNIRH
 2008,2008-03-31,10,8,9,Cota,m,179.1,APA/SNIRH
 2008,2008-03-31,10,8,9,Volume armazenado,dam3,556,APA/SNIRH
+2008,2008-03-31,11,8,9,Cota,m,147.6,APA/SNIRH
 2008,2008-03-31,12,10,3,Cota,m,564.07,APA/SNIRH
 2008,2008-03-31,12,10,3,Volume armazenado,dam3,29220,APA/SNIRH
 2008,2008-03-31,13,10,3,Cota,m,765.03,APA/SNIRH
@@ -11151,6 +11218,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-04-30,9,8,9,Volume armazenado,dam3,851,APA/SNIRH
 2008,2008-04-30,10,8,9,Cota,m,179.11,APA/SNIRH
 2008,2008-04-30,10,8,9,Volume armazenado,dam3,557,APA/SNIRH
+2008,2008-04-30,11,8,9,Cota,m,147.99,APA/SNIRH
 2008,2008-04-30,12,10,3,Cota,m,566.01,APA/SNIRH
 2008,2008-04-30,12,10,3,Volume armazenado,dam3,32943,APA/SNIRH
 2008,2008-04-30,13,10,3,Cota,m,769.06,APA/SNIRH
@@ -11206,6 +11274,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-05-31,9,8,9,Volume armazenado,dam3,832,APA/SNIRH
 2008,2008-05-31,10,8,9,Cota,m,179.04,APA/SNIRH
 2008,2008-05-31,10,8,9,Volume armazenado,dam3,544,APA/SNIRH
+2008,2008-05-31,11,8,9,Cota,m,147.95,APA/SNIRH
 2008,2008-05-31,12,10,3,Cota,m,566.41,APA/SNIRH
 2008,2008-05-31,12,10,3,Volume armazenado,dam3,33746,APA/SNIRH
 2008,2008-05-31,13,10,3,Cota,m,770.35,APA/SNIRH
@@ -11261,6 +11330,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-06-30,9,8,9,Volume armazenado,dam3,787,APA/SNIRH
 2008,2008-06-30,10,8,9,Cota,m,178.88,APA/SNIRH
 2008,2008-06-30,10,8,9,Volume armazenado,dam3,517,APA/SNIRH
+2008,2008-06-30,11,8,9,Cota,m,147.57,APA/SNIRH
 2008,2008-06-30,12,10,3,Cota,m,565.7,APA/SNIRH
 2008,2008-06-30,12,10,3,Volume armazenado,dam3,32330,APA/SNIRH
 2008,2008-06-30,13,10,3,Cota,m,770.59,APA/SNIRH
@@ -11318,6 +11388,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-07-31,9,8,9,Volume armazenado,dam3,753,APA/SNIRH
 2008,2008-07-31,10,8,9,Cota,m,178.76,APA/SNIRH
 2008,2008-07-31,10,8,9,Volume armazenado,dam3,498,APA/SNIRH
+2008,2008-07-31,11,8,9,Cota,m,147.2,APA/SNIRH
 2008,2008-07-31,12,10,3,Cota,m,562.9,APA/SNIRH
 2008,2008-07-31,12,10,3,Volume armazenado,dam3,27107,APA/SNIRH
 2008,2008-07-31,13,10,3,Cota,m,770.18,APA/SNIRH
@@ -11376,6 +11447,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-08-31,9,8,9,Volume armazenado,dam3,692,APA/SNIRH
 2008,2008-08-31,10,8,9,Cota,m,178.56,APA/SNIRH
 2008,2008-08-31,10,8,9,Volume armazenado,dam3,467,APA/SNIRH
+2008,2008-08-31,11,8,9,Cota,m,147.09,APA/SNIRH
 2008,2008-08-31,12,10,3,Cota,m,560.04,APA/SNIRH
 2008,2008-08-31,12,10,3,Volume armazenado,dam3,22351,APA/SNIRH
 2008,2008-08-31,13,10,3,Cota,m,769.68,APA/SNIRH
@@ -11433,6 +11505,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-09-30,9,8,9,Volume armazenado,dam3,615,APA/SNIRH
 2008,2008-09-30,10,8,9,Cota,m,178.21,APA/SNIRH
 2008,2008-09-30,10,8,9,Volume armazenado,dam3,412,APA/SNIRH
+2008,2008-09-30,11,8,9,Cota,m,147.34,APA/SNIRH
 2008,2008-09-30,12,10,3,Cota,m,558.98,APA/SNIRH
 2008,2008-09-30,12,10,3,Volume armazenado,dam3,20732,APA/SNIRH
 2008,2008-09-30,13,10,3,Cota,m,769.2,APA/SNIRH
@@ -11488,6 +11561,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-10-31,9,8,9,Volume armazenado,dam3,590,APA/SNIRH
 2008,2008-10-31,10,8,9,Cota,m,178.09,APA/SNIRH
 2008,2008-10-31,10,8,9,Volume armazenado,dam3,393,APA/SNIRH
+2008,2008-10-31,11,8,9,Cota,m,147.3,APA/SNIRH
 2008,2008-10-31,12,10,3,Cota,m,557.6,APA/SNIRH
 2008,2008-10-31,12,10,3,Volume armazenado,dam3,18736,APA/SNIRH
 2008,2008-10-31,13,10,3,Cota,m,768.84,APA/SNIRH
@@ -11549,6 +11623,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-11-30,9,8,9,Volume armazenado,dam3,567,APA/SNIRH
 2008,2008-11-30,10,8,9,Cota,m,177.99,APA/SNIRH
 2008,2008-11-30,10,8,9,Volume armazenado,dam3,378,APA/SNIRH
+2008,2008-11-30,11,8,9,Cota,m,147.18,APA/SNIRH
 2008,2008-11-30,12,10,3,Cota,m,557.4,APA/SNIRH
 2008,2008-11-30,12,10,3,Volume armazenado,dam3,18457,APA/SNIRH
 2008,2008-11-30,13,10,3,Cota,m,768.74,APA/SNIRH
@@ -11602,6 +11677,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2008,2008-12-31,9,8,9,Volume armazenado,dam3,572,APA/SNIRH
 2008,2008-12-31,10,8,9,Cota,m,178.01,APA/SNIRH
 2008,2008-12-31,10,8,9,Volume armazenado,dam3,381,APA/SNIRH
+2008,2008-12-31,11,8,9,Cota,m,147.23,APA/SNIRH
 2008,2008-12-31,12,10,3,Cota,m,557.42,APA/SNIRH
 2008,2008-12-31,12,10,3,Volume armazenado,dam3,18485,APA/SNIRH
 2008,2008-12-31,13,10,3,Cota,m,768.85,APA/SNIRH
@@ -11658,6 +11734,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-01-31,9,8,9,Volume armazenado,dam3,863,APA/SNIRH
 2009,2009-01-31,10,8,9,Cota,m,178.71,APA/SNIRH
 2009,2009-01-31,10,8,9,Volume armazenado,dam3,491,APA/SNIRH
+2009,2009-01-31,11,8,9,Cota,m,147.62,APA/SNIRH
 2009,2009-01-31,12,10,3,Cota,m,558.06,APA/SNIRH
 2009,2009-01-31,13,10,3,Cota,m,769.55,APA/SNIRH
 2009,2009-01-31,14,11,8,Cota,m,255.59,APA/SNIRH
@@ -11713,6 +11790,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-02-28,9,8,9,Volume armazenado,dam3,945,APA/SNIRH
 2009,2009-02-28,10,8,9,Cota,m,179.63,APA/SNIRH
 2009,2009-02-28,10,8,9,Volume armazenado,dam3,659,APA/SNIRH
+2009,2009-02-28,11,8,9,Cota,m,148.83,APA/SNIRH
 2009,2009-02-28,12,10,3,Cota,m,560.58,APA/SNIRH
 2009,2009-02-28,13,10,3,Cota,m,770.96,APA/SNIRH
 2009,2009-02-28,14,11,8,Cota,m,256.6,APA/SNIRH
@@ -11769,6 +11847,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-03-31,9,8,9,Volume armazenado,dam3,933,APA/SNIRH
 2009,2009-03-31,10,8,9,Cota,m,179.57,APA/SNIRH
 2009,2009-03-31,10,8,9,Volume armazenado,dam3,647,APA/SNIRH
+2009,2009-03-31,11,8,9,Cota,m,148.62,APA/SNIRH
 2009,2009-03-31,12,10,3,Cota,m,560.44,APA/SNIRH
 2009,2009-03-31,12,10,3,Volume armazenado,dam3,22982,APA/SNIRH
 2009,2009-03-31,13,10,3,Cota,m,770.93,APA/SNIRH
@@ -11824,6 +11903,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-04-30,9,8,9,Volume armazenado,dam3,921,APA/SNIRH
 2009,2009-04-30,10,8,9,Cota,m,179.53,APA/SNIRH
 2009,2009-04-30,10,8,9,Volume armazenado,dam3,639,APA/SNIRH
+2009,2009-04-30,11,8,9,Cota,m,148.57,APA/SNIRH
 2009,2009-04-30,12,10,3,Cota,m,560.12,APA/SNIRH
 2009,2009-04-30,12,10,3,Volume armazenado,dam3,22477,APA/SNIRH
 2009,2009-04-30,13,10,3,Cota,m,770.87,APA/SNIRH
@@ -11880,6 +11960,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-05-31,9,8,9,Volume armazenado,dam3,882,APA/SNIRH
 2009,2009-05-31,10,8,9,Cota,m,179.4,APA/SNIRH
 2009,2009-05-31,10,8,9,Volume armazenado,dam3,614,APA/SNIRH
+2009,2009-05-31,11,8,9,Cota,m,148.47,APA/SNIRH
 2009,2009-05-31,12,10,3,Cota,m,559.81,APA/SNIRH
 2009,2009-05-31,12,10,3,Volume armazenado,dam3,21993,APA/SNIRH
 2009,2009-05-31,13,10,3,Cota,m,770.09,APA/SNIRH
@@ -11937,6 +12018,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-06-30,9,8,9,Volume armazenado,dam3,832,APA/SNIRH
 2009,2009-06-30,10,8,9,Cota,m,179.2,APA/SNIRH
 2009,2009-06-30,10,8,9,Volume armazenado,dam3,575,APA/SNIRH
+2009,2009-06-30,11,8,9,Cota,m,148.36,APA/SNIRH
 2009,2009-06-30,12,10,3,Cota,m,562.03,APA/SNIRH
 2009,2009-06-30,13,10,3,Cota,m,767.79,APA/SNIRH
 2009,2009-06-30,14,11,8,Cota,m,255.72,APA/SNIRH
@@ -11991,6 +12073,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-07-31,9,8,9,Volume armazenado,dam3,779,APA/SNIRH
 2009,2009-07-31,10,8,9,Cota,m,179.01,APA/SNIRH
 2009,2009-07-31,10,8,9,Volume armazenado,dam3,538,APA/SNIRH
+2009,2009-07-31,11,8,9,Cota,m,147.96,APA/SNIRH
 2009,2009-07-31,12,10,3,Cota,m,561.88,APA/SNIRH
 2009,2009-07-31,12,10,3,Volume armazenado,dam3,25345,APA/SNIRH
 2009,2009-07-31,13,10,3,Cota,m,765.46,APA/SNIRH
@@ -12047,6 +12130,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-08-31,9,8,9,Volume armazenado,dam3,703,APA/SNIRH
 2009,2009-08-31,10,8,9,Cota,m,178.74,APA/SNIRH
 2009,2009-08-31,10,8,9,Volume armazenado,dam3,495,APA/SNIRH
+2009,2009-08-31,11,8,9,Cota,m,147.83,APA/SNIRH
 2009,2009-08-31,12,10,3,Cota,m,558,APA/SNIRH
 2009,2009-08-31,12,10,3,Volume armazenado,dam3,19301,APA/SNIRH
 2009,2009-08-31,14,11,8,Cota,m,253.12,APA/SNIRH
@@ -12101,6 +12185,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-09-30,9,8,9,Volume armazenado,dam3,645,APA/SNIRH
 2009,2009-09-30,10,8,9,Cota,m,178.58,APA/SNIRH
 2009,2009-09-30,10,8,9,Volume armazenado,dam3,470,APA/SNIRH
+2009,2009-09-30,11,8,9,Cota,m,147.67,APA/SNIRH
 2009,2009-09-30,12,10,3,Cota,m,555.18,APA/SNIRH
 2009,2009-09-30,12,10,3,Volume armazenado,dam3,15535,APA/SNIRH
 2009,2009-09-30,14,11,8,Cota,m,252.48,APA/SNIRH
@@ -12177,6 +12262,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-10-31,9,8,9,Volume armazenado,dam3,638,APA/SNIRH
 2009,2009-10-31,10,8,9,Cota,m,178.51,APA/SNIRH
 2009,2009-10-31,10,8,9,Volume armazenado,dam3,459,APA/SNIRH
+2009,2009-10-31,11,8,9,Cota,m,147.67,APA/SNIRH
 2009,2009-10-31,12,10,3,Cota,m,554.7,APA/SNIRH
 2009,2009-10-31,14,11,8,Cota,m,252.47,APA/SNIRH
 2009,2009-10-31,16,17,11,Cota,m,176.27,APA/SNIRH
@@ -12212,6 +12298,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-11-30,9,8,9,Volume armazenado,dam3,620,APA/SNIRH
 2009,2009-11-30,10,8,9,Cota,m,178.43,APA/SNIRH
 2009,2009-11-30,10,8,9,Volume armazenado,dam3,447,APA/SNIRH
+2009,2009-11-30,11,8,9,Cota,m,147.57,APA/SNIRH
 2009,2009-11-30,12,10,3,Cota,m,554.6,APA/SNIRH
 2009,2009-11-30,12,10,3,Volume armazenado,dam3,14823,APA/SNIRH
 2009,2009-11-30,14,11,8,Cota,m,252.37,APA/SNIRH
@@ -12287,6 +12374,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2009,2009-12-31,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2009,2009-12-31,10,8,9,Cota,m,179.6,APA/SNIRH
 2009,2009-12-31,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2009,2009-12-31,11,8,9,Cota,m,150.01,APA/SNIRH
 2009,2009-12-31,14,11,8,Cota,m,253.97,APA/SNIRH
 2009,2009-12-31,16,17,11,Cota,m,181.97,APA/SNIRH
 2009,2009-12-31,19,20,10,Cota,m,122.62,APA/SNIRH
@@ -12325,6 +12413,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-01-31,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2010,2010-01-31,10,8,9,Cota,m,179.6,APA/SNIRH
 2010,2010-01-31,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2010,2010-01-31,11,8,9,Cota,m,151.69,APA/SNIRH
 2010,2010-01-31,12,10,3,Cota,m,562.4,APA/SNIRH
 2010,2010-01-31,12,10,3,Volume armazenado,dam3,26234,APA/SNIRH
 2010,2010-01-31,14,11,8,Cota,m,256.74,APA/SNIRH
@@ -12379,6 +12468,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-02-28,9,8,9,Volume armazenado,dam3,942,APA/SNIRH
 2010,2010-02-28,10,8,9,Cota,m,179.61,APA/SNIRH
 2010,2010-02-28,10,8,9,Volume armazenado,dam3,655,APA/SNIRH
+2010,2010-02-28,11,8,9,Cota,m,151.96,APA/SNIRH
 2010,2010-02-28,12,10,3,Cota,m,566.4,APA/SNIRH
 2010,2010-02-28,12,10,3,Volume armazenado,dam3,33725,APA/SNIRH
 2010,2010-02-28,14,11,8,Cota,m,259.21,APA/SNIRH
@@ -12415,6 +12505,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-02-28,35,29,8,Volume armazenado,dam3,3376,APA/SNIRH
 2010,2010-02-28,38,33,11,Cota,m,224.28,APA/SNIRH
 2010,2010-02-28,38,33,11,Volume armazenado,dam3,17432,APA/SNIRH
+2010,2010-03-15,11,8,9,Cota,m,151.43,APA/SNIRH
 2010,2010-03-26,18,19,8,Cota,m,261.57,APA/SNIRH
 2010,2010-03-26,18,19,8,Volume armazenado,dam3,40022,APA/SNIRH
 2010,2010-03-31,1,1,2,Cota,m,626.63,APA/SNIRH
@@ -12485,6 +12576,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-04-30,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2010,2010-04-30,10,8,9,Cota,m,179.6,APA/SNIRH
 2010,2010-04-30,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2010,2010-04-30,11,8,9,Cota,m,151.6,APA/SNIRH
 2010,2010-04-30,12,10,3,Cota,m,568.5,APA/SNIRH
 2010,2010-04-30,12,10,3,Volume armazenado,dam3,38136,APA/SNIRH
 2010,2010-04-30,14,11,8,Cota,m,261.4,APA/SNIRH
@@ -12541,6 +12633,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-05-31,9,8,9,Volume armazenado,dam3,910,APA/SNIRH
 2010,2010-05-31,10,8,9,Cota,m,179.47,APA/SNIRH
 2010,2010-05-31,10,8,9,Volume armazenado,dam3,627,APA/SNIRH
+2010,2010-05-31,11,8,9,Cota,m,151.34,APA/SNIRH
 2010,2010-05-31,12,10,3,Cota,m,568.5,APA/SNIRH
 2010,2010-05-31,12,10,3,Volume armazenado,dam3,38136,APA/SNIRH
 2010,2010-05-31,14,11,8,Cota,m,260.86,APA/SNIRH
@@ -12595,6 +12688,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-06-30,9,8,9,Volume armazenado,dam3,868,APA/SNIRH
 2010,2010-06-30,10,8,9,Cota,m,179.32,APA/SNIRH
 2010,2010-06-30,10,8,9,Volume armazenado,dam3,598,APA/SNIRH
+2010,2010-06-30,11,8,9,Cota,m,150.99,APA/SNIRH
 2010,2010-06-30,12,10,3,Cota,m,567.01,APA/SNIRH
 2010,2010-06-30,12,10,3,Volume armazenado,dam3,34972,APA/SNIRH
 2010,2010-06-30,14,11,8,Cota,m,250.46,APA/SNIRH
@@ -12666,6 +12760,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-07-31,9,8,9,Volume armazenado,dam3,798,APA/SNIRH
 2010,2010-07-31,10,8,9,Cota,m,179.08,APA/SNIRH
 2010,2010-07-31,10,8,9,Volume armazenado,dam3,552,APA/SNIRH
+2010,2010-07-31,11,8,9,Cota,m,150.34,APA/SNIRH
 2010,2010-07-31,21,21,9,Cota,m,98.24,APA/SNIRH
 2010,2010-07-31,21,21,9,Volume armazenado,dam3,57891,APA/SNIRH
 2010,2010-07-31,22,22,9,Cota,m,132.82,APA/SNIRH
@@ -12707,6 +12802,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-08-31,9,8,9,Volume armazenado,dam3,742,APA/SNIRH
 2010,2010-08-31,10,8,9,Cota,m,178.87,APA/SNIRH
 2010,2010-08-31,10,8,9,Volume armazenado,dam3,516,APA/SNIRH
+2010,2010-08-31,11,8,9,Cota,m,149.68,APA/SNIRH
 2010,2010-08-31,12,10,3,Cota,m,559.68,APA/SNIRH
 2010,2010-08-31,12,10,3,Volume armazenado,dam3,21793,APA/SNIRH
 2010,2010-08-31,15,14,8,Cota,m,252.4,APA/SNIRH
@@ -12761,6 +12857,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-09-30,9,8,9,Volume armazenado,dam3,700,APA/SNIRH
 2010,2010-09-30,10,8,9,Cota,m,178.72,APA/SNIRH
 2010,2010-09-30,10,8,9,Volume armazenado,dam3,492,APA/SNIRH
+2010,2010-09-30,11,8,9,Cota,m,149.26,APA/SNIRH
 2010,2010-09-30,12,10,3,Cota,m,561.1,APA/SNIRH
 2010,2010-09-30,12,10,3,Volume armazenado,dam3,24047,APA/SNIRH
 2010,2010-09-30,15,14,8,Cota,m,251.47,APA/SNIRH
@@ -12830,6 +12927,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-10-31,9,8,9,Volume armazenado,dam3,697,APA/SNIRH
 2010,2010-10-31,10,8,9,Cota,m,178.72,APA/SNIRH
 2010,2010-10-31,10,8,9,Volume armazenado,dam3,492,APA/SNIRH
+2010,2010-10-31,11,8,9,Cota,m,148.83,APA/SNIRH
 2010,2010-10-31,22,22,9,Cota,m,131.74,APA/SNIRH
 2010,2010-10-31,23,24,12,Cota,m,45.22,APA/SNIRH
 2010,2010-10-31,23,24,12,Volume armazenado,dam3,7816,APA/SNIRH
@@ -12869,6 +12967,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-11-30,9,8,9,Volume armazenado,dam3,697,APA/SNIRH
 2010,2010-11-30,10,8,9,Cota,m,178.72,APA/SNIRH
 2010,2010-11-30,10,8,9,Volume armazenado,dam3,492,APA/SNIRH
+2010,2010-11-30,11,8,9,Cota,m,148.31,APA/SNIRH
 2010,2010-11-30,12,10,3,Cota,m,566,APA/SNIRH
 2010,2010-11-30,12,10,3,Volume armazenado,dam3,32923,APA/SNIRH
 2010,2010-11-30,15,14,8,Cota,m,255.31,APA/SNIRH
@@ -12936,6 +13035,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2010,2010-12-31,9,8,9,Volume armazenado,dam3,973,APA/SNIRH
 2010,2010-12-31,10,8,9,Cota,m,179.64,APA/SNIRH
 2010,2010-12-31,10,8,9,Volume armazenado,dam3,661,APA/SNIRH
+2010,2010-12-31,11,8,9,Cota,m,150.3,APA/SNIRH
 2010,2010-12-31,18,19,8,Cota,m,261.57,APA/SNIRH
 2010,2010-12-31,18,19,8,Volume armazenado,dam3,40022,APA/SNIRH
 2010,2010-12-31,22,22,9,Cota,m,133.94,APA/SNIRH
@@ -12975,6 +13075,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-01-31,9,8,9,Volume armazenado,dam3,952,APA/SNIRH
 2011,2011-01-31,10,8,9,Cota,m,179.58,APA/SNIRH
 2011,2011-01-31,10,8,9,Volume armazenado,dam3,649,APA/SNIRH
+2011,2011-01-31,11,8,9,Cota,m,149.62,APA/SNIRH
 2011,2011-01-31,12,10,3,Cota,m,566.18,APA/SNIRH
 2011,2011-01-31,12,10,3,Volume armazenado,dam3,33283,APA/SNIRH
 2011,2011-01-31,14,11,8,Cota,m,261.2,APA/SNIRH
@@ -13029,6 +13130,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-02-28,9,8,9,Volume armazenado,dam3,952,APA/SNIRH
 2011,2011-02-28,10,8,9,Cota,m,179.61,APA/SNIRH
 2011,2011-02-28,10,8,9,Volume armazenado,dam3,655,APA/SNIRH
+2011,2011-02-28,11,8,9,Cota,m,149.76,APA/SNIRH
 2011,2011-02-28,12,10,3,Cota,m,566.2,APA/SNIRH
 2011,2011-02-28,12,10,3,Volume armazenado,dam3,33323,APA/SNIRH
 2011,2011-02-28,14,11,8,Cota,m,261.37,APA/SNIRH
@@ -13081,6 +13183,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-03-31,9,8,9,Volume armazenado,dam3,949,APA/SNIRH
 2011,2011-03-31,10,8,9,Cota,m,179.6,APA/SNIRH
 2011,2011-03-31,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2011,2011-03-31,11,8,9,Cota,m,150.06,APA/SNIRH
 2011,2011-03-31,12,10,3,Cota,m,568.25,APA/SNIRH
 2011,2011-03-31,12,10,3,Volume armazenado,dam3,37593,APA/SNIRH
 2011,2011-03-31,14,11,8,Cota,m,261.41,APA/SNIRH
@@ -13135,6 +13238,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-04-30,9,8,9,Volume armazenado,dam3,952,APA/SNIRH
 2011,2011-04-30,10,8,9,Cota,m,179.61,APA/SNIRH
 2011,2011-04-30,10,8,9,Volume armazenado,dam3,655,APA/SNIRH
+2011,2011-04-30,11,8,9,Cota,m,150.44,APA/SNIRH
 2011,2011-04-30,12,10,3,Cota,m,568.5,APA/SNIRH
 2011,2011-04-30,12,10,3,Volume armazenado,dam3,38136,APA/SNIRH
 2011,2011-04-30,14,11,8,Volume armazenado,dam3,12000,APA/SNIRH
@@ -13190,6 +13294,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-05-31,9,8,9,Volume armazenado,dam3,942,APA/SNIRH
 2011,2011-05-31,10,8,9,Cota,m,179.58,APA/SNIRH
 2011,2011-05-31,10,8,9,Volume armazenado,dam3,649,APA/SNIRH
+2011,2011-05-31,11,8,9,Cota,m,150.67,APA/SNIRH
 2011,2011-05-31,14,11,8,Cota,m,261.36,APA/SNIRH
 2011,2011-05-31,14,11,8,Volume armazenado,dam3,11897,APA/SNIRH
 2011,2011-05-31,15,14,8,Cota,m,255.07,APA/SNIRH
@@ -13242,6 +13347,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-06-30,9,8,9,Volume armazenado,dam3,896,APA/SNIRH
 2011,2011-06-30,10,8,9,Cota,m,179.42,APA/SNIRH
 2011,2011-06-30,10,8,9,Volume armazenado,dam3,618,APA/SNIRH
+2011,2011-06-30,11,8,9,Cota,m,150.01,APA/SNIRH
 2011,2011-06-30,12,10,3,Cota,m,568.5,APA/SNIRH
 2011,2011-06-30,12,10,3,Volume armazenado,dam3,38136,APA/SNIRH
 2011,2011-06-30,14,11,8,Cota,m,271.14,APA/SNIRH
@@ -13300,6 +13406,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-07-31,9,8,9,Volume armazenado,dam3,823,APA/SNIRH
 2011,2011-07-31,10,8,9,Cota,m,179.21,APA/SNIRH
 2011,2011-07-31,10,8,9,Volume armazenado,dam3,577,APA/SNIRH
+2011,2011-07-31,11,8,9,Cota,m,149.44,APA/SNIRH
 2011,2011-07-31,12,10,3,Cota,m,568.06,APA/SNIRH
 2011,2011-07-31,12,10,3,Volume armazenado,dam3,37184,APA/SNIRH
 2011,2011-07-31,14,11,8,Cota,m,260.63,APA/SNIRH
@@ -13350,6 +13457,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-08-31,9,8,9,Volume armazenado,dam3,770,APA/SNIRH
 2011,2011-08-31,10,8,9,Cota,m,179.03,APA/SNIRH
 2011,2011-08-31,10,8,9,Volume armazenado,dam3,542,APA/SNIRH
+2011,2011-08-31,11,8,9,Cota,m,148.66,APA/SNIRH
 2011,2011-08-31,12,10,3,Cota,m,567.65,APA/SNIRH
 2011,2011-08-31,12,10,3,Volume armazenado,dam3,36310,APA/SNIRH
 2011,2011-08-31,14,11,8,Cota,m,260.18,APA/SNIRH
@@ -13402,6 +13510,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-09-30,9,8,9,Volume armazenado,dam3,745,APA/SNIRH
 2011,2011-09-30,10,8,9,Cota,m,178.91,APA/SNIRH
 2011,2011-09-30,10,8,9,Volume armazenado,dam3,522,APA/SNIRH
+2011,2011-09-30,11,8,9,Cota,m,148.08,APA/SNIRH
 2011,2011-09-30,12,10,3,Cota,m,565.95,APA/SNIRH
 2011,2011-09-30,12,10,3,Volume armazenado,dam3,32744,APA/SNIRH
 2011,2011-09-30,14,11,8,Cota,m,259.9,APA/SNIRH
@@ -13460,6 +13569,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-10-31,9,8,9,Volume armazenado,dam3,745,APA/SNIRH
 2011,2011-10-31,10,8,9,Cota,m,178.86,APA/SNIRH
 2011,2011-10-31,10,8,9,Volume armazenado,dam3,514,APA/SNIRH
+2011,2011-10-31,11,8,9,Cota,m,147.86,APA/SNIRH
 2011,2011-10-31,14,11,8,Cota,m,259.75,APA/SNIRH
 2011,2011-10-31,14,11,8,Volume armazenado,dam3,8416,APA/SNIRH
 2011,2011-10-31,15,14,8,Cota,m,250.48,APA/SNIRH
@@ -13512,6 +13622,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-11-30,9,8,9,Volume armazenado,dam3,807,APA/SNIRH
 2011,2011-11-30,10,8,9,Cota,m,179.02,APA/SNIRH
 2011,2011-11-30,10,8,9,Volume armazenado,dam3,540,APA/SNIRH
+2011,2011-11-30,11,8,9,Cota,m,147.77,APA/SNIRH
 2011,2011-11-30,12,10,3,Cota,m,566.25,APA/SNIRH
 2011,2011-11-30,12,10,3,Volume armazenado,dam3,33423,APA/SNIRH
 2011,2011-11-30,14,11,8,Cota,m,259.9,APA/SNIRH
@@ -13585,6 +13696,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2011,2011-12-31,9,8,9,Volume armazenado,dam3,809,APA/SNIRH
 2011,2011-12-31,10,8,9,Cota,m,179,APA/SNIRH
 2011,2011-12-31,10,8,9,Volume armazenado,dam3,536,APA/SNIRH
+2011,2011-12-31,11,8,9,Cota,m,147.58,APA/SNIRH
 2011,2011-12-31,22,22,9,Cota,m,134.15,APA/SNIRH
 2011,2011-12-31,23,24,12,Cota,m,45.69,APA/SNIRH
 2011,2011-12-31,23,24,12,Volume armazenado,dam3,8226,APA/SNIRH
@@ -13620,6 +13732,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-01-31,9,8,9,Volume armazenado,dam3,823,APA/SNIRH
 2012,2012-01-31,10,8,9,Cota,m,179.03,APA/SNIRH
 2012,2012-01-31,10,8,9,Volume armazenado,dam3,542,APA/SNIRH
+2012,2012-01-31,11,8,9,Cota,m,147.69,APA/SNIRH
 2012,2012-01-31,12,10,3,Cota,m,566.05,APA/SNIRH
 2012,2012-01-31,12,10,3,Volume armazenado,dam3,33023,APA/SNIRH
 2012,2012-01-31,14,11,8,Cota,m,259.98,APA/SNIRH
@@ -13676,6 +13789,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-02-29,9,8,9,Volume armazenado,dam3,804,APA/SNIRH
 2012,2012-02-29,10,8,9,Cota,m,179,APA/SNIRH
 2012,2012-02-29,10,8,9,Volume armazenado,dam3,536,APA/SNIRH
+2012,2012-02-29,11,8,9,Cota,m,147.36,APA/SNIRH
 2012,2012-02-29,12,10,3,Cota,m,565.7,APA/SNIRH
 2012,2012-02-29,12,10,3,Volume armazenado,dam3,32330,APA/SNIRH
 2012,2012-02-29,14,11,8,Cota,m,259.96,APA/SNIRH
@@ -13747,6 +13861,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-03-31,9,8,9,Volume armazenado,dam3,781,APA/SNIRH
 2012,2012-03-31,10,8,9,Cota,m,178.92,APA/SNIRH
 2012,2012-03-31,10,8,9,Volume armazenado,dam3,524,APA/SNIRH
+2012,2012-03-31,11,8,9,Cota,m,147.41,APA/SNIRH
 2012,2012-03-31,21,21,9,Cota,m,94.47,APA/SNIRH
 2012,2012-03-31,21,21,9,Volume armazenado,dam3,38154,APA/SNIRH
 2012,2012-03-31,22,22,9,Cota,m,133.94,APA/SNIRH
@@ -13782,6 +13897,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-04-30,9,8,9,Volume armazenado,dam3,787,APA/SNIRH
 2012,2012-04-30,10,8,9,Cota,m,178.94,APA/SNIRH
 2012,2012-04-30,10,8,9,Volume armazenado,dam3,527,APA/SNIRH
+2012,2012-04-30,11,8,9,Cota,m,147.51,APA/SNIRH
 2012,2012-04-30,12,10,3,Cota,m,574.1,APA/SNIRH
 2012,2012-04-30,12,10,3,Volume armazenado,dam3,29091,APA/SNIRH
 2012,2012-04-30,14,11,8,Cota,m,259.84,APA/SNIRH
@@ -13838,6 +13954,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-05-31,9,8,9,Volume armazenado,dam3,753,APA/SNIRH
 2012,2012-05-31,10,8,9,Cota,m,178.85,APA/SNIRH
 2012,2012-05-31,10,8,9,Volume armazenado,dam3,513,APA/SNIRH
+2012,2012-05-31,11,8,9,Cota,m,147.5,APA/SNIRH
 2012,2012-05-31,14,11,8,Cota,m,259.62,APA/SNIRH
 2012,2012-05-31,14,11,8,Volume armazenado,dam3,8180,APA/SNIRH
 2012,2012-05-31,15,14,8,Cota,m,252.89,APA/SNIRH
@@ -13909,6 +14026,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-06-30,9,8,9,Volume armazenado,dam3,700,APA/SNIRH
 2012,2012-06-30,10,8,9,Cota,m,178.66,APA/SNIRH
 2012,2012-06-30,10,8,9,Volume armazenado,dam3,483,APA/SNIRH
+2012,2012-06-30,11,8,9,Cota,m,147.24,APA/SNIRH
 2012,2012-06-30,21,21,9,Cota,m,91.53,APA/SNIRH
 2012,2012-06-30,21,21,9,Volume armazenado,dam3,27357,APA/SNIRH
 2012,2012-06-30,22,22,9,Cota,m,132.97,APA/SNIRH
@@ -13960,6 +14078,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-07-31,9,8,9,Volume armazenado,dam3,638,APA/SNIRH
 2012,2012-07-31,10,8,9,Cota,m,178.42,APA/SNIRH
 2012,2012-07-31,10,8,9,Volume armazenado,dam3,445,APA/SNIRH
+2012,2012-07-31,11,8,9,Cota,m,147.14,APA/SNIRH
 2012,2012-07-31,18,19,8,Cota,m,261.6,APA/SNIRH
 2012,2012-07-31,21,21,9,Cota,m,90.61,APA/SNIRH
 2012,2012-07-31,21,21,9,Volume armazenado,dam3,24419,APA/SNIRH
@@ -13996,6 +14115,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-08-31,9,8,9,Volume armazenado,dam3,595,APA/SNIRH
 2012,2012-08-31,10,8,9,Cota,m,178.21,APA/SNIRH
 2012,2012-08-31,10,8,9,Volume armazenado,dam3,412,APA/SNIRH
+2012,2012-08-31,11,8,9,Cota,m,146.87,APA/SNIRH
 2012,2012-08-31,12,10,3,Cota,m,564.09,APA/SNIRH
 2012,2012-08-31,12,10,3,Volume armazenado,dam3,29201,APA/SNIRH
 2012,2012-08-31,14,11,8,Cota,m,257.49,APA/SNIRH
@@ -14052,6 +14172,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-09-30,2,3,12,Volume armazenado,dam3,18758,APA/SNIRH
 2012,2012-09-30,5,7,11,Cota,m,223.52,APA/SNIRH
 2012,2012-09-30,5,7,11,Volume armazenado,dam3,70207,APA/SNIRH
+2012,2012-09-30,11,8,9,Cota,m,146.81,APA/SNIRH
 2012,2012-09-30,14,11,8,Cota,m,257.09,APA/SNIRH
 2012,2012-09-30,14,11,8,Volume armazenado,dam3,4274,APA/SNIRH
 2012,2012-09-30,15,14,8,Cota,m,247.3,APA/SNIRH
@@ -14104,6 +14225,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-10-31,9,8,9,Volume armazenado,dam3,556,APA/SNIRH
 2012,2012-10-31,10,8,9,Cota,m,178.02,APA/SNIRH
 2012,2012-10-31,10,8,9,Volume armazenado,dam3,382,APA/SNIRH
+2012,2012-10-31,11,8,9,Cota,m,147.02,APA/SNIRH
 2012,2012-10-31,12,10,3,Cota,m,563.56,APA/SNIRH
 2012,2012-10-31,12,10,3,Volume armazenado,dam3,28287,APA/SNIRH
 2012,2012-10-31,14,11,8,Cota,m,257.12,APA/SNIRH
@@ -14156,6 +14278,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-11-30,9,8,9,Volume armazenado,dam3,955,APA/SNIRH
 2012,2012-11-30,10,8,9,Cota,m,179.6,APA/SNIRH
 2012,2012-11-30,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2012,2012-11-30,11,8,9,Cota,m,149.07,APA/SNIRH
 2012,2012-11-30,12,10,3,Cota,m,565.45,APA/SNIRH
 2012,2012-11-30,12,10,3,Volume armazenado,dam3,31840,APA/SNIRH
 2012,2012-11-30,14,11,8,Cota,m,257.95,APA/SNIRH
@@ -14229,6 +14352,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2012,2012-12-31,9,8,9,Volume armazenado,dam3,962,APA/SNIRH
 2012,2012-12-31,10,8,9,Cota,m,179.61,APA/SNIRH
 2012,2012-12-31,10,8,9,Volume armazenado,dam3,655,APA/SNIRH
+2012,2012-12-31,11,8,9,Cota,m,149.15,APA/SNIRH
 2012,2012-12-31,22,22,9,Cota,m,133.35,APA/SNIRH
 2012,2012-12-31,23,24,12,Cota,m,40.32,APA/SNIRH
 2012,2012-12-31,23,24,12,Volume armazenado,dam3,4217,APA/SNIRH
@@ -14260,6 +14384,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-01-31,9,8,9,Volume armazenado,dam3,962,APA/SNIRH
 2013,2013-01-31,10,8,9,Cota,m,179.61,APA/SNIRH
 2013,2013-01-31,10,8,9,Volume armazenado,dam3,655,APA/SNIRH
+2013,2013-01-31,11,8,9,Cota,m,150.12,APA/SNIRH
 2013,2013-01-31,12,10,3,Cota,m,566.15,APA/SNIRH
 2013,2013-01-31,12,10,3,Volume armazenado,dam3,33223,APA/SNIRH
 2013,2013-01-31,14,11,8,Cota,m,259.24,APA/SNIRH
@@ -14312,6 +14437,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-02-28,9,8,9,Volume armazenado,dam3,962,APA/SNIRH
 2013,2013-02-28,10,8,9,Cota,m,179.58,APA/SNIRH
 2013,2013-02-28,10,8,9,Volume armazenado,dam3,649,APA/SNIRH
+2013,2013-02-28,11,8,9,Cota,m,150.63,APA/SNIRH
 2013,2013-02-28,12,10,3,Cota,m,566.07,APA/SNIRH
 2013,2013-02-28,12,10,3,Volume armazenado,dam3,33063,APA/SNIRH
 2013,2013-02-28,14,11,8,Cota,m,259.43,APA/SNIRH
@@ -14352,6 +14478,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-02-28,38,33,11,Volume armazenado,dam3,8038,APA/SNIRH
 2013,2013-03-22,12,10,3,Cota,m,567,APA/SNIRH
 2013,2013-03-22,12,10,3,Volume armazenado,dam3,34951,APA/SNIRH
+2013,2013-03-27,11,8,9,Cota,m,151.73,APA/SNIRH
 2013,2013-03-31,2,3,12,Cota,m,82.77,APA/SNIRH
 2013,2013-03-31,2,3,12,Volume armazenado,dam3,31235,APA/SNIRH
 2013,2013-03-31,5,7,11,Cota,m,231.83,APA/SNIRH
@@ -14435,6 +14562,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-04-30,9,8,9,Volume armazenado,dam3,942,APA/SNIRH
 2013,2013-04-30,10,8,9,Cota,m,179.54,APA/SNIRH
 2013,2013-04-30,10,8,9,Volume armazenado,dam3,641,APA/SNIRH
+2013,2013-04-30,11,8,9,Cota,m,152.51,APA/SNIRH
 2013,2013-04-30,21,21,9,Cota,m,100.03,APA/SNIRH
 2013,2013-04-30,21,21,9,Volume armazenado,dam3,70416,APA/SNIRH
 2013,2013-04-30,22,22,9,Cota,m,135.93,APA/SNIRH
@@ -14469,6 +14597,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-05-31,9,8,9,Volume armazenado,dam3,907,APA/SNIRH
 2013,2013-05-31,10,8,9,Cota,m,179.4,APA/SNIRH
 2013,2013-05-31,10,8,9,Volume armazenado,dam3,614,APA/SNIRH
+2013,2013-05-31,11,8,9,Cota,m,151.96,APA/SNIRH
 2013,2013-05-31,12,10,3,Cota,m,568.5,APA/SNIRH
 2013,2013-05-31,12,10,3,Volume armazenado,dam3,38136,APA/SNIRH
 2013,2013-05-31,14,11,8,Cota,m,261.15,APA/SNIRH
@@ -14520,6 +14649,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-06-30,9,8,9,Volume armazenado,dam3,854,APA/SNIRH
 2013,2013-06-30,10,8,9,Cota,m,179.24,APA/SNIRH
 2013,2013-06-30,10,8,9,Volume armazenado,dam3,583,APA/SNIRH
+2013,2013-06-30,11,8,9,Cota,m,151.63,APA/SNIRH
 2013,2013-06-30,12,10,3,Cota,m,568.31,APA/SNIRH
 2013,2013-06-30,12,10,3,Volume armazenado,dam3,37723,APA/SNIRH
 2013,2013-06-30,14,11,8,Cota,m,260.85,APA/SNIRH
@@ -14596,6 +14726,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-07-31,9,8,9,Volume armazenado,dam3,801,APA/SNIRH
 2013,2013-07-31,10,8,9,Cota,m,179.03,APA/SNIRH
 2013,2013-07-31,10,8,9,Volume armazenado,dam3,542,APA/SNIRH
+2013,2013-07-31,11,8,9,Cota,m,151.01,APA/SNIRH
 2013,2013-07-31,23,24,12,Cota,m,49.16,APA/SNIRH
 2013,2013-07-31,23,24,12,Volume armazenado,dam3,11603,APA/SNIRH
 2013,2013-07-31,24,25,11,Cota,m,49.18,APA/SNIRH
@@ -14624,6 +14755,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-08-31,9,8,9,Volume armazenado,dam3,745,APA/SNIRH
 2013,2013-08-31,10,8,9,Cota,m,178.82,APA/SNIRH
 2013,2013-08-31,10,8,9,Volume armazenado,dam3,508,APA/SNIRH
+2013,2013-08-31,11,8,9,Cota,m,150.28,APA/SNIRH
 2013,2013-08-31,12,10,3,Cota,m,564.95,APA/SNIRH
 2013,2013-08-31,12,10,3,Volume armazenado,dam3,30874,APA/SNIRH
 2013,2013-08-31,14,11,8,Cota,m,259.8,APA/SNIRH
@@ -14676,6 +14808,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-09-30,9,8,9,Volume armazenado,dam3,720,APA/SNIRH
 2013,2013-09-30,10,8,9,Cota,m,178.68,APA/SNIRH
 2013,2013-09-30,10,8,9,Volume armazenado,dam3,486,APA/SNIRH
+2013,2013-09-30,11,8,9,Cota,m,149.77,APA/SNIRH
 2013,2013-09-30,12,10,3,Cota,m,565.05,APA/SNIRH
 2013,2013-09-30,12,10,3,Volume armazenado,dam3,31066,APA/SNIRH
 2013,2013-09-30,14,11,8,Cota,m,259.4,APA/SNIRH
@@ -14730,6 +14863,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-10-31,9,8,9,Volume armazenado,dam3,737,APA/SNIRH
 2013,2013-10-31,10,8,9,Cota,m,178.69,APA/SNIRH
 2013,2013-10-31,10,8,9,Volume armazenado,dam3,487,APA/SNIRH
+2013,2013-10-31,11,8,9,Cota,m,149.66,APA/SNIRH
 2013,2013-10-31,12,10,3,Cota,m,566.15,APA/SNIRH
 2013,2013-10-31,12,10,3,Volume armazenado,dam3,33223,APA/SNIRH
 2013,2013-10-31,14,11,8,Cota,m,259.44,APA/SNIRH
@@ -14800,6 +14934,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-11-30,9,8,9,Volume armazenado,dam3,725,APA/SNIRH
 2013,2013-11-30,10,8,9,Cota,m,178.63,APA/SNIRH
 2013,2013-11-30,10,8,9,Volume armazenado,dam3,478,APA/SNIRH
+2013,2013-11-30,11,8,9,Cota,m,149.22,APA/SNIRH
 2013,2013-11-30,12,10,3,Cota,m,565.87,APA/SNIRH
 2013,2013-11-30,12,10,3,Volume armazenado,dam3,32665,APA/SNIRH
 2013,2013-11-30,23,24,12,Cota,m,46.75,APA/SNIRH
@@ -14833,6 +14968,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2013,2013-12-31,9,8,9,Volume armazenado,dam3,795,APA/SNIRH
 2013,2013-12-31,10,8,9,Cota,m,178.69,APA/SNIRH
 2013,2013-12-31,10,8,9,Volume armazenado,dam3,487,APA/SNIRH
+2013,2013-12-31,11,8,9,Cota,m,149,APA/SNIRH
 2013,2013-12-31,12,10,3,Cota,m,565.96,APA/SNIRH
 2013,2013-12-31,12,10,3,Volume armazenado,dam3,32844,APA/SNIRH
 2013,2013-12-31,14,11,8,Cota,m,259.62,APA/SNIRH
@@ -14901,6 +15037,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-01-31,9,8,9,Volume armazenado,dam3,907,APA/SNIRH
 2014,2014-01-31,10,8,9,Cota,m,178.82,APA/SNIRH
 2014,2014-01-31,10,8,9,Volume armazenado,dam3,508,APA/SNIRH
+2014,2014-01-31,11,8,9,Cota,m,149.52,APA/SNIRH
 2014,2014-01-31,12,10,3,Cota,m,566.25,APA/SNIRH
 2014,2014-01-31,12,10,3,Volume armazenado,dam3,33423,APA/SNIRH
 2014,2014-01-31,18,19,8,Cota,m,262.58,APA/SNIRH
@@ -14940,6 +15077,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-02-28,9,8,9,Volume armazenado,dam3,945,APA/SNIRH
 2014,2014-02-28,10,8,9,Cota,m,179.3,APA/SNIRH
 2014,2014-02-28,10,8,9,Volume armazenado,dam3,594,APA/SNIRH
+2014,2014-02-28,11,8,9,Cota,m,151.47,APA/SNIRH
 2014,2014-02-28,12,10,3,Cota,m,566.3,APA/SNIRH
 2014,2014-02-28,12,10,3,Volume armazenado,dam3,33524,APA/SNIRH
 2014,2014-02-28,14,11,8,Cota,m,261.06,APA/SNIRH
@@ -14994,6 +15132,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-03-31,9,8,9,Volume armazenado,dam3,927,APA/SNIRH
 2014,2014-03-31,10,8,9,Cota,m,179.28,APA/SNIRH
 2014,2014-03-31,10,8,9,Volume armazenado,dam3,591,APA/SNIRH
+2014,2014-03-31,11,8,9,Cota,m,151.47,APA/SNIRH
 2014,2014-03-31,12,10,3,Cota,m,568.4,APA/SNIRH
 2014,2014-03-31,12,10,3,Volume armazenado,dam3,37919,APA/SNIRH
 2014,2014-03-31,14,11,8,Cota,m,261.19,APA/SNIRH
@@ -15048,6 +15187,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-04-30,9,8,9,Volume armazenado,dam3,935,APA/SNIRH
 2014,2014-04-30,10,8,9,Cota,m,179.58,APA/SNIRH
 2014,2014-04-30,10,8,9,Volume armazenado,dam3,649,APA/SNIRH
+2014,2014-04-30,11,8,9,Cota,m,151.65,APA/SNIRH
 2014,2014-04-30,12,10,3,Cota,m,568.5,APA/SNIRH
 2014,2014-04-30,12,10,3,Volume armazenado,dam3,38136,APA/SNIRH
 2014,2014-04-30,14,11,8,Cota,m,261.29,APA/SNIRH
@@ -15117,6 +15257,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-05-31,9,8,9,Volume armazenado,dam3,893,APA/SNIRH
 2014,2014-05-31,10,8,9,Cota,m,179.42,APA/SNIRH
 2014,2014-05-31,10,8,9,Volume armazenado,dam3,618,APA/SNIRH
+2014,2014-05-31,11,8,9,Cota,m,151.36,APA/SNIRH
 2014,2014-05-31,12,10,3,Cota,m,568.5,APA/SNIRH
 2014,2014-05-31,12,10,3,Volume armazenado,dam3,38136,APA/SNIRH
 2014,2014-05-31,21,21,9,Cota,m,97.25,APA/SNIRH
@@ -15158,6 +15299,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-06-30,9,8,9,Volume armazenado,dam3,843,APA/SNIRH
 2014,2014-06-30,10,8,9,Cota,m,179.27,APA/SNIRH
 2014,2014-06-30,10,8,9,Volume armazenado,dam3,589,APA/SNIRH
+2014,2014-06-30,11,8,9,Cota,m,150.79,APA/SNIRH
 2014,2014-06-30,12,10,3,Cota,m,568.2,APA/SNIRH
 2014,2014-06-30,12,10,3,Volume armazenado,dam3,37486,APA/SNIRH
 2014,2014-06-30,14,11,8,Cota,m,259.81,APA/SNIRH
@@ -15213,6 +15355,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-07-31,9,8,9,Volume armazenado,dam3,759,APA/SNIRH
 2014,2014-07-31,10,8,9,Cota,m,179.06,APA/SNIRH
 2014,2014-07-31,10,8,9,Volume armazenado,dam3,548,APA/SNIRH
+2014,2014-07-31,11,8,9,Cota,m,150,APA/SNIRH
 2014,2014-07-31,12,10,3,Cota,m,567.1,APA/SNIRH
 2014,2014-07-31,12,10,3,Volume armazenado,dam3,35158,APA/SNIRH
 2014,2014-07-31,14,11,8,Cota,m,259.33,APA/SNIRH
@@ -15266,6 +15409,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-08-31,9,8,9,Volume armazenado,dam3,695,APA/SNIRH
 2014,2014-08-31,10,8,9,Cota,m,178.86,APA/SNIRH
 2014,2014-08-31,10,8,9,Volume armazenado,dam3,514,APA/SNIRH
+2014,2014-08-31,11,8,9,Cota,m,149.5,APA/SNIRH
 2014,2014-08-31,12,10,3,Cota,m,565.22,APA/SNIRH
 2014,2014-08-31,12,10,3,Volume armazenado,dam3,31393,APA/SNIRH
 2014,2014-08-31,14,11,8,Cota,m,259.84,APA/SNIRH
@@ -15321,6 +15465,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-09-30,9,8,9,Volume armazenado,dam3,669,APA/SNIRH
 2014,2014-09-30,10,8,9,Cota,m,178.82,APA/SNIRH
 2014,2014-09-30,10,8,9,Volume armazenado,dam3,508,APA/SNIRH
+2014,2014-09-30,11,8,9,Cota,m,149.24,APA/SNIRH
 2014,2014-09-30,12,10,3,Cota,m,566.25,APA/SNIRH
 2014,2014-09-30,12,10,3,Volume armazenado,dam3,33423,APA/SNIRH
 2014,2014-09-30,14,11,8,Cota,m,259.71,APA/SNIRH
@@ -15380,6 +15525,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-10-31,9,8,9,Volume armazenado,dam3,703,APA/SNIRH
 2014,2014-10-31,10,8,9,Cota,m,178.85,APA/SNIRH
 2014,2014-10-31,10,8,9,Volume armazenado,dam3,513,APA/SNIRH
+2014,2014-10-31,11,8,9,Cota,m,149.18,APA/SNIRH
 2014,2014-10-31,12,10,3,Cota,m,566,APA/SNIRH
 2014,2014-10-31,12,10,3,Volume armazenado,dam3,32923,APA/SNIRH
 2014,2014-10-31,14,11,8,Cota,m,259.7,APA/SNIRH
@@ -15433,6 +15579,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-11-30,9,8,9,Volume armazenado,dam3,942,APA/SNIRH
 2014,2014-11-30,10,8,9,Cota,m,179.72,APA/SNIRH
 2014,2014-11-30,10,8,9,Volume armazenado,dam3,676,APA/SNIRH
+2014,2014-11-30,11,8,9,Cota,m,150.01,APA/SNIRH
 2014,2014-11-30,12,10,3,Cota,m,566.1,APA/SNIRH
 2014,2014-11-30,12,10,3,Volume armazenado,dam3,33123,APA/SNIRH
 2014,2014-11-30,14,11,8,Cota,m,260.17,APA/SNIRH
@@ -15474,6 +15621,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2014,2014-12-10,27,26,2,Cota,m,229.59,APA/SNIRH
 2014,2014-12-19,16,17,11,Cota,m,181.9,APA/SNIRH
 2014,2014-12-19,16,17,11,Volume armazenado,dam3,10077,APA/SNIRH
+2014,2014-12-30,11,8,9,Cota,m,150.01,APA/SNIRH
 2014,2014-12-31,1,1,2,Cota,m,626.64,APA/SNIRH
 2014,2014-12-31,2,3,12,Cota,m,82.83,APA/SNIRH
 2014,2014-12-31,2,3,12,Volume armazenado,dam3,31395,APA/SNIRH
@@ -15551,6 +15699,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-01-31,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2015,2015-01-31,10,8,9,Cota,m,179.6,APA/SNIRH
 2015,2015-01-31,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2015,2015-01-31,11,8,9,Cota,m,149.85,APA/SNIRH
 2015,2015-01-31,12,10,3,Cota,m,566,APA/SNIRH
 2015,2015-01-31,12,10,3,Volume armazenado,dam3,32923,APA/SNIRH
 2015,2015-01-31,15,14,8,Cota,m,254.54,APA/SNIRH
@@ -15603,6 +15752,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-02-28,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2015,2015-02-28,10,8,9,Cota,m,179.6,APA/SNIRH
 2015,2015-02-28,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2015,2015-02-28,11,8,9,Cota,m,149.6,APA/SNIRH
 2015,2015-02-28,12,10,3,Cota,m,566,APA/SNIRH
 2015,2015-02-28,12,10,3,Volume armazenado,dam3,32923,APA/SNIRH
 2015,2015-02-28,15,14,8,Cota,m,254.67,APA/SNIRH
@@ -15649,6 +15799,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-03-31,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2015,2015-03-31,10,8,9,Cota,m,179.6,APA/SNIRH
 2015,2015-03-31,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2015,2015-03-31,11,8,9,Cota,m,149.2,APA/SNIRH
 2015,2015-03-31,12,10,3,Cota,m,565.5,APA/SNIRH
 2015,2015-03-31,12,10,3,Volume armazenado,dam3,31937,APA/SNIRH
 2015,2015-03-31,14,11,8,Cota,m,260.46,APA/SNIRH
@@ -15705,6 +15856,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-04-30,9,8,9,Volume armazenado,dam3,907,APA/SNIRH
 2015,2015-04-30,10,8,9,Cota,m,179.6,APA/SNIRH
 2015,2015-04-30,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2015,2015-04-30,11,8,9,Cota,m,148.64,APA/SNIRH
 2015,2015-04-30,12,10,3,Cota,m,567.5,APA/SNIRH
 2015,2015-04-30,12,10,3,Volume armazenado,dam3,35994,APA/SNIRH
 2015,2015-04-30,14,11,8,Cota,m,260.46,APA/SNIRH
@@ -15761,6 +15913,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-05-31,9,8,9,Volume armazenado,dam3,865,APA/SNIRH
 2015,2015-05-31,10,8,9,Cota,m,179.42,APA/SNIRH
 2015,2015-05-31,10,8,9,Volume armazenado,dam3,618,APA/SNIRH
+2015,2015-05-31,11,8,9,Cota,m,148.32,APA/SNIRH
 2015,2015-05-31,12,10,3,Cota,m,567.36,APA/SNIRH
 2015,2015-05-31,12,10,3,Volume armazenado,dam3,35700,APA/SNIRH
 2015,2015-05-31,14,11,8,Cota,m,260.11,APA/SNIRH
@@ -15817,6 +15970,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-06-30,9,8,9,Volume armazenado,dam3,826,APA/SNIRH
 2015,2015-06-30,10,8,9,Cota,m,179.25,APA/SNIRH
 2015,2015-06-30,10,8,9,Volume armazenado,dam3,585,APA/SNIRH
+2015,2015-06-30,11,8,9,Cota,m,147.89,APA/SNIRH
 2015,2015-06-30,12,10,3,Cota,m,566.98,APA/SNIRH
 2015,2015-06-30,12,10,3,Volume armazenado,dam3,34910,APA/SNIRH
 2015,2015-06-30,14,11,8,Cota,m,259.73,APA/SNIRH
@@ -15871,6 +16025,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-07-31,9,8,9,Volume armazenado,dam3,745,APA/SNIRH
 2015,2015-07-31,10,8,9,Cota,m,179.01,APA/SNIRH
 2015,2015-07-31,10,8,9,Volume armazenado,dam3,538,APA/SNIRH
+2015,2015-07-31,11,8,9,Cota,m,147.5,APA/SNIRH
 2015,2015-07-31,12,10,3,Cota,m,564.1,APA/SNIRH
 2015,2015-07-31,12,10,3,Volume armazenado,dam3,29275,APA/SNIRH
 2015,2015-07-31,13,10,3,Cota,m,782.15,APA/SNIRH
@@ -15930,6 +16085,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-08-31,9,8,9,Volume armazenado,dam3,692,APA/SNIRH
 2015,2015-08-31,10,8,9,Cota,m,178.81,APA/SNIRH
 2015,2015-08-31,10,8,9,Volume armazenado,dam3,506,APA/SNIRH
+2015,2015-08-31,11,8,9,Cota,m,147.23,APA/SNIRH
 2015,2015-08-31,12,10,3,Cota,m,561.86,APA/SNIRH
 2015,2015-08-31,12,10,3,Volume armazenado,dam3,25312,APA/SNIRH
 2015,2015-08-31,13,10,3,Cota,m,779.78,APA/SNIRH
@@ -15987,6 +16143,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-09-30,9,8,9,Volume armazenado,dam3,638,APA/SNIRH
 2015,2015-09-30,10,8,9,Cota,m,178.69,APA/SNIRH
 2015,2015-09-30,10,8,9,Volume armazenado,dam3,487,APA/SNIRH
+2015,2015-09-30,11,8,9,Cota,m,147.1,APA/SNIRH
 2015,2015-09-30,12,10,3,Cota,m,562.25,APA/SNIRH
 2015,2015-09-30,12,10,3,Volume armazenado,dam3,25976,APA/SNIRH
 2015,2015-09-30,13,10,3,Cota,m,777.82,APA/SNIRH
@@ -16050,6 +16207,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-10-31,9,8,9,Volume armazenado,dam3,642,APA/SNIRH
 2015,2015-10-31,10,8,9,Cota,m,178.81,APA/SNIRH
 2015,2015-10-31,10,8,9,Volume armazenado,dam3,506,APA/SNIRH
+2015,2015-10-31,11,8,9,Cota,m,147.53,APA/SNIRH
 2015,2015-10-31,12,10,3,Cota,m,562.45,APA/SNIRH
 2015,2015-10-31,12,10,3,Volume armazenado,dam3,26321,APA/SNIRH
 2015,2015-10-31,13,10,3,Cota,m,778.87,APA/SNIRH
@@ -16101,6 +16259,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-11-30,9,8,9,Volume armazenado,dam3,642,APA/SNIRH
 2015,2015-11-30,10,8,9,Cota,m,178.69,APA/SNIRH
 2015,2015-11-30,10,8,9,Volume armazenado,dam3,487,APA/SNIRH
+2015,2015-11-30,11,8,9,Cota,m,147.41,APA/SNIRH
 2015,2015-11-30,12,10,3,Cota,m,563.76,APA/SNIRH
 2015,2015-11-30,12,10,3,Volume armazenado,dam3,28650,APA/SNIRH
 2015,2015-11-30,13,10,3,Cota,m,781.2,APA/SNIRH
@@ -16158,6 +16317,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2015,2015-12-31,9,8,9,Volume armazenado,dam3,649,APA/SNIRH
 2015,2015-12-31,10,8,9,Cota,m,178.64,APA/SNIRH
 2015,2015-12-31,10,8,9,Volume armazenado,dam3,480,APA/SNIRH
+2015,2015-12-31,11,8,9,Cota,m,147.35,APA/SNIRH
 2015,2015-12-31,12,10,3,Cota,m,564.62,APA/SNIRH
 2015,2015-12-31,12,10,3,Volume armazenado,dam3,30247,APA/SNIRH
 2015,2015-12-31,13,10,3,Cota,m,781.63,APA/SNIRH
@@ -16214,6 +16374,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-01-31,9,8,9,Volume armazenado,dam3,681,APA/SNIRH
 2016,2016-01-31,10,8,9,Cota,m,178.8,APA/SNIRH
 2016,2016-01-31,10,8,9,Volume armazenado,dam3,505,APA/SNIRH
+2016,2016-01-31,11,8,9,Cota,m,147.85,APA/SNIRH
 2016,2016-01-31,12,10,3,Cota,m,566.15,APA/SNIRH
 2016,2016-01-31,12,10,3,Volume armazenado,dam3,33223,APA/SNIRH
 2016,2016-01-31,13,10,3,Cota,m,786.1,APA/SNIRH
@@ -16266,6 +16427,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-02-29,9,8,9,Volume armazenado,dam3,689,APA/SNIRH
 2016,2016-02-29,10,8,9,Cota,m,178.81,APA/SNIRH
 2016,2016-02-29,10,8,9,Volume armazenado,dam3,506,APA/SNIRH
+2016,2016-02-29,11,8,9,Cota,m,147.77,APA/SNIRH
 2016,2016-02-29,12,10,3,Cota,m,566.15,APA/SNIRH
 2016,2016-02-29,12,10,3,Volume armazenado,dam3,33223,APA/SNIRH
 2016,2016-02-29,13,10,3,Cota,m,786.66,APA/SNIRH
@@ -16325,6 +16487,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-03-31,9,8,9,Volume armazenado,dam3,667,APA/SNIRH
 2016,2016-03-31,10,8,9,Cota,m,178.78,APA/SNIRH
 2016,2016-03-31,10,8,9,Volume armazenado,dam3,502,APA/SNIRH
+2016,2016-03-31,11,8,9,Cota,m,147.67,APA/SNIRH
 2016,2016-03-31,12,10,3,Cota,m,566.44,APA/SNIRH
 2016,2016-03-31,12,10,3,Volume armazenado,dam3,33806,APA/SNIRH
 2016,2016-03-31,13,10,3,Cota,m,786.98,APA/SNIRH
@@ -16384,6 +16547,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-04-30,9,8,9,Volume armazenado,dam3,651,APA/SNIRH
 2016,2016-04-30,10,8,9,Cota,m,178.81,APA/SNIRH
 2016,2016-04-30,10,8,9,Volume armazenado,dam3,506,APA/SNIRH
+2016,2016-04-30,11,8,9,Cota,m,147.66,APA/SNIRH
 2016,2016-04-30,12,10,3,Cota,m,568.5,APA/SNIRH
 2016,2016-04-30,12,10,3,Volume armazenado,dam3,38136,APA/SNIRH
 2016,2016-04-30,13,10,3,Cota,m,789.92,APA/SNIRH
@@ -16437,6 +16601,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-05-31,9,8,9,Volume armazenado,dam3,654,APA/SNIRH
 2016,2016-05-31,10,8,9,Cota,m,178.83,APA/SNIRH
 2016,2016-05-31,10,8,9,Volume armazenado,dam3,509,APA/SNIRH
+2016,2016-05-31,11,8,9,Cota,m,149.12,APA/SNIRH
 2016,2016-05-31,12,10,3,Cota,m,568.5,APA/SNIRH
 2016,2016-05-31,12,10,3,Volume armazenado,dam3,38136,APA/SNIRH
 2016,2016-05-31,14,11,8,Cota,m,258.34,APA/SNIRH
@@ -16497,6 +16662,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-06-30,9,8,9,Volume armazenado,dam3,604,APA/SNIRH
 2016,2016-06-30,10,8,9,Cota,m,178.66,APA/SNIRH
 2016,2016-06-30,10,8,9,Volume armazenado,dam3,483,APA/SNIRH
+2016,2016-06-30,11,8,9,Cota,m,148.68,APA/SNIRH
 2016,2016-06-30,12,10,3,Cota,m,568.4,APA/SNIRH
 2016,2016-06-30,12,10,3,Volume armazenado,dam3,37919,APA/SNIRH
 2016,2016-06-30,13,10,3,Cota,m,789.35,APA/SNIRH
@@ -16555,6 +16721,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-07-31,9,8,9,Volume armazenado,dam3,551,APA/SNIRH
 2016,2016-07-31,10,8,9,Cota,m,178.45,APA/SNIRH
 2016,2016-07-31,10,8,9,Volume armazenado,dam3,450,APA/SNIRH
+2016,2016-07-31,11,8,9,Cota,m,148.3,APA/SNIRH
 2016,2016-07-31,12,10,3,Cota,m,576.35,APA/SNIRH
 2016,2016-07-31,12,10,3,Volume armazenado,dam3,33625,APA/SNIRH
 2016,2016-07-31,13,10,3,Cota,m,787.8,APA/SNIRH
@@ -16609,6 +16776,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-08-31,9,8,9,Volume armazenado,dam3,495,APA/SNIRH
 2016,2016-08-31,10,8,9,Cota,m,178.23,APA/SNIRH
 2016,2016-08-31,10,8,9,Volume armazenado,dam3,415,APA/SNIRH
+2016,2016-08-31,11,8,9,Cota,m,147.89,APA/SNIRH
 2016,2016-08-31,12,10,3,Cota,m,564,APA/SNIRH
 2016,2016-08-31,12,10,3,Volume armazenado,dam3,29091,APA/SNIRH
 2016,2016-08-31,13,10,3,Cota,m,786.02,APA/SNIRH
@@ -16666,6 +16834,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-09-30,9,8,9,Volume armazenado,dam3,458,APA/SNIRH
 2016,2016-09-30,10,8,9,Cota,m,178.09,APA/SNIRH
 2016,2016-09-30,10,8,9,Volume armazenado,dam3,393,APA/SNIRH
+2016,2016-09-30,11,8,9,Cota,m,147.45,APA/SNIRH
 2016,2016-09-30,12,10,3,Cota,m,563.12,APA/SNIRH
 2016,2016-09-30,12,10,3,Volume armazenado,dam3,27494,APA/SNIRH
 2016,2016-09-30,14,11,8,Cota,m,255.45,APA/SNIRH
@@ -16723,6 +16892,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-10-31,9,8,9,Volume armazenado,dam3,463,APA/SNIRH
 2016,2016-10-31,10,8,9,Cota,m,178.07,APA/SNIRH
 2016,2016-10-31,10,8,9,Volume armazenado,dam3,390,APA/SNIRH
+2016,2016-10-31,11,8,9,Cota,m,147.45,APA/SNIRH
 2016,2016-10-31,12,10,3,Cota,m,561.65,APA/SNIRH
 2016,2016-10-31,12,10,3,Volume armazenado,dam3,24958,APA/SNIRH
 2016,2016-10-31,14,11,8,Cota,m,255.32,APA/SNIRH
@@ -16779,6 +16949,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-11-30,9,8,9,Volume armazenado,dam3,490,APA/SNIRH
 2016,2016-11-30,10,8,9,Cota,m,178.2,APA/SNIRH
 2016,2016-11-30,10,8,9,Volume armazenado,dam3,411,APA/SNIRH
+2016,2016-11-30,11,8,9,Cota,m,147.33,APA/SNIRH
 2016,2016-11-30,12,10,3,Cota,m,563.6,APA/SNIRH
 2016,2016-11-30,12,10,3,Volume armazenado,dam3,28359,APA/SNIRH
 2016,2016-11-30,14,11,8,Cota,m,255.5,APA/SNIRH
@@ -16834,6 +17005,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2016,2016-12-31,9,8,9,Volume armazenado,dam3,787,APA/SNIRH
 2016,2016-12-31,10,8,9,Cota,m,178.32,APA/SNIRH
 2016,2016-12-31,10,8,9,Volume armazenado,dam3,429,APA/SNIRH
+2016,2016-12-31,11,8,9,Cota,m,147.47,APA/SNIRH
 2016,2016-12-31,12,10,3,Cota,m,564.75,APA/SNIRH
 2016,2016-12-31,12,10,3,Volume armazenado,dam3,30493,APA/SNIRH
 2016,2016-12-31,14,11,8,Cota,m,255.67,APA/SNIRH
@@ -16890,6 +17062,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2017,2017-01-31,9,8,9,Volume armazenado,dam3,907,APA/SNIRH
 2017,2017-01-31,10,8,9,Cota,m,178.77,APA/SNIRH
 2017,2017-01-31,10,8,9,Volume armazenado,dam3,500,APA/SNIRH
+2017,2017-01-31,11,8,9,Cota,m,147.43,APA/SNIRH
 2017,2017-01-31,12,10,3,Cota,m,566,APA/SNIRH
 2017,2017-01-31,12,10,3,Volume armazenado,dam3,32923,APA/SNIRH
 2017,2017-01-31,14,11,8,Cota,m,255.75,APA/SNIRH
@@ -16945,6 +17118,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2017,2017-02-28,9,8,9,Volume armazenado,dam3,924,APA/SNIRH
 2017,2017-02-28,10,8,9,Cota,m,178.88,APA/SNIRH
 2017,2017-02-28,10,8,9,Volume armazenado,dam3,517,APA/SNIRH
+2017,2017-02-28,11,8,9,Cota,m,148.25,APA/SNIRH
 2017,2017-02-28,12,10,3,Cota,m,566.16,APA/SNIRH
 2017,2017-02-28,12,10,3,Volume armazenado,dam3,33243,APA/SNIRH
 2017,2017-02-28,13,10,3,Cota,m,788.87,APA/SNIRH
@@ -17003,6 +17177,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2017,2017-03-31,9,8,9,Volume armazenado,dam3,938,APA/SNIRH
 2017,2017-03-31,10,8,9,Cota,m,179.6,APA/SNIRH
 2017,2017-03-31,10,8,9,Volume armazenado,dam3,653,APA/SNIRH
+2017,2017-03-31,11,8,9,Cota,m,125,APA/SNIRH
 2017,2017-03-31,12,10,3,Cota,m,567.65,APA/SNIRH
 2017,2017-03-31,12,10,3,Volume armazenado,dam3,36310,APA/SNIRH
 2017,2017-03-31,13,10,3,Cota,m,789.2,APA/SNIRH
@@ -17060,6 +17235,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2017,2017-04-30,9,8,9,Volume armazenado,dam3,891,APA/SNIRH
 2017,2017-04-30,10,8,9,Cota,m,179.58,APA/SNIRH
 2017,2017-04-30,10,8,9,Volume armazenado,dam3,649,APA/SNIRH
+2017,2017-04-30,11,8,9,Cota,m,137.18,APA/SNIRH
 2017,2017-04-30,12,10,3,Cota,m,567.88,APA/SNIRH
 2017,2017-04-30,12,10,3,Volume armazenado,dam3,36799,APA/SNIRH
 2017,2017-04-30,13,10,3,Cota,m,789.06,APA/SNIRH
@@ -17100,6 +17276,7 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2017,2017-04-30,38,33,11,Cota,m,218.18,APA/SNIRH
 2017,2017-04-30,38,33,11,Volume armazenado,dam3,5652,APA/SNIRH
 2017,2017-05-16,3,4,7,Cota,m,27.38,APA/SNIRH
+2017,2017-05-24,11,8,9,Cota,m,125,APA/SNIRH
 2017,2017-05-26,16,17,11,Volume armazenado,dam3,7702,APA/SNIRH
 2017,2017-05-26,18,19,8,Volume armazenado,dam3,32160,APA/SNIRH
 2017,2017-05-30,17,18,2,Volume armazenado,dam3,48539,APA/SNIRH
@@ -36032,8 +36209,12 @@ Ano,Data,IDAlbufeira,IDAproveitamento,IDBacia,Indicador,Unidade,Valor,Fonte
 2026,2026-11-21,32,28,9,Cota,m,35.77,APA/SNIRH
 2026,2026-11-21,34,29,8,Cota,m,77.47,APA/SNIRH
 2026,2026-11-21,38,33,11,Cota,m,220.28,APA/SNIRH
-2026,2026-11-22,21,21,9,Cota,m,97.52,APA/SNIRH
+2026,2026-11-22,21,21,9,Cota,m,97.55,APA/SNIRH
 2026,2026-11-22,23,24,12,Cota,m,57.03,APA/SNIRH
-2026,2026-11-22,32,28,9,Cota,m,35.78,APA/SNIRH
-2026,2026-11-22,34,29,8,Cota,m,77.55,APA/SNIRH
-2026,2026-11-22,38,33,11,Cota,m,220.28,APA/SNIRH
+2026,2026-11-22,32,28,9,Cota,m,35.8,APA/SNIRH
+2026,2026-11-22,34,29,8,Cota,m,77.8,APA/SNIRH
+2026,2026-11-22,38,33,11,Cota,m,220.3,APA/SNIRH
+2026,2026-11-23,21,21,9,Cota,m,97.56,APA/SNIRH
+2026,2026-11-23,23,24,12,Cota,m,57.03,APA/SNIRH
+2026,2026-11-23,34,29,8,Cota,m,77.83,APA/SNIRH
+2026,2026-11-23,38,33,11,Cota,m,220.3,APA/SNIRH
