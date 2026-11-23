@@ -240,6 +240,16 @@ def pedir_snirh(site: str, par: str, de: date, ate: date) -> list[tuple[date, st
     return out
 
 
+def partir_em_blocos(de: date, ate: date, anos: int = 5) -> list[tuple[date, date]]:
+    """Pedidos grandes ao SNIRH dão HTTP 500; parte o intervalo em blocos de no máximo 5 anos."""
+    blocos = []
+    while de <= ate:
+        fim = min(date(de.year + anos, 1, 1) - timedelta(days=1), ate)
+        blocos.append((de, fim))
+        de = fim + timedelta(days=1)
+    return blocos
+
+
 def recolher_snirh(alb: dict, registo: list, agora: str, completo: bool, orcamento_min: float) -> bool:
     try:
         albufeiras = ler_albufeiras()
@@ -272,10 +282,8 @@ def recolher_snirh(alb: dict, registo: list, agora: str, completo: bool, orcamen
         site = str(a["SiteID_SNIRH"]).strip()
         for par, (ind, uni) in SNIRH_PARAMETROS.items():
             ult = ultima[(ida, ind)]
-            if completo or ult is None:
-                blocos = SNIRH_BLOCOS + [(date(2011, 1, 1), hoje)]
-            else:
-                blocos = [(ult - timedelta(days=10), hoje)]
+            inicio_pedido = date(1990, 1, 1) if (completo or ult is None) else ult - timedelta(days=10)
+            blocos = partir_em_blocos(inicio_pedido, hoje)
             pontos, erros = [], []
             for de, ate in blocos:
                 try:
