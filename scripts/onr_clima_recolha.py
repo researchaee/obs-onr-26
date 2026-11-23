@@ -26,6 +26,7 @@ import csv
 import glob
 import hashlib
 import io
+import json
 import os
 import re
 import shutil
@@ -50,9 +51,9 @@ IPMA_BASE = "https://api.ipma.pt/open-data/observation/climate/"
 IPMA_FICHEIROS = {
     "prec-p1d-continental-obssup-idw-concelhos-20d.csv": ["precipitation"],
     "t2m-p1d-continental-obssup-idw-concelhos-20d.csv": ["temperature"],
-    # O IPMA publica a ET0 com "20d" antes de "concelhos" (ao contrário da precipitação e da
-    # temperatura). O ficheiro com o nome antigo, "...-concelhos-20d.csv", parou a 19-06-2026.
-    "et0-p1d-continental-obssup-idw-20d-concelhos.csv": ["evapotranspiration"],
+    # Ficheiro aberto da ET0: parado desde 20-06-2026 (confirmado a 23-11-2026). Continua a ser lido
+    # para o caso de o IPMA o retomar; enquanto isso, a ET0 vem do mapa do site (recolher_et0_site).
+    "et0-p1d-continental-obssup-idw-concelhos-20d.csv": ["evapotranspiration"],
 }
 # coluna do CSV -> (indicador, unidade)
 IPMA_VARIAVEIS = {
@@ -62,7 +63,13 @@ IPMA_VARIAVEIS = {
     "mean_mint2m": ("Temperatura mínima", "°C"),
     "mean_et0": ("ET0", "mm"),
 }
-SOMA_MENSAL = {"Precipitação", "ET0"}  # restantes: média dos valores diários
+SOMA_MENSAL = {"Precipitação", "ET0"}
+
+# Mapa «Evapotranspiração (ET0) por concelho» do site do IPMA: últimos 7 dias, 278 concelhos, com o
+# código DICO. Os valores vêm escritos na própria página, em blocos «et0[k]= {"data": ..., "et0": [...]}».
+IPMA_ET0_SITE = "https://www.ipma.pt/pt/agrometeorologia/evapotranspiracao/index.jsp?page=index-geo-stations.jsp"
+MESES_PT = {"jan": 1, "fev": 2, "mar": 3, "abr": 4, "mai": 5, "jun": 6,
+            "jul": 7, "ago": 8, "set": 9, "out": 10, "nov": 11, "dez": 12}  # restantes: média dos valores diários
 
 SNIRH_URL = "https://snirh.apambiente.pt/snirh/_dadosbase/site/paraCSV/dados_csv.php"
 SNIRH_PARAMETROS = {
@@ -183,6 +190,52 @@ def recolher_ipma(diario: dict, registo: list, agora: str) -> bool:
             registo.append(dict(Momento=agora, Fonte="IPMA", Indicador=ficheiro, LinhasNovas=0,
                                 Estado="ERRO", Mensagem=str(e)[:300]))
     return ok_algum
+
+
+def ler_et0_site(html: str) -> list[tuple[date, str, str]]:
+    """Extrai (data, IDConcelho, ET0 em mm) dos blocos et0[k] da página do mapa de ET0."""
+    dec = json.JSONDecoder()
+    pontos = []
+    for m in re.finditer(r"et0\[\d+\]\s*=\s*(?=\{)", html):
+        bloco, _ = dec.raw_decode(html, m.end())
+        # «Dom, 22 Nov 2026»
+        partes = re.search(r"(\d{1,2})\s+([A-Za-zçÇ]{3})[a-zç]*\.?\s+(\d{4})", bloco["data"])
+        if not partes:
+            raise ValueError(f"data não reconhecida: {bloco['data']!r}")
+        d = date(int(partes.group(3)), MESES_PT[partes.group(2).lower()], int(partes.group(1)))
+        for item in bloco["et0"]:
+            valor = num(item.get("MEAN"))
+            if valor != "" and item.get("DICO"):
+                pontos.append((d, str(int(item["DICO"])), valor))
+    return pontos
+
+
+def recolher_et0_site(diario: dict, registo: list, agora: str) -> bool:
+    """ET0 a partir do mapa do site do IPMA. Não substitui valores que já existam (o ficheiro aberto tem prioridade)."""
+    nome = "ET0 (mapa do site do IPMA, últimos 7 dias)"
+    try:
+        pontos = ler_et0_site(get(IPMA_ET0_SITE).content.decode("utf-8"))
+        if not pontos:
+            raise RuntimeError("a página não trouxe nenhum valor de ET0 (o formato pode ter mudado)")
+    except Exception as e:
+        registo.append(dict(Momento=agora, Fonte="IPMA", Indicador=nome, LinhasNovas=0,
+                            Estado="ERRO", Mensagem=str(e)[:300]))
+        return False
+    novas = 0
+    for d, idc, valor in pontos:
+        chave = (d.isoformat(), idc, "ET0")
+        if chave in diario:
+            continue
+        diario[chave] = dict(Ano=d.year, Data=d.isoformat(), IDConcelho=idc, Indicador="ET0", Unidade="mm",
+                             Valor=valor, Dispersao="", Fonte="IPMA")
+        novas += 1
+    datas = [p[0] for p in pontos]
+    atraso = (date.today() - max(datas)).days
+    estado = "OK" if atraso <= DIAS_ATRASO_ALERTA else "ATRASO"
+    registo.append(dict(Momento=agora, Fonte="IPMA", Indicador=nome, LinhasNovas=novas,
+                        PeriodoDe=min(datas).isoformat(), PeriodoAte=max(datas).isoformat(), Estado=estado,
+                        Mensagem=None if estado == "OK" else f"último dia no mapa tem {atraso} dias"))
+    return True
 
 
 def compactar(diario: dict, mensal: dict, dias_ao_dia: int) -> int:
@@ -415,6 +468,7 @@ def main() -> int:
     ok_ipma = True
     if not args.so_snirh:
         ok_ipma = recolher_ipma(diario, registo, agora)
+        recolher_et0_site(diario, registo, agora)
         movidas = compactar(diario, mensal, args.dias_ao_dia)
         if movidas:
             registo.append(dict(Momento=agora, Fonte="ONR", Indicador="compactação diário → mensal",
