@@ -50,7 +50,9 @@ IPMA_BASE = "https://api.ipma.pt/open-data/observation/climate/"
 IPMA_FICHEIROS = {
     "prec-p1d-continental-obssup-idw-concelhos-20d.csv": ["precipitation"],
     "t2m-p1d-continental-obssup-idw-concelhos-20d.csv": ["temperature"],
-    "et0-p1d-continental-obssup-idw-concelhos-20d.csv": ["evapotranspiration", "et0", "evapotranspiracao"],
+    # O IPMA publica a ET0 com "20d" antes de "concelhos" (ao contrário da precipitação e da
+    # temperatura). O ficheiro com o nome antigo, "...-concelhos-20d.csv", parou a 19-06-2026.
+    "et0-p1d-continental-obssup-idw-20d-concelhos.csv": ["evapotranspiration"],
 }
 # coluna do CSV -> (indicador, unidade)
 IPMA_VARIAVEIS = {
